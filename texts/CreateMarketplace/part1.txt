@@ -1,0 +1,6 @@
+<speak>
+Hello DexKit Community
+
+Today I am gonna show you how to create your first nft marketplace. All this in few seconds. 
+</speak>
+

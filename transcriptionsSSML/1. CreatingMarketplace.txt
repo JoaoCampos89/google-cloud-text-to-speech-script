@@ -1,0 +1,28 @@
+<speak>
+	<par>
+		<media begin="4.500s">
+			<speak>did you know that you can create your nft Marketplace in the matter of seconds</speak>
+		</media>
+		<media begin="10.900s">
+			<speak> this is the link below in the description after you join in the website connect your wallet using metal mask or wallet connect</speak>
+		</media>
+		<media begin="24s">
+			<speak> after you did it feel the both spaces some blank with the requested information in first instance use your Marketplace name try to keep it short as long it will be your domain name and your people will recognize your marketplace with this name let's use this one</speak>
+		</media>
+		<media begin="50.200s">
+			<speak> and I'm the second instance you need to provide your email because you will be notified there we all the offerings you get</speak>
+		</media>
+		<media begin="65.200s">
+			<speak> click on create Marketplace</speak>
+		</media>
+		<media begin="69.100s">
+			<speak> seeing that you tele with your wallet this is a safe operation and done you created your first Marketplace click on view Marketplace</speak>
+		</media>
+		<media begin="84.400s">
+			<speak> and now you will enjoy all the customizations</speak>
+		</media>
+		<media begin="89.700s">
+			<speak> people dated with the next videos do know how to use each feature of this Marketplace and profit from it have a great day</speak>
+		</media>
+	</par>
+</speak>

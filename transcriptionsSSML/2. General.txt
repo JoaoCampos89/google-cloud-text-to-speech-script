@@ -1,0 +1,28 @@
+<speak>
+	<par>
+		<media begin="4.400s">
+			<speak>here in the general section you can change all the basic options for your Marketplace</speak>
+		</media>
+		<media begin="10.900s">
+			<speak> you can change your gang your name your email you can provide the logo as icon and change the languages and appearances at the moment we just enable English and USD as currency so we will be enabling more as long as people ask you don't hear let's click on Save and confirm</speak>
+		</media>
+		<media begin="37.200s">
+			<speak> let's check the domain section inside setting</speak>
+		</media>
+		<media begin="41.400s">
+			<speak> you see here at the main this will be blank for you you will need to provide here as in name pointing to your domain I will use this as long as I prepared this for this Marketplace this is the C name this is the domain and if you don't know how to create your cname in your domain check the video description for a video teaching you how to create a ceiling</speak>
+		</media>
+		<media begin="71.200s">
+			<speak> using Cloud slur click on Save confirm</speak>
+		</media>
+		<media begin="77.600s">
+			<speak> and let's go to the last section on the settings we will see here social part and you can feel here with your Instagram and Twitter handles you don't have anyone you can leave this like that or blank and those icons in the footer will disappear if you don't feel any one so this social part is related with this part so if we keep only Twitter</speak>
+		</media>
+		<media begin="107.600s">
+			<speak> Instagram icon will disappear safe</speak>
+		</media>
+		<media begin="111.900s">
+			<speak> and we finish in this setting section keep updated with the upcoming videos regarding all the customizations possible in this page</speak>
+		</media>
+	</par>
+</speak>

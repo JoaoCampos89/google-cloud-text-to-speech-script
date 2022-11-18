@@ -1,0 +1,250 @@
+<speak>
+	<par>
+		<media begin="5s">
+			<speak>on this section we will learn how to create a custom section for our homepage in the nft marketplace do you remember that it will last video we had some feature blocks here by default now we don't have them because we erase it to add a custom section on blank I will show you how to create and smart boosting section</speak>
+		</media>
+		<media begin="33.900s">
+			<speak> using the best practices</speak>
+		</media>
+		<media begin="38.900s">
+			<speak> click on the plus button in the middle of the editor now you will see at the left sideral blocks to add on your Marketplace but we can't start just like that because it will be an ugly magazine let's be honest let's make it from the way it should be let's start with the background we have a nice background</speak>
+		</media>
+		<media begin="68.700s">
+			<speak> round here in which we will put</speak>
+		</media>
+		<media begin="73.700s">
+			<speak> some callers on gradients we choose we choose a single color as well or if we choose an image we strengthen on URL</speak>
+		</media>
+		<media begin="86.400s">
+			<speak> we don't use this as a moment we will use a gradient color gradient colors are amazing and we can use perfectly for our needs</speak>
+		</media>
+		<media begin="97.500s">
+			<speak> I'm thinking to build on the homepage</speak>
+		</media>
+		<media begin="101.900s">
+			<speak> a custom section full of art auto-generated art so this I think it will fit amazing for our needs let me change a little discolored because I think this color with sweet better than we have a ground section save it let's keep it simple</speak>
+		</media>
+		<media begin="129.500s">
+			<speak> now we click again on the pencil and we enter in the custom page Edgar we see our background and now we will need to add more blocks inside the background</speak>
+		</media>
+		<media begin="145.300s">
+			<speak> let's add a text because we will need to welcome our people to the marketplace we need to give the people country to make them boy our Energies</speak>
+		</media>
+		<media begin="164.500s">
+			<speak> Welcome to our Wednesday Palace remember that place was called ourselves we were people using a heading 1</speak>
+		</media>
+		<media begin="175.700s">
+			<speak> let me place here a party guy</speak>
+		</media>
+		<media begin="179.800s">
+			<speak> and let me change this because we can change the colors for all the ones we can place</speak>
+		</media>
+		<media begin="190.100s">
+			<speak> yellow</speak>
+		</media>
+		<media begin="209.200s">
+			<speak> another color for this time</speak>
+		</media>
+		<media begin="225.500s">
+			<speak> what is a blue here</speak>
+		</media>
+		<media begin="233s">
+			<speak> you see that we can do with this section okay now let's add some entities right by single ones let's click on the Block button inside the background and electroscope some NFP Singularity here legal add blocks and at the right let's add another nft here watch this</speak>
+		</media>
+		<media begin="260.500s">
+			<speak> black line that must be aligned with the entity you're adding because it will be added somewhere and you will need to reorganize again</speak>
+		</media>
+		<media begin="271.200s">
+			<speak> so we have to re-enact ECM let's add another one because we have some and happy to share okay we have for annexed East but I think we don't have enough padding to make those anything looks enter it let's add a container click again on the close button let's go up the container</speak>
+		</media>
+		<media begin="293.200s">
+			<speak> Alex place it here and now it's my great power in it is inside the container to make them look well Center it as you can see I'm doing the same that I did before but now I'm adding the nxt's inside the container and the container is inside the background</speak>
+		</media>
+		<media begin="318s">
+			<speak> so we have an Inception here basically but if it is a good Inception because it makes our content looks great censor it let's add some nht's importing them click on the NXT</speak>
+		</media>
+		<media begin="334.400s">
+			<speak> you can add some collections choose the collection you have placed before or in for for each one let's import my polygon</speak>
+		</media>
+		<media begin="346.500s">
+			<speak> contract and dnf piece I wanted to show to you</speak>
+		</media>
+		<media begin="352.600s">
+			<speak> contract this is the first one</speak>
+		</media>
+		<media begin="361s">
+			<speak> let's grab again the contract here the same contract for his nephew will be the same click on import select Network contract address and the ID is</speak>
+		</media>
+		<media begin="377.400s">
+			<speak> let me</speak>
+		</media>
+		<media begin="380.100s">
+			<speak> check please</speak>
+		</media>
+		<media begin="384.600s">
+			<speak> from here is smarter because I don't have to</speak>
+		</media>
+		<media begin="388.500s">
+			<speak> copy it again please contact here yeah I d-- heard anything</speak>
+		</media>
+		<media begin="398.900s">
+			<speak> and is one of you ordered as well</speak>
+		</media>
+		<media begin="404.400s">
+			<speak> we're up here at the contract you can quickly</speak>
+		</media>
+		<media begin="409.700s">
+			<speak> polygon contract let me graph so let's add a spacer to make this look well organize it we add a spacer here will make it a little higher we are now a divider that is a little divider</speak>
+		</media>
+		<media begin="436.700s">
+			<speak> why not works very great let's add another spacer here and we take the same measure than the other one average make sure so we have a nice space here I will put here another container</speak>
+		</media>
+		<media begin="458.500s">
+			<speak> but this time I will put a container and I will put inside the container and stock and stock is a management buyout of children companies all over Tikal and horizontal axis so let's try this put inside this good a single entity inside this</speak>
+		</media>
+		<media begin="481.600s">
+			<speak> and we see that inside this start is even more eccentric than before let's place this entity here and let's Place Another energy here we will use the same contract that we are using for our Energies</speak>
+		</media>
+		<media begin="500.600s">
+			<speak> but in this case those are</speak>
+		</media>
+		<media begin="507.600s">
+			<speak> different images those are faces generated by artificial intelligence so let's do the same here with all the things we're trying to do replace the contract</speak>
+		</media>
+		<media begin="528.100s">
+			<speak> replace the ID</speak>
+		</media>
+		<media begin="532.200s">
+			<speak> how do we do this in here before we go and we look for the ivy on the other days</speak>
+		</media>
+		<media begin="543.800s">
+			<speak> let's go ahead sorry for the one for this contract we have it right now you see that in the first line we have four and a half piece here we have three those look here let's add some text</speak>
+		</media>
+		<media begin="568.500s">
+			<speak> and all the entities decent piece we can say you know this is not the text here</speak>
+		</media>
+		<media begin="598.100s">
+			<speak> what a great combination computers and robots</speak>
+		</media>
+		<media begin="602.800s">
+			<speak> and you think that's a great combination</speak>
+		</media>
+		<media begin="606.400s">
+			<speak> okay let's go to The Heading number two as long we got we use it I want you</speak>
+		</media>
+		<media begin="614.300s">
+			<speak> making faces</speak>
+		</media>
+		<media begin="616.600s">
+			<speak> now we are using another the spacer</speak>
+		</media>
+		<media begin="621.600s">
+			<speak> but this time I'm sorry this will get just on Teresita or click here and just window if you click it so don't get crazy right make this spacer let's put the divider that looks amazing</speak>
+		</media>
+		<media begin="656.700s">
+			<speak> now let's add a container</speak>
+		</media>
+		<media begin="661.200s">
+			<speak> now let's add start inside the container</speak>
+		</media>
+		<media begin="667.600s">
+			<speak> and now we will add a trading swap widget</speak>
+		</media>
+		<media begin="673.200s">
+			<speak> your clients will be able to trade directly their tokens from here you need to enable the tokens on the token section data section and the tokens that you enable your clients will be able to change it here and also in the trade page but here is fast place this here and</speak>
+		</media>
+		<media begin="699.800s">
+			<speak> maybe put another spacer here</speak>
+		</media>
+		<media begin="704.400s">
+			<speak> make it the same size to make it Loop</speak>
+		</media>
+		<media begin="709.900s">
+			<speak> similar divider here here</speak>
+		</media>
+		<media begin="718.500s">
+			<speak> let's make it a little bigger and let's put that Twitter timeline here what do you think about it</speak>
+		</media>
+		<media begin="727.400s">
+			<speak> Twitter</speak>
+		</media>
+		<media begin="730.100s">
+			<speak> your committee will review from these Twitter timeline</speak>
+		</media>
+		<media begin="735.600s">
+			<speak> you can check name here change the name and food</speak>
+		</media>
+		<media begin="742.100s">
+			<speak> what I'm thinking on Twitter what I'm thinking</speak>
+		</media>
+		<media begin="756s">
+			<speak> all right you can change the height here</speak>
+		</media>
+		<media begin="761.300s">
+			<speak> four</speak>
+		</media>
+		<media begin="763.400s">
+			<speak> Andre smaller</speak>
+		</media>
+		<media begin="767.900s">
+			<speak> and yes we have our Twitter feed but I don't like the sweet her feet I think</speak>
+		</media>
+		<media begin="781.500s">
+			<speak> your timeline</speak>
+		</media>
+		<media begin="784.100s">
+			<speak> and you can add another things interested that helps you</speak>
+		</media>
+		<media begin="793.400s">
+			<speak> to make a better Marketplace for you people in this case we can use here an image let's put an image and use an image that we have here</speak>
+		</media>
+		<media begin="806.100s">
+			<speak> in hour</speak>
+		</media>
+		<media begin="809.400s">
+			<speak> Marketplace</speak>
+		</media>
+		<media begin="811.600s">
+			<speak> which one would I use</speak>
+		</media>
+		<media begin="814.400s">
+			<speak> let's see which one we can use for this</speak>
+		</media>
+		<media begin="822.800s">
+			<speak> let's use this one what do you think</speak>
+		</media>
+		<media begin="826.100s">
+			<speak> yeah</speak>
+		</media>
+		<media begin="828s">
+			<speak> yes I have anything to do but</speak>
+		</media>
+		<media begin="831.800s">
+			<speak> it's just this paper glasses maybe that we need to Define</speak>
+		</media>
+		<media begin="842.400s">
+			<speak> so this is I meant I don't like it because it has run so let's change it let's put another I wish it would imagine because I like the colors of the mushroom</speak>
+		</media>
+		<media begin="856s">
+			<speak> this is the center now have it here</speak>
+		</media>
+		<media begin="863.400s">
+			<speak> we leak outside we had another spacer here above her and just try to make it stick</speak>
+		</media>
+		<media begin="877.700s">
+			<speak> hi let's put something ci3</speak>
+		</media>
+		<media begin="903.100s">
+			<speak> okay</speak>
+		</media>
+		<media begin="904.800s">
+			<speak> we have a basic structure of an NFL team Marketplace let's now save again save our section where our safe and now let's click on here we can see</speak>
+		</media>
+		<media begin="922.200s">
+			<speak> what we have at the moment our energy Market please tell me this is not amazing this is great I think with the explain it here in this video you can create a magnificent custom strange section and</speak>
+		</media>
+		<media begin="944s">
+			<speak> wait for the other video in word if I will explain to you the last step that is the deployment on the wheel seal and is the most easy part so I also want the most important if watching our videos and bye-bye</speak>
+		</media>
+	</par>
+</speak>

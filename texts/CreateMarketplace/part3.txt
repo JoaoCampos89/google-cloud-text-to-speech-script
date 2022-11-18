@@ -1,0 +1,6 @@
+<speak>
+
+Ok, now I am assuming you have an installed Metamask wallet. So let's go!
+
+</speak>
+

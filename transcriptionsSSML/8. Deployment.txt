@@ -1,0 +1,79 @@
+<speak>
+	<par>
+		<media begin="4.800s">
+			<speak>hey friend</speak>
+		</media>
+		<media begin="6.700s">
+			<speak> as a final step of our set of videos regarding the creation of your nft Marketplace</speak>
+		</media>
+		<media begin="15.900s">
+			<speak> this part is maybe the most important one because it will be the deployment or descending to production of our energy Marketplace in this place you need to serve through this direction y label hyphen NF T .x p.com is large fattening</speak>
+		</media>
+		<media begin="42.700s">
+			<speak> with your wallet connected and you will see the NFP Marketplace we created in the past videos now it's time to deploy you can do it in two ways clicking here in this bottom or going to the menu</speak>
+		</media>
+		<media begin="63.800s">
+			<speak> clicking on the menu and clicking on different let's do it in this way</speak>
+		</media>
+		<media begin="70.200s">
+			<speak> do you really want to deploy this domain yes we want let's sing</speak>
+		</media>
+		<media begin="78.700s">
+			<speak> n</speak>
+		</media>
+		<media begin="81.100s">
+			<speak> we see that the status is verified</speak>
+		</media>
+		<media begin="85.600s">
+			<speak> and the marketplace is now being sending to production we need to wait some minutes here</speak>
+		</media>
+		<media begin="99s">
+			<speak> let's go pee let's go to</speak>
+		</media>
+		<media begin="107.600s">
+			<speak> our Marketplace</speak>
+		</media>
+		<media begin="111.800s">
+			<speak> what did you think</speak>
+		</media>
+		<media begin="114.500s">
+			<speak> do you like it look how functional is this click on the nft</speak>
+		</media>
+		<media begin="122.900s">
+			<speak> you can play some offers there for my enfps</speak>
+		</media>
+		<media begin="131.300s">
+			<speak> let's go backwards</speak>
+		</media>
+		<media begin="135.100s">
+			<speak> please anything</speak>
+		</media>
+		<media begin="141.900s">
+			<speak> descriptions you can check the details</speak>
+		</media>
+		<media begin="151.200s">
+			<speak> and to celebrate one of the best part it's a great part is that you can</speak>
+		</media>
+		<media begin="160.900s">
+			<speak> boy coins here</speak>
+		</media>
+		<media begin="172.300s">
+			<speak> and</speak>
+		</media>
+		<media begin="174.900s">
+			<speak> basically you can also check your wallet</speak>
+		</media>
+		<media begin="180.100s">
+			<speak> and Rick as you can see</speak>
+		</media>
+		<media begin="183.800s">
+			<speak> and then the story lost your Marketplace have some history because I have other marketplaces</speak>
+		</media>
+		<media begin="193.200s">
+			<speak> and there we go I hope you like it and I hope I'll see you learn it how to create your Marketplace</speak>
+		</media>
+		<media begin="204s">
+			<speak> have a great day we night and people David</speak>
+		</media>
+	</par>
+</speak>

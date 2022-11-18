@@ -1,0 +1,6 @@
+<speak>
+
+You will have an assigned domain here, wait a bit to propagate before open it, typically 5 to 10 minutes.
+
+</speak>
+

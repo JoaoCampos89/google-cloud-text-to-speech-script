@@ -1,0 +1,16 @@
+<speak>
+	<par>
+		<media begin="4.500s">
+			<speak>here in the layout section you will find a search ocean team in where you will see all the default color combinations that next it in prepare for you in order to make you create quickly your Marketplace if you are in for another level of color to use to me Sation just click on custom at the end and select your colors</speak>
+		</media>
+		<media begin="33.600s">
+			<speak> and first sentence you will check your primary color on second the secondary the third one is the background and the fourth one is the text you can also choose the dark mode section in order to accentuate some things on black this is perfect for the people that spend a lot of time in the computers click on Save</speak>
+		</media>
+		<media begin="63.400s">
+			<speak> confirm with your wallet is ask</speak>
+		</media>
+		<media begin="67.100s">
+			<speak> and confirm here to click the say now you have selected the basic colors for your website keep updated and check the next video regarding page and customizations</speak>
+		</media>
+	</par>
+</speak>

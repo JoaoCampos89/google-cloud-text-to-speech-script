@@ -1,0 +1,6 @@
+<speak>
+
+Before start you need to have a Metamask wallet already installed, if you don't know how to do it, we have here a nice tutorial for it.
+
+</speak>
+

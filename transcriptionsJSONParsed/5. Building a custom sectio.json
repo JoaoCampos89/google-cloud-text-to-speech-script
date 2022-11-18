@@ -1,0 +1,494 @@
+[
+  {
+    "transcript": "on this section we will learn how to create a custom section for our homepage in the nft marketplace do you remember that it will last video we had some feature blocks here by default now we don't have them because we erase it to add a custom section on blank I will show you how to create and smart boosting section",
+    "confidence": 0.85310197,
+    "startTime": "5s",
+    "endTime": "33s"
+  },
+  {
+    "transcript": " using the best practices",
+    "confidence": 0.91283858,
+    "startTime": "33.900s",
+    "endTime": "35.900s"
+  },
+  {
+    "transcript": " click on the plus button in the middle of the editor now you will see at the left sideral blocks to add on your Marketplace but we can't start just like that because it will be an ugly magazine let's be honest let's make it from the way it should be let's start with the background we have a nice background",
+    "confidence": 0.82908809,
+    "startTime": "38.900s",
+    "endTime": "68.600s"
+  },
+  {
+    "transcript": " round here in which we will put",
+    "confidence": 0.85946453,
+    "startTime": "68.700s",
+    "endTime": "71.700s"
+  },
+  {
+    "transcript": " some callers on gradients we choose we choose a single color as well or if we choose an image we strengthen on URL",
+    "confidence": 0.8239699,
+    "startTime": "73.700s",
+    "endTime": "85.200s"
+  },
+  {
+    "transcript": " we don't use this as a moment we will use a gradient color gradient colors are amazing and we can use perfectly for our needs",
+    "confidence": 0.91283852,
+    "startTime": "86.400s",
+    "endTime": "96.100s"
+  },
+  {
+    "transcript": " I'm thinking to build on the homepage",
+    "confidence": 0.88495207,
+    "startTime": "97.500s",
+    "endTime": "100.600s"
+  },
+  {
+    "transcript": " a custom section full of art auto-generated art so this I think it will fit amazing for our needs let me change a little discolored because I think this color with sweet better than we have a ground section save it let's keep it simple",
+    "confidence": 0.91283834,
+    "startTime": "101.900s",
+    "endTime": "128.200s"
+  },
+  {
+    "transcript": " now we click again on the pencil and we enter in the custom page Edgar we see our background and now we will need to add more blocks inside the background",
+    "confidence": 0.80733782,
+    "startTime": "129.500s",
+    "endTime": "143.100s"
+  },
+  {
+    "transcript": " let's add a text because we will need to welcome our people to the marketplace we need to give the people country to make them boy our Energies",
+    "confidence": 0.85910094,
+    "startTime": "145.300s",
+    "endTime": "158.800s"
+  },
+  {
+    "transcript": " Welcome to our Wednesday Palace remember that place was called ourselves we were people using a heading 1",
+    "confidence": 0.7545135,
+    "startTime": "164.500s",
+    "endTime": "174s"
+  },
+  {
+    "transcript": " let me place here a party guy",
+    "confidence": 0.90050012,
+    "startTime": "175.700s",
+    "endTime": "177.700s"
+  },
+  {
+    "transcript": " and let me change this because we can change the colors for all the ones we can place",
+    "confidence": 0.85993105,
+    "startTime": "179.800s",
+    "endTime": "187.400s"
+  },
+  {
+    "transcript": " yellow",
+    "confidence": 0.55051857,
+    "startTime": "190.100s",
+    "endTime": "190.600s"
+  },
+  {
+    "transcript": " another color for this time",
+    "confidence": 0.91283858,
+    "startTime": "209.200s",
+    "endTime": "211s"
+  },
+  {
+    "transcript": " what is a blue here",
+    "confidence": 0.66030061,
+    "startTime": "225.500s",
+    "endTime": "227.100s"
+  },
+  {
+    "transcript": " you see that we can do with this section okay now let's add some entities right by single ones let's click on the Block button inside the background and electroscope some NFP Singularity here legal add blocks and at the right let's add another nft here watch this",
+    "confidence": 0.84153765,
+    "startTime": "233s",
+    "endTime": "259.200s"
+  },
+  {
+    "transcript": " black line that must be aligned with the entity you're adding because it will be added somewhere and you will need to reorganize again",
+    "confidence": 0.85060424,
+    "startTime": "260.500s",
+    "endTime": "269.800s"
+  },
+  {
+    "transcript": " so we have to re-enact ECM let's add another one because we have some and happy to share okay we have for annexed East but I think we don't have enough padding to make those anything looks enter it let's add a container click again on the close button let's go up the container",
+    "confidence": 0.80601603,
+    "startTime": "271.200s",
+    "endTime": "292.100s"
+  },
+  {
+    "transcript": " Alex place it here and now it's my great power in it is inside the container to make them look well Center it as you can see I'm doing the same that I did before but now I'm adding the nxt's inside the container and the container is inside the background",
+    "confidence": 0.86676168,
+    "startTime": "293.200s",
+    "endTime": "317.300s"
+  },
+  {
+    "transcript": " so we have an Inception here basically but if it is a good Inception because it makes our content looks great censor it let's add some nht's importing them click on the NXT",
+    "confidence": 0.83146191,
+    "startTime": "318s",
+    "endTime": "333.100s"
+  },
+  {
+    "transcript": " you can add some collections choose the collection you have placed before or in for for each one let's import my polygon",
+    "confidence": 0.82373834,
+    "startTime": "334.400s",
+    "endTime": "344.700s"
+  },
+  {
+    "transcript": " contract and dnf piece I wanted to show to you",
+    "confidence": 0.73708665,
+    "startTime": "346.500s",
+    "endTime": "351.200s"
+  },
+  {
+    "transcript": " contract this is the first one",
+    "confidence": 0.78828239,
+    "startTime": "352.600s",
+    "endTime": "354.800s"
+  },
+  {
+    "transcript": " let's grab again the contract here the same contract for his nephew will be the same click on import select Network contract address and the ID is",
+    "confidence": 0.89023805,
+    "startTime": "361s",
+    "endTime": "374.800s"
+  },
+  {
+    "transcript": " let me",
+    "confidence": 0.70749748,
+    "startTime": "377.400s",
+    "endTime": "378s"
+  },
+  {
+    "transcript": " check please",
+    "confidence": 0.76171446,
+    "startTime": "380.100s",
+    "endTime": "380.900s"
+  },
+  {
+    "transcript": " from here is smarter because I don't have to",
+    "confidence": 0.72827756,
+    "startTime": "384.600s",
+    "endTime": "387.100s"
+  },
+  {
+    "transcript": " copy it again please contact here yeah I d-- heard anything",
+    "confidence": 0.73803955,
+    "startTime": "388.500s",
+    "endTime": "396.100s"
+  },
+  {
+    "transcript": " and is one of you ordered as well",
+    "confidence": 0.80876076,
+    "startTime": "398.900s",
+    "endTime": "402.300s"
+  },
+  {
+    "transcript": " we're up here at the contract you can quickly",
+    "confidence": 0.72060126,
+    "startTime": "404.400s",
+    "endTime": "408.200s"
+  },
+  {
+    "transcript": " polygon contract let me graph so let's add a spacer to make this look well organize it we add a spacer here will make it a little higher we are now a divider that is a little divider",
+    "confidence": 0.83740246,
+    "startTime": "409.700s",
+    "endTime": "435.600s"
+  },
+  {
+    "transcript": " why not works very great let's add another spacer here and we take the same measure than the other one average make sure so we have a nice space here I will put here another container",
+    "confidence": 0.89655769,
+    "startTime": "436.700s",
+    "endTime": "457.100s"
+  },
+  {
+    "transcript": " but this time I will put a container and I will put inside the container and stock and stock is a management buyout of children companies all over Tikal and horizontal axis so let's try this put inside this good a single entity inside this",
+    "confidence": 0.81528962,
+    "startTime": "458.500s",
+    "endTime": "480.400s"
+  },
+  {
+    "transcript": " and we see that inside this start is even more eccentric than before let's place this entity here and let's Place Another energy here we will use the same contract that we are using for our Energies",
+    "confidence": 0.73868185,
+    "startTime": "481.600s",
+    "endTime": "499.100s"
+  },
+  {
+    "transcript": " but in this case those are",
+    "confidence": 0.91283852,
+    "startTime": "500.600s",
+    "endTime": "505.500s"
+  },
+  {
+    "transcript": " different images those are faces generated by artificial intelligence so let's do the same here with all the things we're trying to do replace the contract",
+    "confidence": 0.8364839,
+    "startTime": "507.600s",
+    "endTime": "526.600s"
+  },
+  {
+    "transcript": " replace the ID",
+    "confidence": 0.77937239,
+    "startTime": "528.100s",
+    "endTime": "530.600s"
+  },
+  {
+    "transcript": " how do we do this in here before we go and we look for the ivy on the other days",
+    "confidence": 0.80201852,
+    "startTime": "532.200s",
+    "endTime": "541.500s"
+  },
+  {
+    "transcript": " let's go ahead sorry for the one for this contract we have it right now you see that in the first line we have four and a half piece here we have three those look here let's add some text",
+    "confidence": 0.76823705,
+    "startTime": "543.800s",
+    "endTime": "567.300s"
+  },
+  {
+    "transcript": " and all the entities decent piece we can say you know this is not the text here",
+    "confidence": 0.762317,
+    "startTime": "568.500s",
+    "endTime": "581.500s"
+  },
+  {
+    "transcript": " what a great combination computers and robots",
+    "confidence": 0.8818959,
+    "startTime": "598.100s",
+    "endTime": "601.600s"
+  },
+  {
+    "transcript": " and you think that's a great combination",
+    "confidence": 0.8328473,
+    "startTime": "602.800s",
+    "endTime": "604.800s"
+  },
+  {
+    "transcript": " okay let's go to The Heading number two as long we got we use it I want you",
+    "confidence": 0.81468564,
+    "startTime": "606.400s",
+    "endTime": "612.500s"
+  },
+  {
+    "transcript": " making faces",
+    "confidence": 0.74583179,
+    "startTime": "614.300s",
+    "endTime": "615.400s"
+  },
+  {
+    "transcript": " now we are using another the spacer",
+    "confidence": 0.86909133,
+    "startTime": "616.600s",
+    "endTime": "619.200s"
+  },
+  {
+    "transcript": " but this time I'm sorry this will get just on Teresita or click here and just window if you click it so don't get crazy right make this spacer let's put the divider that looks amazing",
+    "confidence": 0.9076876,
+    "startTime": "621.600s",
+    "endTime": "647.300s"
+  },
+  {
+    "transcript": " now let's add a container",
+    "confidence": 0.91283858,
+    "startTime": "656.700s",
+    "endTime": "658.800s"
+  },
+  {
+    "transcript": " now let's add start inside the container",
+    "confidence": 0.80098575,
+    "startTime": "661.200s",
+    "endTime": "664.900s"
+  },
+  {
+    "transcript": " and now we will add a trading swap widget",
+    "confidence": 0.90513206,
+    "startTime": "667.600s",
+    "endTime": "672s"
+  },
+  {
+    "transcript": " your clients will be able to trade directly their tokens from here you need to enable the tokens on the token section data section and the tokens that you enable your clients will be able to change it here and also in the trade page but here is fast place this here and",
+    "confidence": 0.85774863,
+    "startTime": "673.200s",
+    "endTime": "698.800s"
+  },
+  {
+    "transcript": " maybe put another spacer here",
+    "confidence": 0.91283858,
+    "startTime": "699.800s",
+    "endTime": "703.100s"
+  },
+  {
+    "transcript": " make it the same size to make it Loop",
+    "confidence": 0.85886979,
+    "startTime": "704.400s",
+    "endTime": "708.300s"
+  },
+  {
+    "transcript": " similar divider here here",
+    "confidence": 0.89970487,
+    "startTime": "709.900s",
+    "endTime": "715.200s"
+  },
+  {
+    "transcript": " let's make it a little bigger and let's put that Twitter timeline here what do you think about it",
+    "confidence": 0.89640558,
+    "startTime": "718.500s",
+    "endTime": "725.400s"
+  },
+  {
+    "transcript": " Twitter",
+    "confidence": 0.91283858,
+    "startTime": "727.400s",
+    "endTime": "727.800s"
+  },
+  {
+    "transcript": " your committee will review from these Twitter timeline",
+    "confidence": 0.86345661,
+    "startTime": "730.100s",
+    "endTime": "733.500s"
+  },
+  {
+    "transcript": " you can check name here change the name and food",
+    "confidence": 0.8581481,
+    "startTime": "735.600s",
+    "endTime": "739.500s"
+  },
+  {
+    "transcript": " what I'm thinking on Twitter what I'm thinking",
+    "confidence": 0.86601627,
+    "startTime": "742.100s",
+    "endTime": "745.800s"
+  },
+  {
+    "transcript": " all right you can change the height here",
+    "confidence": 0.85622495,
+    "startTime": "756s",
+    "endTime": "758.800s"
+  },
+  {
+    "transcript": " four",
+    "confidence": 0.56645709,
+    "startTime": "761.300s",
+    "endTime": "761.800s"
+  },
+  {
+    "transcript": " Andre smaller",
+    "confidence": 0.74604738,
+    "startTime": "763.400s",
+    "endTime": "766.300s"
+  },
+  {
+    "transcript": " and yes we have our Twitter feed but I don't like the sweet her feet I think",
+    "confidence": 0.76095837,
+    "startTime": "767.900s",
+    "endTime": "772.800s"
+  },
+  {
+    "transcript": " your timeline",
+    "confidence": 0.90511096,
+    "startTime": "781.500s",
+    "endTime": "782.300s"
+  },
+  {
+    "transcript": " and you can add another things interested that helps you",
+    "confidence": 0.81914747,
+    "startTime": "784.100s",
+    "endTime": "790.900s"
+  },
+  {
+    "transcript": " to make a better Marketplace for you people in this case we can use here an image let's put an image and use an image that we have here",
+    "confidence": 0.83778363,
+    "startTime": "793.400s",
+    "endTime": "804.500s"
+  },
+  {
+    "transcript": " in hour",
+    "confidence": 0.71036422,
+    "startTime": "806.100s",
+    "endTime": "807s"
+  },
+  {
+    "transcript": " Marketplace",
+    "confidence": 0.91283858,
+    "startTime": "809.400s",
+    "endTime": "810.200s"
+  },
+  {
+    "transcript": " which one would I use",
+    "confidence": 0.70020282,
+    "startTime": "811.600s",
+    "endTime": "813s"
+  },
+  {
+    "transcript": " let's see which one we can use for this",
+    "confidence": 0.91283852,
+    "startTime": "814.400s",
+    "endTime": "817.600s"
+  },
+  {
+    "transcript": " let's use this one what do you think",
+    "confidence": 0.91283852,
+    "startTime": "822.800s",
+    "endTime": "824.800s"
+  },
+  {
+    "transcript": " yeah",
+    "confidence": 0.91283858,
+    "startTime": "826.100s",
+    "endTime": "826.600s"
+  },
+  {
+    "transcript": " yes I have anything to do but",
+    "confidence": 0.82448566,
+    "startTime": "828s",
+    "endTime": "829.800s"
+  },
+  {
+    "transcript": " it's just this paper glasses maybe that we need to Define",
+    "confidence": 0.80146295,
+    "startTime": "831.800s",
+    "endTime": "838.200s"
+  },
+  {
+    "transcript": " so this is I meant I don't like it because it has run so let's change it let's put another I wish it would imagine because I like the colors of the mushroom",
+    "confidence": 0.79969066,
+    "startTime": "842.400s",
+    "endTime": "854.700s"
+  },
+  {
+    "transcript": " this is the center now have it here",
+    "confidence": 0.89705902,
+    "startTime": "856s",
+    "endTime": "858.900s"
+  },
+  {
+    "transcript": " we leak outside we had another spacer here above her and just try to make it stick",
+    "confidence": 0.74703646,
+    "startTime": "863.400s",
+    "endTime": "875.300s"
+  },
+  {
+    "transcript": " hi let's put something ci3",
+    "confidence": 0.88035452,
+    "startTime": "877.700s",
+    "endTime": "879.900s"
+  },
+  {
+    "transcript": " okay",
+    "confidence": 0.73330826,
+    "startTime": "903.100s",
+    "endTime": "903.600s"
+  },
+  {
+    "transcript": " we have a basic structure of an NFL team Marketplace let's now save again save our section where our safe and now let's click on here we can see",
+    "confidence": 0.78473437,
+    "startTime": "904.800s",
+    "endTime": "920.600s"
+  },
+  {
+    "transcript": " what we have at the moment our energy Market please tell me this is not amazing this is great I think with the explain it here in this video you can create a magnificent custom strange section and",
+    "confidence": 0.82701117,
+    "startTime": "922.200s",
+    "endTime": "941.900s"
+  },
+  {
+    "transcript": " wait for the other video in word if I will explain to you the last step that is the deployment on the wheel seal and is the most easy part so I also want the most important if watching our videos and bye-bye",
+    "confidence": 0.74027085,
+    "startTime": "944s",
+    "endTime": "965.300s"
+  }
+]

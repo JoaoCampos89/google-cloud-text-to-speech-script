@@ -1,0 +1,19 @@
+{
+  "name": "google-cloud-text-to-speech-script",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/JoaoCampos89/google-cloud-text-to-speech-script",
+  "author": "JoaoCampos89 <jcampos893@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "convert-file-to-audio": "node scripts/index.js",
+    "convert-file-to-audio-2": "node scripts/index2.js",
+    "convert-transcriptions-to-audio": "node scripts/convertTranscriptionsToSpeech.js",
+    "parse-transcripted-files": "node scripts/parseTranscriptions.js",
+    "convert-transcripted-files-to-ssml": "node scripts/convertTranscriptionsSSML.js"
+  },
+  "dependencies": {
+    "@google-cloud/speech": "^5.1.0",
+    "@google-cloud/text-to-speech": "^4.0.4"
+  }
+}

@@ -1,0 +1,26 @@
+<speak>
+Hello DexKit Community
+
+Today I am gonna show you how to create your first nft marketplace. All this in few seconds. 
+
+Before start you need to have a Metamask wallet already installed, if you don't know how to do it, we have here a nice tutorial for it.
+
+Ok, now I am assuming you have an installed Metamask wallet. So let's go!
+
+
+Open this link below: whitelabel-nft.dexkit.com/admin/setup
+<break time="1000ms"/>
+
+Now fill the name you want for your marketplace. Let's start here with my awesome marketplace.
+<break time="7000ms"/>
+Now we fill an email, this email is used to receive notifications from DexKit team.
+
+After filling these two fields, you just type on button create marketplace.
+
+It will ask you now to login to DexKit app, note that this login it will last 24 hours.
+<break time="1000ms"/>
+Sign and <break time="1000ms"/> <emphasis level="strong">voila you have you new awesome marketplace!</emphasis> You will have an assigned domain here, wait a bit to propagate before open it, typically 5 to 10 minutes.
+
+And that's it. Thanks for Watching!
+</speak>
+

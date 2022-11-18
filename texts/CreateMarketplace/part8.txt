@@ -1,0 +1,6 @@
+<speak>
+
+It will ask you now to login to DexKit app, note that this login it will last 24 hours.
+
+</speak>
+

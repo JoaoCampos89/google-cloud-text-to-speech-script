@@ -1,0 +1,17 @@
+A tool like no other. This is how we describe the DexKit Marketplace, our latest development in decentralized finance. A tool fully oriented to entrepreneurship of all kinds of digital artists.
+
+This tool contains the best of both web2 and web3 worlds: it has been developed with state-of-the-art technology [show logos of all the technologies used], it’s open source [caption to Github’s repo link in the video description ] and fully connected to web3. This means that users will need to connect their wallets in Metamask or Trust Wallet to make offers and exchange other tokens, but nobody needs to connect a web3 to see and enjoy  the cool NFTs that the creators have arranged.
+
+This has been intended for those who have clients who are unfamiliar with decentralized finance and would like to help them get started with it.
+
+Creators will be able to deploy their NFT marketplace and showcase their content from Ethereum, Polygon, Binance Chain, Fantom, Avalanche and Optimism networks (Arbitrum expected very soon) within the same context or site.
+
+The DexKit NFT marketplace will also have an optional built-in token trading widget! This widget will also give you earnings from their community's trading operations, and will help you promote your token.
+
+In case your ideas aren’t covered by all the public tools that DexKit provides, this service can be fitted in a custom way to institutional and private clients. At DexKit, we'd love to hear all kinds of ideas to help our customers develop them.
+
+Being an open source tool, DexKit has decided to keep the repository open on Github after Alpha release. So advanced creators and developers can fork and use it and also contribute to the continuous improvement of the repository. 
+
+However, the Whitelabel NFT marketplace wizard will have a low maintenance cost that can be paid monthly or annually, so the team can ensure that it will always be online and will have constant updates.
+
+Keep up to date through our communication channels so you know all the details of this tool: how to use it to the fullest and start profiting. 

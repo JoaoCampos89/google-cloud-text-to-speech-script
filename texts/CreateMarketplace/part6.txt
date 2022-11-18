@@ -1,0 +1,6 @@
+<speak>
+
+Now we fill an email, this email is used to receive notifications from DexKit team.
+
+</speak>
+
