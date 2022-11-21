@@ -1,0 +1,88 @@
+<speak>
+	<par>
+		<media begin="5s">
+			<speak>on this section we will learn how to create a custom section for our homepage in the nft marketplace wizard. Do you remember that in our last video we had some default blocks here? now we don't have them because we erase it to add a custom section on blank. I will show you how to create and smart custom section</speak>
+		</media>
+		<media begin="33.900s">
+			<speak> using the best practices</speak>
+		</media>
+		<media begin="38.900s">
+			<speak> click on the plus button in the middle of the editor. Now you will see at the left several blocks to add on your Marketplace but we can't start just like that because it will be an ugly marketplace. let's be honest. let's make in the way it should be. let's start with the background. we have a nice background</speak>
+		</media>
+		<media begin="68.700s">
+			<speak> here. We can place</speak>
+		</media>
+		<media begin="73.700s">
+			<speak> some colors or gradients. We choose a single color as well or if we choose an image we should provide the URL</speak>
+		</media>
+		<media begin="86.400s">
+			<speak> we wouldn't use this as a moment. We will use a gradient color because are amazing and fits perfectly for our needs</speak>
+		</media>
+		<media begin="97.500s">
+			<speak> I'm thinking to build on the homepage</speak>
+		</media>
+		<media begin="101.900s">
+			<speak> a custom section full of auto-generated art so I think this will fit amazing. Let me change here some colors because I think this color with suit better than this we have now. Save it. let's keep it simple</speak>
+		</media>
+		<media begin="129.500s">
+			<speak> now we click again on the pencil and we enter in the custom page editor, we see our background and now we will need to add more blocks inside the background</speak>
+		</media>
+		<media begin="145.300s">
+			<speak> let's add a text block because we will need to welcome our people to the marketplace. We need to make the people feel comfy to make them buy our NFTs.</speak>
+		</media>
+		<media begin="164.500s">
+			<speak> Welcome to our NFT Palace.</speak>
+		</media>
+		<media begin="175.700s">
+			<speak> Let me put here a party emoji</speak>
+		</media>
+		<media begin="179.800s">
+			<speak> and let me change this because we can change the colors for other ones</speak>
+		</media>
+		<media begin="190.100s">
+			<speak> Maybe yellow</speak>
+		</media>
+		<media begin="209.200s">
+			<speak> or a green one</speak>
+		</media>
+		<media begin="225.500s">
+			<speak> Maybe a blue here</speak>
+		</media>
+		<media begin="233s">
+			<speak> did you saw what can we do with this section? okay now let's add some NFTs by single ones. Let's click on the Block button inside the background and select single NFT here. Add blocks at the right let's add another nft here. Watch this</speak>
+		</media>
+		<media begin="260.500s">
+			<speak> black line that must be aligned with the NFT you're adding because if you miss it will be added somewhere and you will need to reorganize again</speak>
+		</media>
+		<media begin="271.200s">
+			<speak> so we have the NFTs here and lets add another one because we have some NFTs to share. Okay we have four NFTs but I think we don't have enough padding to make those NFTS looks centered. Let's add a container click again on the close button let's select the container</speak>
+		</media>
+		<media begin="293.200s">
+			<speak> and let's place it here and now let's migrate our NFTs inside the container to make them look well Centered as you can see I'm doing the same that I did before but now I'm adding the nFTs inside the container and the container is inside the background</speak>
+		</media>
+		<media begin="318s">
+			<speak> so we have an Inception here basically but if it is a good Inception because it makes our content looks great centered. let's add some nfts importing them click on the NFT</speak>
+		</media>
+		<media begin="334.400s">
+			<speak> you can add some collections, choose the collection you have placed before or use the import option for each one let's import from Polygon</speak>
+		</media>
+		<media begin="346.500s">
+			<speak> contract and the NFTs I wanted to show to you</speak>
+		</media>
+		<media begin="352.600s">
+			<speak> This contract is the first one</speak>
+		</media>
+		<media begin="361s">
+			<speak> let's grab again the contract here. Is the same contract for this NFT . Click on import, select Network, contract address and the ID is</speak>
+		</media>
+		<media begin="377.400s">
+			<speak> let me</speak>
+		</media>
+		<media begin="380.100s">
+			<speak> check this</speak>
+		</media>
+		<media begin="409.700s">
+			<speak> let's add a spacer to make this look well organized. If we add a spacer here we make it a little taller. We have now a little divider</speak>
+		</media>
+	</par>
+</speak>

@@ -1,43 +1,43 @@
 <speak>
 	<par>
 		<media begin="4.800s">
-			<speak>in the layout section Pages option you will see some blocks by default place it there by the exit team in order to provide you a quick way to finish your Marketplace and test with some elements let's click on create view in order you can see</speak>
+			<speak>in the layout section, pages option, you will see some blocks by default sat in there by DexKit's team. Let's click on preview in order you can see</speak>
 		</media>
 		<media begin="31s">
-			<speak> the default version of this Marketplace these are all default locks that we can see here features collections video and call to action on the feature</speak>
+			<speak> the default version of this Marketplace. These are all default blocks. We can see here featured collections, video and call to action block as well</speak>
 		</media>
 		<media begin="43.900s">
-			<speak> you can change the title and the assets that are you showing in that section</speak>
+			<speak> you can change the title and the assets in that section</speak>
 		</media>
 		<media begin="53.300s">
-			<speak> this section is the feature one you can place their more any fees change the name and add yours</speak>
+			<speak> this section is the featured one. You can place here more NFTs, change the name and add yours</speak>
 		</media>
 		<media begin="64.300s">
-			<speak> in the collection sections</speak>
+			<speak> in the collections section</speak>
 		</media>
 		<media begin="67.500s">
-			<speak> this is another Block in you will be able to boot the collections</speak>
+			<speak> this is another block. Here you will be able to display the collections</speak>
 		</media>
 		<media begin="75s">
-			<speak> ink networks here we are displaying Kitty got you our NSP pet leaving the polygon smart chains and a theorem Netflix you can remove it or edit it and place your contracts and options for collections click on cancel because we won't do any change in this section is the video one video</speak>
+			<speak> in the supported networks. These are Kittygotchy, our NFT pets living on Polygon, Smart chains and Ethereum networks. You can remove it or edit it and place your contracts and options for collections. Click on cancel because we won't do any change. In this section is the video</speak>
 		</media>
 		<media begin="104.900s">
 			<speak> you will be able to put</speak>
 		</media>
 		<media begin="108.500s">
-			<speak> a link for any you to be video so you can display it as showing in the preview here</speak>
+			<speak> a link for any Youtube video so you can display it as we show here</speak>
 		</media>
 		<media begin="118.400s">
-			<speak> it will look like this you see that and the last section here is the CPA or Cal to action that is totally customizable boat that will need new clients to another place outside your website also you can show some and exit nft assets here and let's see how it looks</speak>
+			<speak> it will look like this. And, the last section, it's related to a CTA or Call to action: customizable section with button that may help you to send your clients to another place outside your website. Also you can show some nft assets here and let's see how it looks</speak>
 		</media>
 		<media begin="148.800s">
-			<speak> looks nice</speak>
+			<speak> Let's see</speak>
 		</media>
 		<media begin="152.100s">
-			<speak> he looks tcga is the bottom tab will lead your clients to Another Place Another Marketplace or you social places or anything you want so we finish here we default blocks in the next video you will learn how to use a custom section to create</speak>
+			<speak> how it looks like. The CTA here is the button tab will lead your clients to Another Place, Another Marketplace or you social places or anything you want. So we finish here with the default blocks. In the next video you will learn how to use a custom section to create</speak>
 		</media>
 		<media begin="179.900s">
-			<speak> a better and ft Marketplace</speak>
+			<speak> a better NFT Marketplace.</speak>
 		</media>
 	</par>
 </speak>

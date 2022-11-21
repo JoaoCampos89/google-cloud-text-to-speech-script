@@ -1,0 +1,10 @@
+<speak>
+	<par>
+		<media begin="922.200s">
+			<speak> what we have at the moment in our NFT Marketplace. This is looking great. I think with all the things explained here in this video you can create a magnificent custom section and</speak>
+		</media>
+		<media begin="944s">
+			<speak> wait for the other video in where i will explain to you the last step that is the deployment on Vercel is the most easy part but one of the most important, Keep watching our videos and bye-bye</speak>
+		</media>
+	</par>
+</speak>
