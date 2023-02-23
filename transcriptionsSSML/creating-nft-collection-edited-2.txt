@@ -1,0 +1,61 @@
+<speak>
+	<par>
+		<media begin="0s">
+			<speak> let's add another NFT</speak>
+		</media>
+		<media begin="3.8s">
+			<speak> basic in the description we have</speak>
+		</media>
+		<media begin="8.4s">
+			<speak> the quantity will be one and the name will be the name we have here Kato the cricket</speak>
+		</media>
+		<media begin="24.1s">
+			<speak> let's click here and copy the description</speak>
+		</media>
+		<media begin="32.9s">
+			<speak> and we will keep the attributes blank as well let's generate this image let's see</speak>
+		</media>
+		<media begin="48.4s">
+			<speak> okay now that our population is finished we can just go to create nxt's click on the blue button</speak>
+		</media>
+		<media begin="60.1s">
+			<speak> and confirm with the prompt</speak>
+		</media>
+		<media begin="66s">
+			<speak> you will be asked again in your wallet</speak>
+		</media>
+		<media begin="70.5s">
+			<speak> and you will need to accept this will be</speak>
+		</media>
+		<media begin="74.9s">
+			<speak> cost use Magic</speak>
+		</media>
+		<media begin="77.5s">
+			<speak> and you will have your amazing collection</speak>
+		</media>
+		<media begin="429.900s">
+			<speak> please don't close this window until you finish now we have our nft collection created let's see</speak>
+		</media>
+		<media begin="83.4s">
+			<speak> how looks</speak>
+		</media>
+		<media begin="99.5s">
+			<speak> are we running this</speak>
+		</media>
+		<media begin="110.3s">
+			<speak> you can see</speak>
+		</media>
+		<media begin="112.5s">
+			<speak> we have the description, we have details and we have the contract address. We minted this collection on Polygon Testnet, but you can mint yours in Polygon mainnet as well and sell your collectibles anywhere.</speak>
+		</media>
+		<media begin="134.1s">
+			<speak> let's see the other NFT looks</speak>
+		</media>
+		<media begin="143.5s">
+			<speak> Amazing job!</speak>
+		</media>
+		<media begin="145.9s">
+			<speak> you learned how to create your NFT collection with the newest DexKit tool. Thank you for viewing this video and do not forget to like and subscribe to our channel.</speak>
+		</media>
+	</par>
+</speak>

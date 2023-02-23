@@ -6,6 +6,11 @@ async function quickStart() {
   // The text to synthesize
   fs.readdir("./transcriptionsJSONParsed", (err, files) => {
     files.forEach(async (file) => {
+      if (!file.endsWith(".json")) {
+        console.log(file);
+        return;
+      }
+
       const text = fs.readFileSync(`./transcriptionsJSONParsed/${file}`);
       const transcriptions = JSON.parse(text);
       let ssml = "<speak>\n\t<par>";

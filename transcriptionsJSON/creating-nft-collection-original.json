@@ -1,0 +1,4509 @@
+{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "confidence": 0.77309537,
+          "transcript": "hello I will show you today how to create an energy collection using a I only by the exit you need to go on first instance to decide decide will be",
+          "words": [
+            {
+              "endTime": "0.800s",
+              "startTime": "0.200s",
+              "word": "hello"
+            },
+            {
+              "endTime": "1.900s",
+              "startTime": "1.800s",
+              "word": "I"
+            },
+            {
+              "endTime": "2.100s",
+              "startTime": "1.900s",
+              "word": "will"
+            },
+            {
+              "endTime": "2.500s",
+              "startTime": "2.100s",
+              "word": "show"
+            },
+            {
+              "endTime": "2.700s",
+              "startTime": "2.500s",
+              "word": "you"
+            },
+            {
+              "endTime": "3.300s",
+              "startTime": "2.700s",
+              "word": "today"
+            },
+            {
+              "endTime": "3.700s",
+              "startTime": "3.400s",
+              "word": "how"
+            },
+            {
+              "endTime": "3.900s",
+              "startTime": "3.700s",
+              "word": "to"
+            },
+            {
+              "endTime": "4.600s",
+              "startTime": "3.900s",
+              "word": "create"
+            },
+            {
+              "endTime": "5.100s",
+              "startTime": "4.700s",
+              "word": "an"
+            },
+            {
+              "endTime": "6s",
+              "startTime": "5.200s",
+              "word": "energy"
+            },
+            {
+              "endTime": "6.800s",
+              "startTime": "6s",
+              "word": "collection"
+            },
+            {
+              "endTime": "7.500s",
+              "startTime": "6.800s",
+              "word": "using"
+            },
+            {
+              "endTime": "8.100s",
+              "startTime": "7.600s",
+              "word": "a"
+            },
+            {
+              "endTime": "8.600s",
+              "startTime": "8.300s",
+              "word": "I"
+            },
+            {
+              "endTime": "10.100s",
+              "startTime": "9.500s",
+              "word": "only"
+            },
+            {
+              "endTime": "10.800s",
+              "startTime": "10.600s",
+              "word": "by"
+            },
+            {
+              "endTime": "10.900s",
+              "startTime": "10.800s",
+              "word": "the"
+            },
+            {
+              "endTime": "11.500s",
+              "startTime": "10.900s",
+              "word": "exit"
+            },
+            {
+              "endTime": "13s",
+              "startTime": "12.900s",
+              "word": "you"
+            },
+            {
+              "endTime": "13.300s",
+              "startTime": "13s",
+              "word": "need"
+            },
+            {
+              "endTime": "13.400s",
+              "startTime": "13.300s",
+              "word": "to"
+            },
+            {
+              "endTime": "13.900s",
+              "startTime": "13.400s",
+              "word": "go"
+            },
+            {
+              "endTime": "14.600s",
+              "startTime": "14.400s",
+              "word": "on"
+            },
+            {
+              "endTime": "15s",
+              "startTime": "14.600s",
+              "word": "first"
+            },
+            {
+              "endTime": "15.800s",
+              "startTime": "15s",
+              "word": "instance"
+            },
+            {
+              "endTime": "16.500s",
+              "startTime": "16.300s",
+              "word": "to"
+            },
+            {
+              "endTime": "17.300s",
+              "startTime": "16.500s",
+              "word": "decide"
+            },
+            {
+              "endTime": "18.700s",
+              "startTime": "18s",
+              "word": "decide"
+            },
+            {
+              "endTime": "19.700s",
+              "startTime": "19.400s",
+              "word": "will"
+            },
+            {
+              "endTime": "20.100s",
+              "startTime": "19.700s",
+              "word": "be"
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "20.580s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.79023844,
+          "transcript": " in the description of this video you'll be the first link",
+          "words": [
+            {
+              "endTime": "21.400s",
+              "startTime": "21.200s",
+              "word": "in"
+            },
+            {
+              "endTime": "21.500s",
+              "startTime": "21.400s",
+              "word": "the"
+            },
+            {
+              "endTime": "22.200s",
+              "startTime": "21.500s",
+              "word": "description"
+            },
+            {
+              "endTime": "22.500s",
+              "startTime": "22.200s",
+              "word": "of"
+            },
+            {
+              "endTime": "22.800s",
+              "startTime": "22.500s",
+              "word": "this"
+            },
+            {
+              "endTime": "23.400s",
+              "startTime": "22.800s",
+              "word": "video"
+            },
+            {
+              "endTime": "24.100s",
+              "startTime": "23.900s",
+              "word": "you'll"
+            },
+            {
+              "endTime": "24.400s",
+              "startTime": "24.100s",
+              "word": "be"
+            },
+            {
+              "endTime": "24.800s",
+              "startTime": "24.700s",
+              "word": "the"
+            },
+            {
+              "endTime": "25.200s",
+              "startTime": "24.800s",
+              "word": "first"
+            },
+            {
+              "endTime": "25.600s",
+              "startTime": "25.200s",
+              "word": "link"
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "26s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.91283858,
+          "transcript": " inside the website you will need to connect your wallet",
+          "words": [
+            {
+              "endTime": "28s",
+              "startTime": "27.300s",
+              "word": "inside"
+            },
+            {
+              "endTime": "28.900s",
+              "startTime": "28.800s",
+              "word": "the"
+            },
+            {
+              "endTime": "29.700s",
+              "startTime": "28.900s",
+              "word": "website"
+            },
+            {
+              "endTime": "30.800s",
+              "startTime": "30.600s",
+              "word": "you"
+            },
+            {
+              "endTime": "31s",
+              "startTime": "30.800s",
+              "word": "will"
+            },
+            {
+              "endTime": "31.400s",
+              "startTime": "31s",
+              "word": "need"
+            },
+            {
+              "endTime": "31.800s",
+              "startTime": "31.400s",
+              "word": "to"
+            },
+            {
+              "endTime": "32.900s",
+              "startTime": "32.300s",
+              "word": "connect"
+            },
+            {
+              "endTime": "33s",
+              "startTime": "32.900s",
+              "word": "your"
+            },
+            {
+              "endTime": "33.600s",
+              "startTime": "33s",
+              "word": "wallet"
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "33.900s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.79852569,
+          "transcript": " you're slick in the Kinect Wallach bottom",
+          "words": [
+            {
+              "endTime": "34.800s",
+              "startTime": "34.600s",
+              "word": "you're"
+            },
+            {
+              "endTime": "35.500s",
+              "startTime": "34.800s",
+              "word": "slick"
+            },
+            {
+              "endTime": "35.800s",
+              "startTime": "35.700s",
+              "word": "in"
+            },
+            {
+              "endTime": "36s",
+              "startTime": "35.800s",
+              "word": "the"
+            },
+            {
+              "endTime": "36.400s",
+              "startTime": "36s",
+              "word": "Kinect"
+            },
+            {
+              "endTime": "36.800s",
+              "startTime": "36.400s",
+              "word": "Wallach"
+            },
+            {
+              "endTime": "37.300s",
+              "startTime": "36.800s",
+              "word": "bottom"
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "37.580s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.91283864,
+          "transcript": " and choose your broker wallet in this case I will use meta bisque",
+          "words": [
+            {
+              "endTime": "39.100s",
+              "startTime": "38.800s",
+              "word": "and"
+            },
+            {
+              "endTime": "39.700s",
+              "startTime": "39.100s",
+              "word": "choose"
+            },
+            {
+              "endTime": "40.200s",
+              "startTime": "39.900s",
+              "word": "your"
+            },
+            {
+              "endTime": "40.700s",
+              "startTime": "40.200s",
+              "word": "broker"
+            },
+            {
+              "endTime": "41.400s",
+              "startTime": "40.700s",
+              "word": "wallet"
+            },
+            {
+              "endTime": "41.600s",
+              "startTime": "41.500s",
+              "word": "in"
+            },
+            {
+              "endTime": "41.900s",
+              "startTime": "41.600s",
+              "word": "this"
+            },
+            {
+              "endTime": "42.400s",
+              "startTime": "41.900s",
+              "word": "case"
+            },
+            {
+              "endTime": "42.700s",
+              "startTime": "42.600s",
+              "word": "I"
+            },
+            {
+              "endTime": "42.900s",
+              "startTime": "42.700s",
+              "word": "will"
+            },
+            {
+              "endTime": "43.400s",
+              "startTime": "42.900s",
+              "word": "use"
+            },
+            {
+              "endTime": "44.200s",
+              "startTime": "43.800s",
+              "word": "meta"
+            },
+            {
+              "endTime": "44.800s",
+              "startTime": "44.200s",
+              "word": "bisque"
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "45.010s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.79951638,
+          "transcript": " you can see here I have three collections that I created before",
+          "words": [
+            {
+              "endTime": "47s",
+              "startTime": "46.900s",
+              "word": "you"
+            },
+            {
+              "endTime": "47.200s",
+              "startTime": "47s",
+              "word": "can"
+            },
+            {
+              "endTime": "47.400s",
+              "startTime": "47.200s",
+              "word": "see"
+            },
+            {
+              "endTime": "47.900s",
+              "startTime": "47.400s",
+              "word": "here"
+            },
+            {
+              "endTime": "48.400s",
+              "startTime": "48.300s",
+              "word": "I"
+            },
+            {
+              "endTime": "48.900s",
+              "startTime": "48.400s",
+              "word": "have"
+            },
+            {
+              "endTime": "49.800s",
+              "startTime": "49.200s",
+              "word": "three"
+            },
+            {
+              "endTime": "51.700s",
+              "startTime": "50.800s",
+              "word": "collections"
+            },
+            {
+              "endTime": "52.300s",
+              "startTime": "52s",
+              "word": "that"
+            },
+            {
+              "endTime": "52.500s",
+              "startTime": "52.300s",
+              "word": "I"
+            },
+            {
+              "endTime": "53.200s",
+              "startTime": "52.500s",
+              "word": "created"
+            },
+            {
+              "endTime": "53.800s",
+              "startTime": "53.200s",
+              "word": "before"
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "54.370s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.82878053,
+          "transcript": " I'm going to show you how you will create yours",
+          "words": [
+            {
+              "endTime": "55.700s",
+              "startTime": "55.600s",
+              "word": "I'm"
+            },
+            {
+              "endTime": "56s",
+              "startTime": "55.700s",
+              "word": "going"
+            },
+            {
+              "endTime": "56.200s",
+              "startTime": "56s",
+              "word": "to"
+            },
+            {
+              "endTime": "56.500s",
+              "startTime": "56.200s",
+              "word": "show"
+            },
+            {
+              "endTime": "56.700s",
+              "startTime": "56.500s",
+              "word": "you"
+            },
+            {
+              "endTime": "57.200s",
+              "startTime": "56.700s",
+              "word": "how"
+            },
+            {
+              "endTime": "57.700s",
+              "startTime": "57.500s",
+              "word": "you"
+            },
+            {
+              "endTime": "58s",
+              "startTime": "57.700s",
+              "word": "will"
+            },
+            {
+              "endTime": "58.500s",
+              "startTime": "58s",
+              "word": "create"
+            },
+            {
+              "endTime": "59.100s",
+              "startTime": "58.500s",
+              "word": "yours"
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "59.420s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.83015555,
+          "transcript": " you need to click on the plus button here or you will see here a create Button as well just click on it",
+          "words": [
+            {
+              "endTime": "61.100s",
+              "startTime": "61s",
+              "word": "you"
+            },
+            {
+              "endTime": "61.300s",
+              "startTime": "61.100s",
+              "word": "need"
+            },
+            {
+              "endTime": "61.400s",
+              "startTime": "61.300s",
+              "word": "to"
+            },
+            {
+              "endTime": "62.100s",
+              "startTime": "61.400s",
+              "word": "click"
+            },
+            {
+              "endTime": "62.700s",
+              "startTime": "62.500s",
+              "word": "on"
+            },
+            {
+              "endTime": "62.800s",
+              "startTime": "62.700s",
+              "word": "the"
+            },
+            {
+              "endTime": "63.200s",
+              "startTime": "62.800s",
+              "word": "plus"
+            },
+            {
+              "endTime": "63.500s",
+              "startTime": "63.200s",
+              "word": "button"
+            },
+            {
+              "endTime": "64s",
+              "startTime": "63.500s",
+              "word": "here"
+            },
+            {
+              "endTime": "64.900s",
+              "startTime": "64.700s",
+              "word": "or"
+            },
+            {
+              "endTime": "65.100s",
+              "startTime": "64.900s",
+              "word": "you"
+            },
+            {
+              "endTime": "65.400s",
+              "startTime": "65.100s",
+              "word": "will"
+            },
+            {
+              "endTime": "65.600s",
+              "startTime": "65.400s",
+              "word": "see"
+            },
+            {
+              "endTime": "66.100s",
+              "startTime": "65.600s",
+              "word": "here"
+            },
+            {
+              "endTime": "66.200s",
+              "startTime": "66.100s",
+              "word": "a"
+            },
+            {
+              "endTime": "67s",
+              "startTime": "66.200s",
+              "word": "create"
+            },
+            {
+              "endTime": "68.100s",
+              "startTime": "67.600s",
+              "word": "Button"
+            },
+            {
+              "endTime": "68.300s",
+              "startTime": "68.100s",
+              "word": "as"
+            },
+            {
+              "endTime": "68.800s",
+              "startTime": "68.300s",
+              "word": "well"
+            },
+            {
+              "endTime": "69.400s",
+              "startTime": "69.100s",
+              "word": "just"
+            },
+            {
+              "endTime": "69.700s",
+              "startTime": "69.400s",
+              "word": "click"
+            },
+            {
+              "endTime": "69.900s",
+              "startTime": "69.700s",
+              "word": "on"
+            },
+            {
+              "endTime": "70.200s",
+              "startTime": "69.900s",
+              "word": "it"
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "70.630s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.89281023,
+          "transcript": " here you will feel all these components for the collection in identification this will be the name of your collection and you can also generate your Collection image using natural language here I will show you how is this",
+          "words": [
+            {
+              "endTime": "73s",
+              "startTime": "72.500s",
+              "word": "here"
+            },
+            {
+              "endTime": "74.100s",
+              "startTime": "73.900s",
+              "word": "you"
+            },
+            {
+              "endTime": "74.600s",
+              "startTime": "74.100s",
+              "word": "will"
+            },
+            {
+              "endTime": "75.500s",
+              "startTime": "74.800s",
+              "word": "feel"
+            },
+            {
+              "endTime": "76s",
+              "startTime": "75.600s",
+              "word": "all"
+            },
+            {
+              "endTime": "76.500s",
+              "startTime": "76s",
+              "word": "these"
+            },
+            {
+              "endTime": "77.400s",
+              "startTime": "76.500s",
+              "word": "components"
+            },
+            {
+              "endTime": "78.500s",
+              "startTime": "78s",
+              "word": "for"
+            },
+            {
+              "endTime": "79.100s",
+              "startTime": "78.800s",
+              "word": "the"
+            },
+            {
+              "endTime": "79.800s",
+              "startTime": "79.100s",
+              "word": "collection"
+            },
+            {
+              "endTime": "80s",
+              "startTime": "79.800s",
+              "word": "in"
+            },
+            {
+              "endTime": "80.900s",
+              "startTime": "80s",
+              "word": "identification"
+            },
+            {
+              "endTime": "81.300s",
+              "startTime": "81s",
+              "word": "this"
+            },
+            {
+              "endTime": "81.600s",
+              "startTime": "81.300s",
+              "word": "will"
+            },
+            {
+              "endTime": "81.700s",
+              "startTime": "81.600s",
+              "word": "be"
+            },
+            {
+              "endTime": "81.900s",
+              "startTime": "81.700s",
+              "word": "the"
+            },
+            {
+              "endTime": "82.400s",
+              "startTime": "81.900s",
+              "word": "name"
+            },
+            {
+              "endTime": "82.800s",
+              "startTime": "82.500s",
+              "word": "of"
+            },
+            {
+              "endTime": "83.100s",
+              "startTime": "82.800s",
+              "word": "your"
+            },
+            {
+              "endTime": "83.900s",
+              "startTime": "83.100s",
+              "word": "collection"
+            },
+            {
+              "endTime": "85s",
+              "startTime": "84.500s",
+              "word": "and"
+            },
+            {
+              "endTime": "85.500s",
+              "startTime": "85.300s",
+              "word": "you"
+            },
+            {
+              "endTime": "86s",
+              "startTime": "85.500s",
+              "word": "can"
+            },
+            {
+              "endTime": "86.600s",
+              "startTime": "86s",
+              "word": "also"
+            },
+            {
+              "endTime": "87.600s",
+              "startTime": "86.600s",
+              "word": "generate"
+            },
+            {
+              "endTime": "88.100s",
+              "startTime": "87.800s",
+              "word": "your"
+            },
+            {
+              "endTime": "89s",
+              "startTime": "88.300s",
+              "word": "Collection"
+            },
+            {
+              "endTime": "89.700s",
+              "startTime": "89s",
+              "word": "image"
+            },
+            {
+              "endTime": "90.500s",
+              "startTime": "89.800s",
+              "word": "using"
+            },
+            {
+              "endTime": "91.700s",
+              "startTime": "91s",
+              "word": "natural"
+            },
+            {
+              "endTime": "92.300s",
+              "startTime": "91.700s",
+              "word": "language"
+            },
+            {
+              "endTime": "92.800s",
+              "startTime": "92.300s",
+              "word": "here"
+            },
+            {
+              "endTime": "93.500s",
+              "startTime": "93.300s",
+              "word": "I"
+            },
+            {
+              "endTime": "93.700s",
+              "startTime": "93.500s",
+              "word": "will"
+            },
+            {
+              "endTime": "94.100s",
+              "startTime": "93.700s",
+              "word": "show"
+            },
+            {
+              "endTime": "94.400s",
+              "startTime": "94.100s",
+              "word": "you"
+            },
+            {
+              "endTime": "94.800s",
+              "startTime": "94.400s",
+              "word": "how"
+            },
+            {
+              "endTime": "95.100s",
+              "startTime": "94.800s",
+              "word": "is"
+            },
+            {
+              "endTime": "95.500s",
+              "startTime": "95.100s",
+              "word": "this"
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "95.910s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.83575577,
+          "transcript": " we have a do me anything collection created for this purpose has let me show you how this works",
+          "words": [
+            {
+              "endTime": "97.300s",
+              "startTime": "97.200s",
+              "word": "we"
+            },
+            {
+              "endTime": "97.800s",
+              "startTime": "97.300s",
+              "word": "have"
+            },
+            {
+              "endTime": "99.300s",
+              "startTime": "99s",
+              "word": "a"
+            },
+            {
+              "endTime": "99.800s",
+              "startTime": "99.600s",
+              "word": "do"
+            },
+            {
+              "endTime": "100.100s",
+              "startTime": "99.800s",
+              "word": "me"
+            },
+            {
+              "endTime": "100.600s",
+              "startTime": "100.100s",
+              "word": "anything"
+            },
+            {
+              "endTime": "101.200s",
+              "startTime": "100.600s",
+              "word": "collection"
+            },
+            {
+              "endTime": "101.800s",
+              "startTime": "101.200s",
+              "word": "created"
+            },
+            {
+              "endTime": "101.900s",
+              "startTime": "101.800s",
+              "word": "for"
+            },
+            {
+              "endTime": "102.200s",
+              "startTime": "101.900s",
+              "word": "this"
+            },
+            {
+              "endTime": "102.900s",
+              "startTime": "102.200s",
+              "word": "purpose"
+            },
+            {
+              "endTime": "103.200s",
+              "startTime": "102.900s",
+              "word": "has"
+            },
+            {
+              "endTime": "104.100s",
+              "startTime": "104s",
+              "word": "let"
+            },
+            {
+              "endTime": "104.200s",
+              "startTime": "104.100s",
+              "word": "me"
+            },
+            {
+              "endTime": "104.500s",
+              "startTime": "104.200s",
+              "word": "show"
+            },
+            {
+              "endTime": "104.600s",
+              "startTime": "104.500s",
+              "word": "you"
+            },
+            {
+              "endTime": "104.800s",
+              "startTime": "104.600s",
+              "word": "how"
+            },
+            {
+              "endTime": "105s",
+              "startTime": "104.800s",
+              "word": "this"
+            },
+            {
+              "endTime": "105.600s",
+              "startTime": "105s",
+              "word": "works"
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "105.910s"
+    },
+    {
+      "alternatives": [{}],
+      "languageCode": "en-us",
+      "resultEndTime": "107.890s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.81172812,
+          "transcript": " copy here",
+          "words": [
+            {
+              "endTime": "109.600s",
+              "startTime": "109s",
+              "word": "copy"
+            },
+            {
+              "endTime": "110.200s",
+              "startTime": "109.700s",
+              "word": "here"
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "110.670s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.715693,
+          "transcript": " taste our name",
+          "words": [
+            {
+              "endTime": "113.300s",
+              "startTime": "113s",
+              "word": "taste"
+            },
+            {
+              "endTime": "113.600s",
+              "startTime": "113.300s",
+              "word": "our"
+            },
+            {
+              "endTime": "114.100s",
+              "startTime": "113.600s",
+              "word": "name"
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "114.960s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.89459485,
+          "transcript": " let's put a description for our energy collection",
+          "words": [
+            {
+              "endTime": "119.400s",
+              "startTime": "119s",
+              "word": "let's"
+            },
+            {
+              "endTime": "119.600s",
+              "startTime": "119.400s",
+              "word": "put"
+            },
+            {
+              "endTime": "119.700s",
+              "startTime": "119.600s",
+              "word": "a"
+            },
+            {
+              "endTime": "120.500s",
+              "startTime": "119.700s",
+              "word": "description"
+            },
+            {
+              "endTime": "120.900s",
+              "startTime": "120.500s",
+              "word": "for"
+            },
+            {
+              "endTime": "121.200s",
+              "startTime": "120.900s",
+              "word": "our"
+            },
+            {
+              "endTime": "121.700s",
+              "startTime": "121.200s",
+              "word": "energy"
+            },
+            {
+              "endTime": "122.400s",
+              "startTime": "121.700s",
+              "word": "collection"
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "123.170s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.91283858,
+          "transcript": " and you will see",
+          "words": [
+            {
+              "endTime": "130.200s",
+              "startTime": "129.800s",
+              "word": "and"
+            },
+            {
+              "endTime": "130.700s",
+              "startTime": "130.500s",
+              "word": "you"
+            },
+            {
+              "endTime": "131s",
+              "startTime": "130.700s",
+              "word": "will"
+            },
+            {
+              "endTime": "131.600s",
+              "startTime": "131s",
+              "word": "see"
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "132.090s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.79984963,
+          "transcript": " how these will be generated basic on this prompt",
+          "words": [
+            {
+              "endTime": "133.500s",
+              "startTime": "133.100s",
+              "word": "how"
+            },
+            {
+              "endTime": "134s",
+              "startTime": "133.500s",
+              "word": "these"
+            },
+            {
+              "endTime": "134.300s",
+              "startTime": "134s",
+              "word": "will"
+            },
+            {
+              "endTime": "134.400s",
+              "startTime": "134.300s",
+              "word": "be"
+            },
+            {
+              "endTime": "135.400s",
+              "startTime": "134.400s",
+              "word": "generated"
+            },
+            {
+              "endTime": "136.200s",
+              "startTime": "135.400s",
+              "word": "basic"
+            },
+            {
+              "endTime": "136.500s",
+              "startTime": "136.300s",
+              "word": "on"
+            },
+            {
+              "endTime": "136.800s",
+              "startTime": "136.500s",
+              "word": "this"
+            },
+            {
+              "endTime": "137.500s",
+              "startTime": "136.800s",
+              "word": "prompt"
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "137.890s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.91283852,
+          "transcript": " the more specific you are here in the description",
+          "words": [
+            {
+              "endTime": "142.400s",
+              "startTime": "142.200s",
+              "word": "the"
+            },
+            {
+              "endTime": "142.900s",
+              "startTime": "142.400s",
+              "word": "more"
+            },
+            {
+              "endTime": "143.700s",
+              "startTime": "142.900s",
+              "word": "specific"
+            },
+            {
+              "endTime": "143.900s",
+              "startTime": "143.700s",
+              "word": "you"
+            },
+            {
+              "endTime": "144.100s",
+              "startTime": "143.900s",
+              "word": "are"
+            },
+            {
+              "endTime": "144.500s",
+              "startTime": "144.100s",
+              "word": "here"
+            },
+            {
+              "endTime": "144.700s",
+              "startTime": "144.500s",
+              "word": "in"
+            },
+            {
+              "endTime": "144.800s",
+              "startTime": "144.700s",
+              "word": "the"
+            },
+            {
+              "endTime": "145.600s",
+              "startTime": "144.800s",
+              "word": "description"
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "145.870s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.8517136,
+          "transcript": " the most beautiful you will have you how could anything be here as description",
+          "words": [
+            {
+              "endTime": "147.200s",
+              "startTime": "147.100s",
+              "word": "the"
+            },
+            {
+              "endTime": "147.600s",
+              "startTime": "147.200s",
+              "word": "most"
+            },
+            {
+              "endTime": "148.400s",
+              "startTime": "147.600s",
+              "word": "beautiful"
+            },
+            {
+              "endTime": "148.700s",
+              "startTime": "148.500s",
+              "word": "you"
+            },
+            {
+              "endTime": "148.900s",
+              "startTime": "148.700s",
+              "word": "will"
+            },
+            {
+              "endTime": "149.400s",
+              "startTime": "148.900s",
+              "word": "have"
+            },
+            {
+              "endTime": "150.300s",
+              "startTime": "149.700s",
+              "word": "you"
+            },
+            {
+              "endTime": "151.100s",
+              "startTime": "150.800s",
+              "word": "how"
+            },
+            {
+              "endTime": "151.300s",
+              "startTime": "151.100s",
+              "word": "could"
+            },
+            {
+              "endTime": "151.900s",
+              "startTime": "151.300s",
+              "word": "anything"
+            },
+            {
+              "endTime": "152.100s",
+              "startTime": "151.900s",
+              "word": "be"
+            },
+            {
+              "endTime": "152.500s",
+              "startTime": "152.100s",
+              "word": "here"
+            },
+            {
+              "endTime": "152.800s",
+              "startTime": "152.500s",
+              "word": "as"
+            },
+            {
+              "endTime": "153.600s",
+              "startTime": "152.800s",
+              "word": "description"
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "153.930s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.89965314,
+          "transcript": " so after clicking on generate a mesh will need to sign in your wallet after this you will be authenticated by the system and will prompt will be sent successfully it's me to great",
+          "words": [
+            {
+              "endTime": "156.200s",
+              "startTime": "155.600s",
+              "word": "so"
+            },
+            {
+              "endTime": "157.400s",
+              "startTime": "157.100s",
+              "word": "after"
+            },
+            {
+              "endTime": "157.800s",
+              "startTime": "157.400s",
+              "word": "clicking"
+            },
+            {
+              "endTime": "158s",
+              "startTime": "157.800s",
+              "word": "on"
+            },
+            {
+              "endTime": "158.600s",
+              "startTime": "158s",
+              "word": "generate"
+            },
+            {
+              "endTime": "158.800s",
+              "startTime": "158.600s",
+              "word": "a"
+            },
+            {
+              "endTime": "159.200s",
+              "startTime": "158.800s",
+              "word": "mesh"
+            },
+            {
+              "endTime": "159.400s",
+              "startTime": "159.200s",
+              "word": "will"
+            },
+            {
+              "endTime": "159.800s",
+              "startTime": "159.400s",
+              "word": "need"
+            },
+            {
+              "endTime": "160.100s",
+              "startTime": "159.800s",
+              "word": "to"
+            },
+            {
+              "endTime": "161s",
+              "startTime": "160.400s",
+              "word": "sign"
+            },
+            {
+              "endTime": "161.200s",
+              "startTime": "161s",
+              "word": "in"
+            },
+            {
+              "endTime": "161.300s",
+              "startTime": "161.200s",
+              "word": "your"
+            },
+            {
+              "endTime": "162s",
+              "startTime": "161.300s",
+              "word": "wallet"
+            },
+            {
+              "endTime": "163s",
+              "startTime": "162.600s",
+              "word": "after"
+            },
+            {
+              "endTime": "163.400s",
+              "startTime": "163s",
+              "word": "this"
+            },
+            {
+              "endTime": "164.600s",
+              "startTime": "164.400s",
+              "word": "you"
+            },
+            {
+              "endTime": "164.900s",
+              "startTime": "164.600s",
+              "word": "will"
+            },
+            {
+              "endTime": "165.300s",
+              "startTime": "164.900s",
+              "word": "be"
+            },
+            {
+              "endTime": "166.200s",
+              "startTime": "165.300s",
+              "word": "authenticated"
+            },
+            {
+              "endTime": "166.300s",
+              "startTime": "166.200s",
+              "word": "by"
+            },
+            {
+              "endTime": "166.400s",
+              "startTime": "166.300s",
+              "word": "the"
+            },
+            {
+              "endTime": "167s",
+              "startTime": "166.400s",
+              "word": "system"
+            },
+            {
+              "endTime": "167.700s",
+              "startTime": "167.400s",
+              "word": "and"
+            },
+            {
+              "endTime": "167.800s",
+              "startTime": "167.700s",
+              "word": "will"
+            },
+            {
+              "endTime": "168.200s",
+              "startTime": "167.800s",
+              "word": "prompt"
+            },
+            {
+              "endTime": "168.400s",
+              "startTime": "168.200s",
+              "word": "will"
+            },
+            {
+              "endTime": "168.600s",
+              "startTime": "168.400s",
+              "word": "be"
+            },
+            {
+              "endTime": "169.100s",
+              "startTime": "168.600s",
+              "word": "sent"
+            },
+            {
+              "endTime": "170s",
+              "startTime": "169.200s",
+              "word": "successfully"
+            },
+            {
+              "endTime": "170.500s",
+              "startTime": "170.300s",
+              "word": "it's"
+            },
+            {
+              "endTime": "170.700s",
+              "startTime": "170.500s",
+              "word": "me"
+            },
+            {
+              "endTime": "170.800s",
+              "startTime": "170.700s",
+              "word": "to"
+            },
+            {
+              "endTime": "171.300s",
+              "startTime": "170.800s",
+              "word": "great"
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "171.780s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.82038432,
+          "transcript": " and as you can see we have a image generated on this prompt",
+          "words": [
+            {
+              "endTime": "173s",
+              "startTime": "172.600s",
+              "word": "and"
+            },
+            {
+              "endTime": "174.400s",
+              "startTime": "174.200s",
+              "word": "as"
+            },
+            {
+              "endTime": "174.500s",
+              "startTime": "174.400s",
+              "word": "you"
+            },
+            {
+              "endTime": "174.700s",
+              "startTime": "174.500s",
+              "word": "can"
+            },
+            {
+              "endTime": "175.200s",
+              "startTime": "174.700s",
+              "word": "see"
+            },
+            {
+              "endTime": "175.400s",
+              "startTime": "175.300s",
+              "word": "we"
+            },
+            {
+              "endTime": "175.800s",
+              "startTime": "175.400s",
+              "word": "have"
+            },
+            {
+              "endTime": "176s",
+              "startTime": "175.800s",
+              "word": "a"
+            },
+            {
+              "endTime": "177.300s",
+              "startTime": "176.700s",
+              "word": "image"
+            },
+            {
+              "endTime": "178.800s",
+              "startTime": "177.800s",
+              "word": "generated"
+            },
+            {
+              "endTime": "179.800s",
+              "startTime": "179.300s",
+              "word": "on"
+            },
+            {
+              "endTime": "180.100s",
+              "startTime": "179.800s",
+              "word": "this"
+            },
+            {
+              "endTime": "180.800s",
+              "startTime": "180.100s",
+              "word": "prompt"
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "181.110s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.91283858,
+          "transcript": " let's put a royalty of",
+          "words": [
+            {
+              "endTime": "183.200s",
+              "startTime": "182.800s",
+              "word": "let's"
+            },
+            {
+              "endTime": "183.800s",
+              "startTime": "183.200s",
+              "word": "put"
+            },
+            {
+              "endTime": "184s",
+              "startTime": "183.900s",
+              "word": "a"
+            },
+            {
+              "endTime": "184.600s",
+              "startTime": "184s",
+              "word": "royalty"
+            },
+            {
+              "endTime": "184.900s",
+              "startTime": "184.600s",
+              "word": "of"
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "185.350s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.5719524,
+          "transcript": " 5% and let's create our amazing and empty collection",
+          "words": [
+            {
+              "endTime": "187.100s",
+              "startTime": "186s",
+              "word": "5%"
+            },
+            {
+              "endTime": "188.300s",
+              "startTime": "187.700s",
+              "word": "and"
+            },
+            {
+              "endTime": "188.800s",
+              "startTime": "188.500s",
+              "word": "let's"
+            },
+            {
+              "endTime": "189.500s",
+              "startTime": "188.800s",
+              "word": "create"
+            },
+            {
+              "endTime": "190.300s",
+              "startTime": "189.900s",
+              "word": "our"
+            },
+            {
+              "endTime": "191.100s",
+              "startTime": "190.300s",
+              "word": "amazing"
+            },
+            {
+              "endTime": "191.400s",
+              "startTime": "191.200s",
+              "word": "and"
+            },
+            {
+              "endTime": "191.700s",
+              "startTime": "191.400s",
+              "word": "empty"
+            },
+            {
+              "endTime": "192.400s",
+              "startTime": "191.700s",
+              "word": "collection"
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "192.640s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.88796008,
+          "transcript": " you need to confirm with your wallet if you are creating your collection",
+          "words": [
+            {
+              "endTime": "195.400s",
+              "startTime": "195.300s",
+              "word": "you"
+            },
+            {
+              "endTime": "195.800s",
+              "startTime": "195.400s",
+              "word": "need"
+            },
+            {
+              "endTime": "196s",
+              "startTime": "195.800s",
+              "word": "to"
+            },
+            {
+              "endTime": "196.800s",
+              "startTime": "196s",
+              "word": "confirm"
+            },
+            {
+              "endTime": "197.300s",
+              "startTime": "197.100s",
+              "word": "with"
+            },
+            {
+              "endTime": "197.600s",
+              "startTime": "197.300s",
+              "word": "your"
+            },
+            {
+              "endTime": "198.200s",
+              "startTime": "197.600s",
+              "word": "wallet"
+            },
+            {
+              "endTime": "199.600s",
+              "startTime": "199.400s",
+              "word": "if"
+            },
+            {
+              "endTime": "199.700s",
+              "startTime": "199.600s",
+              "word": "you"
+            },
+            {
+              "endTime": "199.800s",
+              "startTime": "199.700s",
+              "word": "are"
+            },
+            {
+              "endTime": "200.400s",
+              "startTime": "199.800s",
+              "word": "creating"
+            },
+            {
+              "endTime": "200.500s",
+              "startTime": "200.400s",
+              "word": "your"
+            },
+            {
+              "endTime": "201.300s",
+              "startTime": "200.500s",
+              "word": "collection"
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "201.650s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.77832156,
+          "transcript": " on polygon you need to have",
+          "words": [
+            {
+              "endTime": "202.600s",
+              "startTime": "202.400s",
+              "word": "on"
+            },
+            {
+              "endTime": "203.300s",
+              "startTime": "202.600s",
+              "word": "polygon"
+            },
+            {
+              "endTime": "203.400s",
+              "startTime": "203.300s",
+              "word": "you"
+            },
+            {
+              "endTime": "204s",
+              "startTime": "203.400s",
+              "word": "need"
+            },
+            {
+              "endTime": "204.300s",
+              "startTime": "204.100s",
+              "word": "to"
+            },
+            {
+              "endTime": "204.800s",
+              "startTime": "204.300s",
+              "word": "have"
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "205.300s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.87238634,
+          "transcript": " make thick tokens in your wallet in order to bake the gas fees as you can see our collection was created successfully we can view the transaction here or we can just build a collection clicking on here",
+          "words": [
+            {
+              "endTime": "206.700s",
+              "startTime": "206.400s",
+              "word": "make"
+            },
+            {
+              "endTime": "207s",
+              "startTime": "206.700s",
+              "word": "thick"
+            },
+            {
+              "endTime": "207.600s",
+              "startTime": "207s",
+              "word": "tokens"
+            },
+            {
+              "endTime": "207.800s",
+              "startTime": "207.600s",
+              "word": "in"
+            },
+            {
+              "endTime": "208s",
+              "startTime": "207.800s",
+              "word": "your"
+            },
+            {
+              "endTime": "208.500s",
+              "startTime": "208s",
+              "word": "wallet"
+            },
+            {
+              "endTime": "208.700s",
+              "startTime": "208.500s",
+              "word": "in"
+            },
+            {
+              "endTime": "209s",
+              "startTime": "208.700s",
+              "word": "order"
+            },
+            {
+              "endTime": "209.200s",
+              "startTime": "209s",
+              "word": "to"
+            },
+            {
+              "endTime": "209.700s",
+              "startTime": "209.200s",
+              "word": "bake"
+            },
+            {
+              "endTime": "209.800s",
+              "startTime": "209.700s",
+              "word": "the"
+            },
+            {
+              "endTime": "210.300s",
+              "startTime": "209.800s",
+              "word": "gas"
+            },
+            {
+              "endTime": "210.800s",
+              "startTime": "210.300s",
+              "word": "fees"
+            },
+            {
+              "endTime": "211.800s",
+              "startTime": "211.600s",
+              "word": "as"
+            },
+            {
+              "endTime": "212s",
+              "startTime": "211.800s",
+              "word": "you"
+            },
+            {
+              "endTime": "212.300s",
+              "startTime": "212s",
+              "word": "can"
+            },
+            {
+              "endTime": "212.700s",
+              "startTime": "212.300s",
+              "word": "see"
+            },
+            {
+              "endTime": "214.100s",
+              "startTime": "213.700s",
+              "word": "our"
+            },
+            {
+              "endTime": "214.600s",
+              "startTime": "214.100s",
+              "word": "collection"
+            },
+            {
+              "endTime": "214.800s",
+              "startTime": "214.600s",
+              "word": "was"
+            },
+            {
+              "endTime": "215.300s",
+              "startTime": "214.800s",
+              "word": "created"
+            },
+            {
+              "endTime": "216.100s",
+              "startTime": "215.300s",
+              "word": "successfully"
+            },
+            {
+              "endTime": "217.200s",
+              "startTime": "217s",
+              "word": "we"
+            },
+            {
+              "endTime": "217.600s",
+              "startTime": "217.200s",
+              "word": "can"
+            },
+            {
+              "endTime": "218s",
+              "startTime": "217.700s",
+              "word": "view"
+            },
+            {
+              "endTime": "218.100s",
+              "startTime": "218s",
+              "word": "the"
+            },
+            {
+              "endTime": "218.900s",
+              "startTime": "218.100s",
+              "word": "transaction"
+            },
+            {
+              "endTime": "219.300s",
+              "startTime": "218.900s",
+              "word": "here"
+            },
+            {
+              "endTime": "220s",
+              "startTime": "219.600s",
+              "word": "or"
+            },
+            {
+              "endTime": "220.600s",
+              "startTime": "220.400s",
+              "word": "we"
+            },
+            {
+              "endTime": "220.800s",
+              "startTime": "220.600s",
+              "word": "can"
+            },
+            {
+              "endTime": "221.100s",
+              "startTime": "220.800s",
+              "word": "just"
+            },
+            {
+              "endTime": "221.400s",
+              "startTime": "221.100s",
+              "word": "build"
+            },
+            {
+              "endTime": "221.500s",
+              "startTime": "221.400s",
+              "word": "a"
+            },
+            {
+              "endTime": "222.100s",
+              "startTime": "221.500s",
+              "word": "collection"
+            },
+            {
+              "endTime": "222.600s",
+              "startTime": "222.100s",
+              "word": "clicking"
+            },
+            {
+              "endTime": "222.700s",
+              "startTime": "222.600s",
+              "word": "on"
+            },
+            {
+              "endTime": "223.100s",
+              "startTime": "222.700s",
+              "word": "here"
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "223.480s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.83947831,
+          "transcript": " and we have a collection created now let's create two NS dies for our amazing collection",
+          "words": [
+            {
+              "endTime": "225.100s",
+              "startTime": "224.800s",
+              "word": "and"
+            },
+            {
+              "endTime": "225.100s",
+              "startTime": "225.100s",
+              "word": "we"
+            },
+            {
+              "endTime": "225.600s",
+              "startTime": "225.100s",
+              "word": "have"
+            },
+            {
+              "endTime": "225.700s",
+              "startTime": "225.600s",
+              "word": "a"
+            },
+            {
+              "endTime": "226.200s",
+              "startTime": "225.700s",
+              "word": "collection"
+            },
+            {
+              "endTime": "226.900s",
+              "startTime": "226.200s",
+              "word": "created"
+            },
+            {
+              "endTime": "227.400s",
+              "startTime": "227s",
+              "word": "now"
+            },
+            {
+              "endTime": "228.700s",
+              "startTime": "228.400s",
+              "word": "let's"
+            },
+            {
+              "endTime": "229.300s",
+              "startTime": "228.700s",
+              "word": "create"
+            },
+            {
+              "endTime": "229.700s",
+              "startTime": "229.300s",
+              "word": "two"
+            },
+            {
+              "endTime": "230.100s",
+              "startTime": "229.700s",
+              "word": "NS"
+            },
+            {
+              "endTime": "230.500s",
+              "startTime": "230.100s",
+              "word": "dies"
+            },
+            {
+              "endTime": "231.200s",
+              "startTime": "230.700s",
+              "word": "for"
+            },
+            {
+              "endTime": "231.500s",
+              "startTime": "231.200s",
+              "word": "our"
+            },
+            {
+              "endTime": "232s",
+              "startTime": "231.500s",
+              "word": "amazing"
+            },
+            {
+              "endTime": "232.700s",
+              "startTime": "232s",
+              "word": "collection"
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "232.930s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.90649796,
+          "transcript": " let's click here on the bottom create entities",
+          "words": [
+            {
+              "endTime": "236.200s",
+              "startTime": "235.900s",
+              "word": "let's"
+            },
+            {
+              "endTime": "236.500s",
+              "startTime": "236.200s",
+              "word": "click"
+            },
+            {
+              "endTime": "236.800s",
+              "startTime": "236.500s",
+              "word": "here"
+            },
+            {
+              "endTime": "237.100s",
+              "startTime": "236.800s",
+              "word": "on"
+            },
+            {
+              "endTime": "237.300s",
+              "startTime": "237.100s",
+              "word": "the"
+            },
+            {
+              "endTime": "237.700s",
+              "startTime": "237.300s",
+              "word": "bottom"
+            },
+            {
+              "endTime": "238s",
+              "startTime": "237.700s",
+              "word": "create"
+            },
+            {
+              "endTime": "238.800s",
+              "startTime": "238s",
+              "word": "entities"
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "239.170s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.86016673,
+          "transcript": " and here we will start to feel this Lance",
+          "words": [
+            {
+              "endTime": "242s",
+              "startTime": "241.800s",
+              "word": "and"
+            },
+            {
+              "endTime": "242.500s",
+              "startTime": "242s",
+              "word": "here"
+            },
+            {
+              "endTime": "243.700s",
+              "startTime": "243.400s",
+              "word": "we"
+            },
+            {
+              "endTime": "244.100s",
+              "startTime": "243.700s",
+              "word": "will"
+            },
+            {
+              "endTime": "245.200s",
+              "startTime": "244.300s",
+              "word": "start"
+            },
+            {
+              "endTime": "245.900s",
+              "startTime": "245.700s",
+              "word": "to"
+            },
+            {
+              "endTime": "246.300s",
+              "startTime": "245.900s",
+              "word": "feel"
+            },
+            {
+              "endTime": "246.700s",
+              "startTime": "246.300s",
+              "word": "this"
+            },
+            {
+              "endTime": "247.500s",
+              "startTime": "247s",
+              "word": "Lance"
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "247.880s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.91283864,
+          "transcript": " on quantity we will put on the most at least 20 mfds",
+          "words": [
+            {
+              "endTime": "249.400s",
+              "startTime": "249.200s",
+              "word": "on"
+            },
+            {
+              "endTime": "250.200s",
+              "startTime": "249.400s",
+              "word": "quantity"
+            },
+            {
+              "endTime": "250.400s",
+              "startTime": "250.200s",
+              "word": "we"
+            },
+            {
+              "endTime": "250.700s",
+              "startTime": "250.400s",
+              "word": "will"
+            },
+            {
+              "endTime": "251.100s",
+              "startTime": "250.700s",
+              "word": "put"
+            },
+            {
+              "endTime": "252.100s",
+              "startTime": "251.900s",
+              "word": "on"
+            },
+            {
+              "endTime": "252.200s",
+              "startTime": "252.100s",
+              "word": "the"
+            },
+            {
+              "endTime": "252.900s",
+              "startTime": "252.200s",
+              "word": "most"
+            },
+            {
+              "endTime": "253.600s",
+              "startTime": "253.400s",
+              "word": "at"
+            },
+            {
+              "endTime": "254.200s",
+              "startTime": "253.600s",
+              "word": "least"
+            },
+            {
+              "endTime": "255.100s",
+              "startTime": "254.600s",
+              "word": "20"
+            },
+            {
+              "endTime": "256.100s",
+              "startTime": "255.100s",
+              "word": "mfds"
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "256.410s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.91209924,
+          "transcript": " Duty maximum for collection this is why we don't want to bottleneck our contract so in this case we are putting some limits in order to avoid this after you create your collection you can add as many and if these two want so for creating at the first time you will need to be purchase we will use only",
+          "words": [
+            {
+              "endTime": "257.800s",
+              "startTime": "257.100s",
+              "word": "Duty"
+            },
+            {
+              "endTime": "258.600s",
+              "startTime": "257.900s",
+              "word": "maximum"
+            },
+            {
+              "endTime": "258.900s",
+              "startTime": "258.600s",
+              "word": "for"
+            },
+            {
+              "endTime": "259.600s",
+              "startTime": "258.900s",
+              "word": "collection"
+            },
+            {
+              "endTime": "260.800s",
+              "startTime": "260.600s",
+              "word": "this"
+            },
+            {
+              "endTime": "261s",
+              "startTime": "260.800s",
+              "word": "is"
+            },
+            {
+              "endTime": "261.500s",
+              "startTime": "261s",
+              "word": "why"
+            },
+            {
+              "endTime": "262.100s",
+              "startTime": "262s",
+              "word": "we"
+            },
+            {
+              "endTime": "262.600s",
+              "startTime": "262.100s",
+              "word": "don't"
+            },
+            {
+              "endTime": "263.500s",
+              "startTime": "262.800s",
+              "word": "want"
+            },
+            {
+              "endTime": "263.800s",
+              "startTime": "263.700s",
+              "word": "to"
+            },
+            {
+              "endTime": "264.600s",
+              "startTime": "263.800s",
+              "word": "bottleneck"
+            },
+            {
+              "endTime": "265s",
+              "startTime": "264.600s",
+              "word": "our"
+            },
+            {
+              "endTime": "265.800s",
+              "startTime": "265s",
+              "word": "contract"
+            },
+            {
+              "endTime": "266.700s",
+              "startTime": "266.200s",
+              "word": "so"
+            },
+            {
+              "endTime": "266.900s",
+              "startTime": "266.700s",
+              "word": "in"
+            },
+            {
+              "endTime": "267.100s",
+              "startTime": "266.900s",
+              "word": "this"
+            },
+            {
+              "endTime": "267.600s",
+              "startTime": "267.100s",
+              "word": "case"
+            },
+            {
+              "endTime": "268.700s",
+              "startTime": "268.500s",
+              "word": "we"
+            },
+            {
+              "endTime": "268.800s",
+              "startTime": "268.700s",
+              "word": "are"
+            },
+            {
+              "endTime": "269.200s",
+              "startTime": "268.800s",
+              "word": "putting"
+            },
+            {
+              "endTime": "269.600s",
+              "startTime": "269.200s",
+              "word": "some"
+            },
+            {
+              "endTime": "270.200s",
+              "startTime": "269.600s",
+              "word": "limits"
+            },
+            {
+              "endTime": "271s",
+              "startTime": "270.800s",
+              "word": "in"
+            },
+            {
+              "endTime": "271.500s",
+              "startTime": "271s",
+              "word": "order"
+            },
+            {
+              "endTime": "271.700s",
+              "startTime": "271.500s",
+              "word": "to"
+            },
+            {
+              "endTime": "272.200s",
+              "startTime": "271.700s",
+              "word": "avoid"
+            },
+            {
+              "endTime": "272.600s",
+              "startTime": "272.200s",
+              "word": "this"
+            },
+            {
+              "endTime": "273.800s",
+              "startTime": "273.200s",
+              "word": "after"
+            },
+            {
+              "endTime": "274s",
+              "startTime": "273.800s",
+              "word": "you"
+            },
+            {
+              "endTime": "274.500s",
+              "startTime": "274s",
+              "word": "create"
+            },
+            {
+              "endTime": "274.700s",
+              "startTime": "274.500s",
+              "word": "your"
+            },
+            {
+              "endTime": "275.500s",
+              "startTime": "274.700s",
+              "word": "collection"
+            },
+            {
+              "endTime": "275.900s",
+              "startTime": "275.600s",
+              "word": "you"
+            },
+            {
+              "endTime": "276.200s",
+              "startTime": "275.900s",
+              "word": "can"
+            },
+            {
+              "endTime": "276.700s",
+              "startTime": "276.200s",
+              "word": "add"
+            },
+            {
+              "endTime": "277s",
+              "startTime": "276.700s",
+              "word": "as"
+            },
+            {
+              "endTime": "277.500s",
+              "startTime": "277s",
+              "word": "many"
+            },
+            {
+              "endTime": "277.700s",
+              "startTime": "277.500s",
+              "word": "and"
+            },
+            {
+              "endTime": "277.900s",
+              "startTime": "277.700s",
+              "word": "if"
+            },
+            {
+              "endTime": "278.100s",
+              "startTime": "277.900s",
+              "word": "these"
+            },
+            {
+              "endTime": "278.300s",
+              "startTime": "278.100s",
+              "word": "two"
+            },
+            {
+              "endTime": "278.700s",
+              "startTime": "278.300s",
+              "word": "want"
+            },
+            {
+              "endTime": "279.300s",
+              "startTime": "278.700s",
+              "word": "so"
+            },
+            {
+              "endTime": "280.500s",
+              "startTime": "280.300s",
+              "word": "for"
+            },
+            {
+              "endTime": "281.200s",
+              "startTime": "280.500s",
+              "word": "creating"
+            },
+            {
+              "endTime": "281.600s",
+              "startTime": "281.400s",
+              "word": "at"
+            },
+            {
+              "endTime": "281.700s",
+              "startTime": "281.600s",
+              "word": "the"
+            },
+            {
+              "endTime": "282s",
+              "startTime": "281.700s",
+              "word": "first"
+            },
+            {
+              "endTime": "282.500s",
+              "startTime": "282s",
+              "word": "time"
+            },
+            {
+              "endTime": "283.200s",
+              "startTime": "283s",
+              "word": "you"
+            },
+            {
+              "endTime": "283.500s",
+              "startTime": "283.200s",
+              "word": "will"
+            },
+            {
+              "endTime": "283.900s",
+              "startTime": "283.500s",
+              "word": "need"
+            },
+            {
+              "endTime": "284.100s",
+              "startTime": "283.900s",
+              "word": "to"
+            },
+            {
+              "endTime": "284.600s",
+              "startTime": "284.100s",
+              "word": "be"
+            },
+            {
+              "endTime": "285.500s",
+              "startTime": "284.900s",
+              "word": "purchase"
+            },
+            {
+              "endTime": "286s",
+              "startTime": "285.800s",
+              "word": "we"
+            },
+            {
+              "endTime": "286.200s",
+              "startTime": "286s",
+              "word": "will"
+            },
+            {
+              "endTime": "286.600s",
+              "startTime": "286.200s",
+              "word": "use"
+            },
+            {
+              "endTime": "286.800s",
+              "startTime": "286.600s",
+              "word": "only"
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "286.890s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.91283864,
+          "transcript": " only one here",
+          "words": [
+            {
+              "endTime": "287.100s",
+              "startTime": "286.900s",
+              "word": "only"
+            },
+            {
+              "endTime": "287.500s",
+              "startTime": "287.100s",
+              "word": "one"
+            },
+            {
+              "endTime": "287.900s",
+              "startTime": "287.500s",
+              "word": "here"
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "288.250s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.80221158,
+          "transcript": " the name our first nft",
+          "words": [
+            {
+              "endTime": "289.200s",
+              "startTime": "289.100s",
+              "word": "the"
+            },
+            {
+              "endTime": "289.600s",
+              "startTime": "289.200s",
+              "word": "name"
+            },
+            {
+              "endTime": "290s",
+              "startTime": "289.600s",
+              "word": "our"
+            },
+            {
+              "endTime": "290.400s",
+              "startTime": "290s",
+              "word": "first"
+            },
+            {
+              "endTime": "291.200s",
+              "startTime": "290.500s",
+              "word": "nft"
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "291.870s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.8645398,
+          "transcript": " will be Sarah the sorbonne Ian let's put this",
+          "words": [
+            {
+              "endTime": "293.500s",
+              "startTime": "293.300s",
+              "word": "will"
+            },
+            {
+              "endTime": "293.700s",
+              "startTime": "293.500s",
+              "word": "be"
+            },
+            {
+              "endTime": "294.500s",
+              "startTime": "293.700s",
+              "word": "Sarah"
+            },
+            {
+              "endTime": "294.900s",
+              "startTime": "294.700s",
+              "word": "the"
+            },
+            {
+              "endTime": "295.500s",
+              "startTime": "294.900s",
+              "word": "sorbonne"
+            },
+            {
+              "endTime": "295.800s",
+              "startTime": "295.500s",
+              "word": "Ian"
+            },
+            {
+              "endTime": "296.400s",
+              "startTime": "295.900s",
+              "word": "let's"
+            },
+            {
+              "endTime": "297.100s",
+              "startTime": "296.800s",
+              "word": "put"
+            },
+            {
+              "endTime": "297.600s",
+              "startTime": "297.100s",
+              "word": "this"
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "298.020s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.80986673,
+          "transcript": " I'm here asking",
+          "words": [
+            {
+              "endTime": "299.200s",
+              "startTime": "299s",
+              "word": "I'm"
+            },
+            {
+              "endTime": "299.700s",
+              "startTime": "299.200s",
+              "word": "here"
+            },
+            {
+              "endTime": "300.700s",
+              "startTime": "299.700s",
+              "word": "asking"
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "301.150s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.82300752,
+          "transcript": " and let's put also the description of Sara let's see what does this generates for us",
+          "words": [
+            {
+              "endTime": "302.900s",
+              "startTime": "302.600s",
+              "word": "and"
+            },
+            {
+              "endTime": "303.300s",
+              "startTime": "302.900s",
+              "word": "let's"
+            },
+            {
+              "endTime": "303.900s",
+              "startTime": "303.300s",
+              "word": "put"
+            },
+            {
+              "endTime": "304.300s",
+              "startTime": "303.900s",
+              "word": "also"
+            },
+            {
+              "endTime": "304.400s",
+              "startTime": "304.300s",
+              "word": "the"
+            },
+            {
+              "endTime": "305.200s",
+              "startTime": "304.400s",
+              "word": "description"
+            },
+            {
+              "endTime": "305.400s",
+              "startTime": "305.200s",
+              "word": "of"
+            },
+            {
+              "endTime": "305.900s",
+              "startTime": "305.400s",
+              "word": "Sara"
+            },
+            {
+              "endTime": "307s",
+              "startTime": "306.700s",
+              "word": "let's"
+            },
+            {
+              "endTime": "307.400s",
+              "startTime": "307s",
+              "word": "see"
+            },
+            {
+              "endTime": "308s",
+              "startTime": "307.700s",
+              "word": "what"
+            },
+            {
+              "endTime": "308.300s",
+              "startTime": "308s",
+              "word": "does"
+            },
+            {
+              "endTime": "308.500s",
+              "startTime": "308.300s",
+              "word": "this"
+            },
+            {
+              "endTime": "309.200s",
+              "startTime": "308.500s",
+              "word": "generates"
+            },
+            {
+              "endTime": "309.400s",
+              "startTime": "309.200s",
+              "word": "for"
+            },
+            {
+              "endTime": "309.800s",
+              "startTime": "309.400s",
+              "word": "us"
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "310.230s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.77565598,
+          "transcript": " we can get also attributes for our nft or we just can leave this blank I will remove this because I won't use attributes and let's click on generate eightish let's see what what is this surprise if you get another signature bequest you need to sign it",
+          "words": [
+            {
+              "endTime": "314s",
+              "startTime": "313.900s",
+              "word": "we"
+            },
+            {
+              "endTime": "314.200s",
+              "startTime": "314s",
+              "word": "can"
+            },
+            {
+              "endTime": "314.500s",
+              "startTime": "314.200s",
+              "word": "get"
+            },
+            {
+              "endTime": "315s",
+              "startTime": "314.500s",
+              "word": "also"
+            },
+            {
+              "endTime": "315.900s",
+              "startTime": "315s",
+              "word": "attributes"
+            },
+            {
+              "endTime": "316.600s",
+              "startTime": "316.200s",
+              "word": "for"
+            },
+            {
+              "endTime": "317.200s",
+              "startTime": "316.900s",
+              "word": "our"
+            },
+            {
+              "endTime": "317.800s",
+              "startTime": "317.200s",
+              "word": "nft"
+            },
+            {
+              "endTime": "318.700s",
+              "startTime": "318.300s",
+              "word": "or"
+            },
+            {
+              "endTime": "319.100s",
+              "startTime": "318.900s",
+              "word": "we"
+            },
+            {
+              "endTime": "319.400s",
+              "startTime": "319.100s",
+              "word": "just"
+            },
+            {
+              "endTime": "319.800s",
+              "startTime": "319.400s",
+              "word": "can"
+            },
+            {
+              "endTime": "320.200s",
+              "startTime": "319.800s",
+              "word": "leave"
+            },
+            {
+              "endTime": "320.600s",
+              "startTime": "320.200s",
+              "word": "this"
+            },
+            {
+              "endTime": "321.100s",
+              "startTime": "320.700s",
+              "word": "blank"
+            },
+            {
+              "endTime": "321.400s",
+              "startTime": "321.300s",
+              "word": "I"
+            },
+            {
+              "endTime": "321.600s",
+              "startTime": "321.400s",
+              "word": "will"
+            },
+            {
+              "endTime": "322s",
+              "startTime": "321.600s",
+              "word": "remove"
+            },
+            {
+              "endTime": "322.200s",
+              "startTime": "322s",
+              "word": "this"
+            },
+            {
+              "endTime": "322.600s",
+              "startTime": "322.200s",
+              "word": "because"
+            },
+            {
+              "endTime": "322.800s",
+              "startTime": "322.600s",
+              "word": "I"
+            },
+            {
+              "endTime": "323s",
+              "startTime": "322.800s",
+              "word": "won't"
+            },
+            {
+              "endTime": "323.200s",
+              "startTime": "323s",
+              "word": "use"
+            },
+            {
+              "endTime": "323.900s",
+              "startTime": "323.200s",
+              "word": "attributes"
+            },
+            {
+              "endTime": "324.500s",
+              "startTime": "324.300s",
+              "word": "and"
+            },
+            {
+              "endTime": "324.800s",
+              "startTime": "324.500s",
+              "word": "let's"
+            },
+            {
+              "endTime": "325.100s",
+              "startTime": "324.800s",
+              "word": "click"
+            },
+            {
+              "endTime": "325.200s",
+              "startTime": "325.100s",
+              "word": "on"
+            },
+            {
+              "endTime": "325.700s",
+              "startTime": "325.200s",
+              "word": "generate"
+            },
+            {
+              "endTime": "326.200s",
+              "startTime": "325.700s",
+              "word": "eightish"
+            },
+            {
+              "endTime": "326.500s",
+              "startTime": "326.200s",
+              "word": "let's"
+            },
+            {
+              "endTime": "326.800s",
+              "startTime": "326.500s",
+              "word": "see"
+            },
+            {
+              "endTime": "327.300s",
+              "startTime": "326.800s",
+              "word": "what"
+            },
+            {
+              "endTime": "327.900s",
+              "startTime": "327.700s",
+              "word": "what"
+            },
+            {
+              "endTime": "327.900s",
+              "startTime": "327.900s",
+              "word": "is"
+            },
+            {
+              "endTime": "328.100s",
+              "startTime": "327.900s",
+              "word": "this"
+            },
+            {
+              "endTime": "328.800s",
+              "startTime": "328.100s",
+              "word": "surprise"
+            },
+            {
+              "endTime": "330.200s",
+              "startTime": "329.700s",
+              "word": "if"
+            },
+            {
+              "endTime": "330.800s",
+              "startTime": "330.500s",
+              "word": "you"
+            },
+            {
+              "endTime": "331.200s",
+              "startTime": "330.800s",
+              "word": "get"
+            },
+            {
+              "endTime": "331.600s",
+              "startTime": "331.200s",
+              "word": "another"
+            },
+            {
+              "endTime": "332.400s",
+              "startTime": "331.600s",
+              "word": "signature"
+            },
+            {
+              "endTime": "333s",
+              "startTime": "332.400s",
+              "word": "bequest"
+            },
+            {
+              "endTime": "333.400s",
+              "startTime": "333s",
+              "word": "you"
+            },
+            {
+              "endTime": "333.700s",
+              "startTime": "333.400s",
+              "word": "need"
+            },
+            {
+              "endTime": "333.800s",
+              "startTime": "333.700s",
+              "word": "to"
+            },
+            {
+              "endTime": "334.200s",
+              "startTime": "333.800s",
+              "word": "sign"
+            },
+            {
+              "endTime": "334.500s",
+              "startTime": "334.200s",
+              "word": "it"
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "334.870s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.8843869,
+          "transcript": " the system will ask you frequently for the signature request so the best is to sign it",
+          "words": [
+            {
+              "endTime": "335.700s",
+              "startTime": "335.600s",
+              "word": "the"
+            },
+            {
+              "endTime": "336.300s",
+              "startTime": "335.700s",
+              "word": "system"
+            },
+            {
+              "endTime": "336.700s",
+              "startTime": "336.400s",
+              "word": "will"
+            },
+            {
+              "endTime": "337s",
+              "startTime": "336.700s",
+              "word": "ask"
+            },
+            {
+              "endTime": "337.200s",
+              "startTime": "337s",
+              "word": "you"
+            },
+            {
+              "endTime": "337.900s",
+              "startTime": "337.200s",
+              "word": "frequently"
+            },
+            {
+              "endTime": "338.300s",
+              "startTime": "337.900s",
+              "word": "for"
+            },
+            {
+              "endTime": "338.500s",
+              "startTime": "338.400s",
+              "word": "the"
+            },
+            {
+              "endTime": "339s",
+              "startTime": "338.500s",
+              "word": "signature"
+            },
+            {
+              "endTime": "339.800s",
+              "startTime": "339s",
+              "word": "request"
+            },
+            {
+              "endTime": "340.700s",
+              "startTime": "340.200s",
+              "word": "so"
+            },
+            {
+              "endTime": "340.800s",
+              "startTime": "340.700s",
+              "word": "the"
+            },
+            {
+              "endTime": "341.400s",
+              "startTime": "340.800s",
+              "word": "best"
+            },
+            {
+              "endTime": "342s",
+              "startTime": "341.700s",
+              "word": "is"
+            },
+            {
+              "endTime": "342.200s",
+              "startTime": "342s",
+              "word": "to"
+            },
+            {
+              "endTime": "342.500s",
+              "startTime": "342.200s",
+              "word": "sign"
+            },
+            {
+              "endTime": "342.800s",
+              "startTime": "342.500s",
+              "word": "it"
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "343.170s"
+    },
+    {
+      "alternatives": [{}],
+      "languageCode": "en-us",
+      "resultEndTime": "345.140s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.81365019,
+          "transcript": " let's add another nht",
+          "words": [
+            {
+              "endTime": "347.100s",
+              "startTime": "346.500s",
+              "word": "let's"
+            },
+            {
+              "endTime": "347.500s",
+              "startTime": "347.100s",
+              "word": "add"
+            },
+            {
+              "endTime": "348.100s",
+              "startTime": "347.500s",
+              "word": "another"
+            },
+            {
+              "endTime": "348.900s",
+              "startTime": "348.100s",
+              "word": "nht"
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "349.340s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.79006821,
+          "transcript": " basic in the description we have",
+          "words": [
+            {
+              "endTime": "351s",
+              "startTime": "350.300s",
+              "word": "basic"
+            },
+            {
+              "endTime": "351.300s",
+              "startTime": "351s",
+              "word": "in"
+            },
+            {
+              "endTime": "351.400s",
+              "startTime": "351.300s",
+              "word": "the"
+            },
+            {
+              "endTime": "352.300s",
+              "startTime": "351.400s",
+              "word": "description"
+            },
+            {
+              "endTime": "352.400s",
+              "startTime": "352.300s",
+              "word": "we"
+            },
+            {
+              "endTime": "352.800s",
+              "startTime": "352.400s",
+              "word": "have"
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "353.230s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.67901778,
+          "transcript": " the quantity will be one and the name will be the name we have here Kato the cricket",
+          "words": [
+            {
+              "endTime": "355s",
+              "startTime": "354.900s",
+              "word": "the"
+            },
+            {
+              "endTime": "355.700s",
+              "startTime": "355s",
+              "word": "quantity"
+            },
+            {
+              "endTime": "355.900s",
+              "startTime": "355.700s",
+              "word": "will"
+            },
+            {
+              "endTime": "356.100s",
+              "startTime": "355.900s",
+              "word": "be"
+            },
+            {
+              "endTime": "356.600s",
+              "startTime": "356.100s",
+              "word": "one"
+            },
+            {
+              "endTime": "357.300s",
+              "startTime": "357.100s",
+              "word": "and"
+            },
+            {
+              "endTime": "357.400s",
+              "startTime": "357.300s",
+              "word": "the"
+            },
+            {
+              "endTime": "358s",
+              "startTime": "357.400s",
+              "word": "name"
+            },
+            {
+              "endTime": "358.500s",
+              "startTime": "358.200s",
+              "word": "will"
+            },
+            {
+              "endTime": "358.900s",
+              "startTime": "358.500s",
+              "word": "be"
+            },
+            {
+              "endTime": "359s",
+              "startTime": "358.900s",
+              "word": "the"
+            },
+            {
+              "endTime": "359.400s",
+              "startTime": "359s",
+              "word": "name"
+            },
+            {
+              "endTime": "359.500s",
+              "startTime": "359.400s",
+              "word": "we"
+            },
+            {
+              "endTime": "359.800s",
+              "startTime": "359.500s",
+              "word": "have"
+            },
+            {
+              "endTime": "360.200s",
+              "startTime": "359.800s",
+              "word": "here"
+            },
+            {
+              "endTime": "361.300s",
+              "startTime": "361s",
+              "word": "Kato"
+            },
+            {
+              "endTime": "361.400s",
+              "startTime": "361.300s",
+              "word": "the"
+            },
+            {
+              "endTime": "362.200s",
+              "startTime": "361.400s",
+              "word": "cricket"
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "362.390s"
+    },
+    {
+      "alternatives": [{}],
+      "languageCode": "en-us",
+      "resultEndTime": "363.600s"
+    },
+    {
+      "alternatives": [{}],
+      "languageCode": "en-us",
+      "resultEndTime": "365.260s"
+    },
+    {
+      "alternatives": [{}],
+      "languageCode": "en-us",
+      "resultEndTime": "366.610s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.91283852,
+          "transcript": " let's click here and copy the description",
+          "words": [
+            {
+              "endTime": "370.900s",
+              "startTime": "370.600s",
+              "word": "let's"
+            },
+            {
+              "endTime": "371.400s",
+              "startTime": "370.900s",
+              "word": "click"
+            },
+            {
+              "endTime": "372.400s",
+              "startTime": "371.900s",
+              "word": "here"
+            },
+            {
+              "endTime": "372.800s",
+              "startTime": "372.400s",
+              "word": "and"
+            },
+            {
+              "endTime": "373.200s",
+              "startTime": "372.800s",
+              "word": "copy"
+            },
+            {
+              "endTime": "373.300s",
+              "startTime": "373.200s",
+              "word": "the"
+            },
+            {
+              "endTime": "374.200s",
+              "startTime": "373.300s",
+              "word": "description"
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "374.560s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.89638335,
+          "transcript": " and we will keep the attributes blank as well let's generate this image let's see",
+          "words": [
+            {
+              "endTime": "379.700s",
+              "startTime": "379.400s",
+              "word": "and"
+            },
+            {
+              "endTime": "379.800s",
+              "startTime": "379.700s",
+              "word": "we"
+            },
+            {
+              "endTime": "380s",
+              "startTime": "379.800s",
+              "word": "will"
+            },
+            {
+              "endTime": "380.300s",
+              "startTime": "380s",
+              "word": "keep"
+            },
+            {
+              "endTime": "380.400s",
+              "startTime": "380.300s",
+              "word": "the"
+            },
+            {
+              "endTime": "381.200s",
+              "startTime": "380.400s",
+              "word": "attributes"
+            },
+            {
+              "endTime": "381.900s",
+              "startTime": "381.400s",
+              "word": "blank"
+            },
+            {
+              "endTime": "382.100s",
+              "startTime": "381.900s",
+              "word": "as"
+            },
+            {
+              "endTime": "382.500s",
+              "startTime": "382.100s",
+              "word": "well"
+            },
+            {
+              "endTime": "383.100s",
+              "startTime": "382.700s",
+              "word": "let's"
+            },
+            {
+              "endTime": "383.600s",
+              "startTime": "383.100s",
+              "word": "generate"
+            },
+            {
+              "endTime": "383.800s",
+              "startTime": "383.600s",
+              "word": "this"
+            },
+            {
+              "endTime": "384.400s",
+              "startTime": "383.800s",
+              "word": "image"
+            },
+            {
+              "endTime": "385.200s",
+              "startTime": "384.900s",
+              "word": "let's"
+            },
+            {
+              "endTime": "385.500s",
+              "startTime": "385.200s",
+              "word": "see"
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "386s"
+    },
+    {
+      "alternatives": [{}],
+      "languageCode": "en-us",
+      "resultEndTime": "389.810s"
+    },
+    {
+      "alternatives": [{}],
+      "languageCode": "en-us",
+      "resultEndTime": "392.710s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.89462394,
+          "transcript": " okay now that our population is finished we can just go to create nxt's click on the blue button",
+          "words": [
+            {
+              "endTime": "395.500s",
+              "startTime": "394.900s",
+              "word": "okay"
+            },
+            {
+              "endTime": "396s",
+              "startTime": "395.600s",
+              "word": "now"
+            },
+            {
+              "endTime": "396.600s",
+              "startTime": "396.300s",
+              "word": "that"
+            },
+            {
+              "endTime": "396.900s",
+              "startTime": "396.600s",
+              "word": "our"
+            },
+            {
+              "endTime": "397.500s",
+              "startTime": "396.900s",
+              "word": "population"
+            },
+            {
+              "endTime": "397.700s",
+              "startTime": "397.500s",
+              "word": "is"
+            },
+            {
+              "endTime": "398.300s",
+              "startTime": "397.700s",
+              "word": "finished"
+            },
+            {
+              "endTime": "399.300s",
+              "startTime": "399.200s",
+              "word": "we"
+            },
+            {
+              "endTime": "399.600s",
+              "startTime": "399.300s",
+              "word": "can"
+            },
+            {
+              "endTime": "399.800s",
+              "startTime": "399.600s",
+              "word": "just"
+            },
+            {
+              "endTime": "400.300s",
+              "startTime": "399.800s",
+              "word": "go"
+            },
+            {
+              "endTime": "400.900s",
+              "startTime": "400.700s",
+              "word": "to"
+            },
+            {
+              "endTime": "401.400s",
+              "startTime": "400.900s",
+              "word": "create"
+            },
+            {
+              "endTime": "402.200s",
+              "startTime": "401.400s",
+              "word": "nxt's"
+            },
+            {
+              "endTime": "403.100s",
+              "startTime": "402.600s",
+              "word": "click"
+            },
+            {
+              "endTime": "403.700s",
+              "startTime": "403.500s",
+              "word": "on"
+            },
+            {
+              "endTime": "403.800s",
+              "startTime": "403.700s",
+              "word": "the"
+            },
+            {
+              "endTime": "404s",
+              "startTime": "403.800s",
+              "word": "blue"
+            },
+            {
+              "endTime": "404.600s",
+              "startTime": "404s",
+              "word": "button"
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "405.050s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.91283858,
+          "transcript": " and confirm with the prompt",
+          "words": [
+            {
+              "endTime": "407.100s",
+              "startTime": "406.600s",
+              "word": "and"
+            },
+            {
+              "endTime": "408.200s",
+              "startTime": "407.300s",
+              "word": "confirm"
+            },
+            {
+              "endTime": "409.100s",
+              "startTime": "408.700s",
+              "word": "with"
+            },
+            {
+              "endTime": "409.200s",
+              "startTime": "409.100s",
+              "word": "the"
+            },
+            {
+              "endTime": "409.800s",
+              "startTime": "409.200s",
+              "word": "prompt"
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "410.180s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.91283852,
+          "transcript": " you will be asked again in your wallet",
+          "words": [
+            {
+              "endTime": "412.700s",
+              "startTime": "412.500s",
+              "word": "you"
+            },
+            {
+              "endTime": "413s",
+              "startTime": "412.700s",
+              "word": "will"
+            },
+            {
+              "endTime": "413.200s",
+              "startTime": "413s",
+              "word": "be"
+            },
+            {
+              "endTime": "413.900s",
+              "startTime": "413.200s",
+              "word": "asked"
+            },
+            {
+              "endTime": "414.400s",
+              "startTime": "413.900s",
+              "word": "again"
+            },
+            {
+              "endTime": "414.600s",
+              "startTime": "414.400s",
+              "word": "in"
+            },
+            {
+              "endTime": "414.700s",
+              "startTime": "414.600s",
+              "word": "your"
+            },
+            {
+              "endTime": "415.400s",
+              "startTime": "414.700s",
+              "word": "wallet"
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "415.770s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.91283852,
+          "transcript": " and you will need to accept this will be",
+          "words": [
+            {
+              "endTime": "417.500s",
+              "startTime": "417s",
+              "word": "and"
+            },
+            {
+              "endTime": "417.700s",
+              "startTime": "417.600s",
+              "word": "you"
+            },
+            {
+              "endTime": "417.900s",
+              "startTime": "417.700s",
+              "word": "will"
+            },
+            {
+              "endTime": "418.100s",
+              "startTime": "417.900s",
+              "word": "need"
+            },
+            {
+              "endTime": "418.300s",
+              "startTime": "418.100s",
+              "word": "to"
+            },
+            {
+              "endTime": "418.800s",
+              "startTime": "418.300s",
+              "word": "accept"
+            },
+            {
+              "endTime": "419.300s",
+              "startTime": "418.800s",
+              "word": "this"
+            },
+            {
+              "endTime": "419.800s",
+              "startTime": "419.500s",
+              "word": "will"
+            },
+            {
+              "endTime": "420.200s",
+              "startTime": "419.800s",
+              "word": "be"
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "420.610s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.70597774,
+          "transcript": " cost use Magic",
+          "words": [
+            {
+              "endTime": "421.900s",
+              "startTime": "421.400s",
+              "word": "cost"
+            },
+            {
+              "endTime": "422.100s",
+              "startTime": "421.900s",
+              "word": "use"
+            },
+            {
+              "endTime": "422.800s",
+              "startTime": "422.100s",
+              "word": "Magic"
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "423.130s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.91283852,
+          "transcript": " and you will have your amazing collection",
+          "words": [
+            {
+              "endTime": "424.500s",
+              "startTime": "424s",
+              "word": "and"
+            },
+            {
+              "endTime": "425.700s",
+              "startTime": "425.600s",
+              "word": "you"
+            },
+            {
+              "endTime": "425.900s",
+              "startTime": "425.700s",
+              "word": "will"
+            },
+            {
+              "endTime": "426.400s",
+              "startTime": "425.900s",
+              "word": "have"
+            },
+            {
+              "endTime": "427s",
+              "startTime": "426.700s",
+              "word": "your"
+            },
+            {
+              "endTime": "427.900s",
+              "startTime": "427s",
+              "word": "amazing"
+            },
+            {
+              "endTime": "428.900s",
+              "startTime": "428.100s",
+              "word": "collection"
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "429.240s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.84835529,
+          "transcript": " please don't close this window until you finish now we have our nft collection created let's see",
+          "words": [
+            {
+              "endTime": "430.400s",
+              "startTime": "429.900s",
+              "word": "please"
+            },
+            {
+              "endTime": "431.500s",
+              "startTime": "431.100s",
+              "word": "don't"
+            },
+            {
+              "endTime": "432.100s",
+              "startTime": "431.500s",
+              "word": "close"
+            },
+            {
+              "endTime": "433.200s",
+              "startTime": "432.700s",
+              "word": "this"
+            },
+            {
+              "endTime": "434.400s",
+              "startTime": "433.800s",
+              "word": "window"
+            },
+            {
+              "endTime": "435.800s",
+              "startTime": "435.100s",
+              "word": "until"
+            },
+            {
+              "endTime": "436.500s",
+              "startTime": "436.300s",
+              "word": "you"
+            },
+            {
+              "endTime": "437.100s",
+              "startTime": "436.500s",
+              "word": "finish"
+            },
+            {
+              "endTime": "437.900s",
+              "startTime": "437.700s",
+              "word": "now"
+            },
+            {
+              "endTime": "438.100s",
+              "startTime": "437.900s",
+              "word": "we"
+            },
+            {
+              "endTime": "438.500s",
+              "startTime": "438.100s",
+              "word": "have"
+            },
+            {
+              "endTime": "439.700s",
+              "startTime": "439.300s",
+              "word": "our"
+            },
+            {
+              "endTime": "440.100s",
+              "startTime": "439.700s",
+              "word": "nft"
+            },
+            {
+              "endTime": "440.700s",
+              "startTime": "440.100s",
+              "word": "collection"
+            },
+            {
+              "endTime": "441.500s",
+              "startTime": "440.700s",
+              "word": "created"
+            },
+            {
+              "endTime": "442.100s",
+              "startTime": "441.700s",
+              "word": "let's"
+            },
+            {
+              "endTime": "442.600s",
+              "startTime": "442.100s",
+              "word": "see"
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "443.040s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.79126406,
+          "transcript": " how looks",
+          "words": [
+            {
+              "endTime": "444.300s",
+              "startTime": "444s",
+              "word": "how"
+            },
+            {
+              "endTime": "444.800s",
+              "startTime": "444.300s",
+              "word": "looks"
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "445.260s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.71362644,
+          "transcript": " are we running this",
+          "words": [
+            {
+              "endTime": "446.100s",
+              "startTime": "446s",
+              "word": "are"
+            },
+            {
+              "endTime": "446.300s",
+              "startTime": "446.100s",
+              "word": "we"
+            },
+            {
+              "endTime": "446.700s",
+              "startTime": "446.300s",
+              "word": "running"
+            },
+            {
+              "endTime": "447.100s",
+              "startTime": "446.700s",
+              "word": "this"
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "447.330s"
+    },
+    {
+      "alternatives": [{}],
+      "languageCode": "en-us",
+      "resultEndTime": "454.350s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.91283864,
+          "transcript": " you can see",
+          "words": [
+            {
+              "endTime": "456.900s",
+              "startTime": "456.800s",
+              "word": "you"
+            },
+            {
+              "endTime": "457.100s",
+              "startTime": "456.900s",
+              "word": "can"
+            },
+            {
+              "endTime": "457.500s",
+              "startTime": "457.100s",
+              "word": "see"
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "457.900s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.87136054,
+          "transcript": " we have the description we have the details we have the contract address I mean Tada move away because I'm on estimate but you can meet only on polygon Network or all Egan magnet and also you can use this network to test",
+          "words": [
+            {
+              "endTime": "459.400s",
+              "startTime": "459s",
+              "word": "we"
+            },
+            {
+              "endTime": "459.800s",
+              "startTime": "459.400s",
+              "word": "have"
+            },
+            {
+              "endTime": "459.900s",
+              "startTime": "459.800s",
+              "word": "the"
+            },
+            {
+              "endTime": "460.800s",
+              "startTime": "459.900s",
+              "word": "description"
+            },
+            {
+              "endTime": "461.400s",
+              "startTime": "461.200s",
+              "word": "we"
+            },
+            {
+              "endTime": "461.600s",
+              "startTime": "461.400s",
+              "word": "have"
+            },
+            {
+              "endTime": "461.700s",
+              "startTime": "461.600s",
+              "word": "the"
+            },
+            {
+              "endTime": "462.300s",
+              "startTime": "461.700s",
+              "word": "details"
+            },
+            {
+              "endTime": "462.500s",
+              "startTime": "462.300s",
+              "word": "we"
+            },
+            {
+              "endTime": "462.900s",
+              "startTime": "462.500s",
+              "word": "have"
+            },
+            {
+              "endTime": "463.900s",
+              "startTime": "463.800s",
+              "word": "the"
+            },
+            {
+              "endTime": "464.400s",
+              "startTime": "463.900s",
+              "word": "contract"
+            },
+            {
+              "endTime": "465s",
+              "startTime": "464.400s",
+              "word": "address"
+            },
+            {
+              "endTime": "465.600s",
+              "startTime": "465.500s",
+              "word": "I"
+            },
+            {
+              "endTime": "465.900s",
+              "startTime": "465.600s",
+              "word": "mean"
+            },
+            {
+              "endTime": "466.300s",
+              "startTime": "465.900s",
+              "word": "Tada"
+            },
+            {
+              "endTime": "466.600s",
+              "startTime": "466.300s",
+              "word": "move"
+            },
+            {
+              "endTime": "467s",
+              "startTime": "466.600s",
+              "word": "away"
+            },
+            {
+              "endTime": "467.600s",
+              "startTime": "467.100s",
+              "word": "because"
+            },
+            {
+              "endTime": "467.800s",
+              "startTime": "467.600s",
+              "word": "I'm"
+            },
+            {
+              "endTime": "468.100s",
+              "startTime": "467.800s",
+              "word": "on"
+            },
+            {
+              "endTime": "468.700s",
+              "startTime": "468.100s",
+              "word": "estimate"
+            },
+            {
+              "endTime": "469.200s",
+              "startTime": "468.700s",
+              "word": "but"
+            },
+            {
+              "endTime": "469.400s",
+              "startTime": "469.300s",
+              "word": "you"
+            },
+            {
+              "endTime": "469.700s",
+              "startTime": "469.400s",
+              "word": "can"
+            },
+            {
+              "endTime": "470.100s",
+              "startTime": "469.700s",
+              "word": "meet"
+            },
+            {
+              "endTime": "470.500s",
+              "startTime": "470.100s",
+              "word": "only"
+            },
+            {
+              "endTime": "470.800s",
+              "startTime": "470.500s",
+              "word": "on"
+            },
+            {
+              "endTime": "471.500s",
+              "startTime": "470.800s",
+              "word": "polygon"
+            },
+            {
+              "endTime": "472.400s",
+              "startTime": "471.700s",
+              "word": "Network"
+            },
+            {
+              "endTime": "472.800s",
+              "startTime": "472.400s",
+              "word": "or"
+            },
+            {
+              "endTime": "473s",
+              "startTime": "472.800s",
+              "word": "all"
+            },
+            {
+              "endTime": "473.300s",
+              "startTime": "473s",
+              "word": "Egan"
+            },
+            {
+              "endTime": "474s",
+              "startTime": "473.300s",
+              "word": "magnet"
+            },
+            {
+              "endTime": "474.700s",
+              "startTime": "474.400s",
+              "word": "and"
+            },
+            {
+              "endTime": "475.200s",
+              "startTime": "474.700s",
+              "word": "also"
+            },
+            {
+              "endTime": "475.300s",
+              "startTime": "475.200s",
+              "word": "you"
+            },
+            {
+              "endTime": "475.600s",
+              "startTime": "475.300s",
+              "word": "can"
+            },
+            {
+              "endTime": "476s",
+              "startTime": "475.600s",
+              "word": "use"
+            },
+            {
+              "endTime": "476.400s",
+              "startTime": "476.100s",
+              "word": "this"
+            },
+            {
+              "endTime": "477.100s",
+              "startTime": "476.400s",
+              "word": "network"
+            },
+            {
+              "endTime": "477.300s",
+              "startTime": "477.200s",
+              "word": "to"
+            },
+            {
+              "endTime": "478s",
+              "startTime": "477.300s",
+              "word": "test"
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "478.550s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.83128005,
+          "transcript": " let's see the other honesty how it looks",
+          "words": [
+            {
+              "endTime": "480.900s",
+              "startTime": "480.600s",
+              "word": "let's"
+            },
+            {
+              "endTime": "481.300s",
+              "startTime": "480.900s",
+              "word": "see"
+            },
+            {
+              "endTime": "481.500s",
+              "startTime": "481.300s",
+              "word": "the"
+            },
+            {
+              "endTime": "481.800s",
+              "startTime": "481.500s",
+              "word": "other"
+            },
+            {
+              "endTime": "482.300s",
+              "startTime": "481.800s",
+              "word": "honesty"
+            },
+            {
+              "endTime": "482.500s",
+              "startTime": "482.300s",
+              "word": "how"
+            },
+            {
+              "endTime": "482.500s",
+              "startTime": "482.500s",
+              "word": "it"
+            },
+            {
+              "endTime": "483s",
+              "startTime": "482.500s",
+              "word": "looks"
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "483.360s"
+    },
+    {
+      "alternatives": [{}],
+      "languageCode": "en-us",
+      "resultEndTime": "484.580s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.91283858,
+          "transcript": " okay so",
+          "words": [
+            {
+              "endTime": "490.700s",
+              "startTime": "490s",
+              "word": "okay"
+            },
+            {
+              "endTime": "491.300s",
+              "startTime": "490.700s",
+              "word": "so"
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "491.750s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.77432096,
+          "transcript": " you learn how to create your NHD collection with the exit thank you for viewing this video and do not forget to subscribe to our channel for more of these videos",
+          "words": [
+            {
+              "endTime": "492.500s",
+              "startTime": "492.400s",
+              "word": "you"
+            },
+            {
+              "endTime": "493s",
+              "startTime": "492.500s",
+              "word": "learn"
+            },
+            {
+              "endTime": "493.200s",
+              "startTime": "493s",
+              "word": "how"
+            },
+            {
+              "endTime": "493.400s",
+              "startTime": "493.200s",
+              "word": "to"
+            },
+            {
+              "endTime": "494.200s",
+              "startTime": "493.400s",
+              "word": "create"
+            },
+            {
+              "endTime": "494.600s",
+              "startTime": "494.300s",
+              "word": "your"
+            },
+            {
+              "endTime": "495.900s",
+              "startTime": "495.300s",
+              "word": "NHD"
+            },
+            {
+              "endTime": "496.500s",
+              "startTime": "495.900s",
+              "word": "collection"
+            },
+            {
+              "endTime": "496.700s",
+              "startTime": "496.500s",
+              "word": "with"
+            },
+            {
+              "endTime": "496.800s",
+              "startTime": "496.700s",
+              "word": "the"
+            },
+            {
+              "endTime": "497.400s",
+              "startTime": "496.800s",
+              "word": "exit"
+            },
+            {
+              "endTime": "498.700s",
+              "startTime": "498.400s",
+              "word": "thank"
+            },
+            {
+              "endTime": "499s",
+              "startTime": "498.700s",
+              "word": "you"
+            },
+            {
+              "endTime": "499.700s",
+              "startTime": "499.200s",
+              "word": "for"
+            },
+            {
+              "endTime": "500.100s",
+              "startTime": "499.700s",
+              "word": "viewing"
+            },
+            {
+              "endTime": "500.300s",
+              "startTime": "500.100s",
+              "word": "this"
+            },
+            {
+              "endTime": "500.900s",
+              "startTime": "500.300s",
+              "word": "video"
+            },
+            {
+              "endTime": "501.600s",
+              "startTime": "501.400s",
+              "word": "and"
+            },
+            {
+              "endTime": "501.800s",
+              "startTime": "501.600s",
+              "word": "do"
+            },
+            {
+              "endTime": "502.100s",
+              "startTime": "501.800s",
+              "word": "not"
+            },
+            {
+              "endTime": "502.800s",
+              "startTime": "502.100s",
+              "word": "forget"
+            },
+            {
+              "endTime": "502.900s",
+              "startTime": "502.800s",
+              "word": "to"
+            },
+            {
+              "endTime": "503.600s",
+              "startTime": "502.900s",
+              "word": "subscribe"
+            },
+            {
+              "endTime": "503.900s",
+              "startTime": "503.600s",
+              "word": "to"
+            },
+            {
+              "endTime": "504.100s",
+              "startTime": "503.900s",
+              "word": "our"
+            },
+            {
+              "endTime": "504.600s",
+              "startTime": "504.100s",
+              "word": "channel"
+            },
+            {
+              "endTime": "505s",
+              "startTime": "504.600s",
+              "word": "for"
+            },
+            {
+              "endTime": "505.500s",
+              "startTime": "505s",
+              "word": "more"
+            },
+            {
+              "endTime": "505.800s",
+              "startTime": "505.600s",
+              "word": "of"
+            },
+            {
+              "endTime": "506.300s",
+              "startTime": "505.800s",
+              "word": "these"
+            },
+            {
+              "endTime": "506.900s",
+              "startTime": "506.300s",
+              "word": "videos"
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "508.530s"
+    },
+    {
+      "alternatives": [{}],
+      "languageCode": "en-us",
+      "resultEndTime": "510.500s"
+    }
+  ]
+}

@@ -1,0 +1,1048 @@
+{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "confidence": 0.84059578,
+          "transcript": "it's not hard to configure your domain section in the nft marketplace by desk you just need to go to The Domain section and input your custom domain in the section then click on Save and wait for the confirmation if your wallet basket you just click on the confirmation and all will be set this can be changed anytime",
+          "words": [
+            {
+              "confidence": 0.91283858,
+              "endTime": "0.800s",
+              "startTime": "0.500s",
+              "word": "it's"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "1s",
+              "startTime": "0.800s",
+              "word": "not"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "1.400s",
+              "startTime": "1s",
+              "word": "hard"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "1.500s",
+              "startTime": "1.400s",
+              "word": "to"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "2.400s",
+              "startTime": "1.500s",
+              "word": "configure"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "2.800s",
+              "startTime": "2.700s",
+              "word": "your"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "3.300s",
+              "startTime": "2.800s",
+              "word": "domain"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "3.800s",
+              "startTime": "3.300s",
+              "word": "section"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "4s",
+              "startTime": "3.800s",
+              "word": "in"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "4.300s",
+              "startTime": "4s",
+              "word": "the"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "5s",
+              "startTime": "4.300s",
+              "word": "nft"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "5.900s",
+              "startTime": "5.100s",
+              "word": "marketplace"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "6.100s",
+              "startTime": "5.900s",
+              "word": "by"
+            },
+            {
+              "confidence": 0.65667123,
+              "endTime": "6.800s",
+              "startTime": "6.100s",
+              "word": "desk"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "7.500s",
+              "startTime": "7.300s",
+              "word": "you"
+            },
+            {
+              "confidence": 0.90721023,
+              "endTime": "7.800s",
+              "startTime": "7.500s",
+              "word": "just"
+            },
+            {
+              "confidence": 0.90721023,
+              "endTime": "8.200s",
+              "startTime": "7.800s",
+              "word": "need"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "8.300s",
+              "startTime": "8.200s",
+              "word": "to"
+            },
+            {
+              "confidence": 0.72099155,
+              "endTime": "8.700s",
+              "startTime": "8.300s",
+              "word": "go"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "8.900s",
+              "startTime": "8.800s",
+              "word": "to"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "9s",
+              "startTime": "8.900s",
+              "word": "The"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "9.600s",
+              "startTime": "9s",
+              "word": "Domain"
+            },
+            {
+              "confidence": 0.72743094,
+              "endTime": "10.200s",
+              "startTime": "9.600s",
+              "word": "section"
+            },
+            {
+              "confidence": 0.86349344,
+              "endTime": "11.200s",
+              "startTime": "10.800s",
+              "word": "and"
+            },
+            {
+              "confidence": 0.76890469,
+              "endTime": "11.900s",
+              "startTime": "11.200s",
+              "word": "input"
+            },
+            {
+              "confidence": 0.69556981,
+              "endTime": "12.300s",
+              "startTime": "11.900s",
+              "word": "your"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "12.900s",
+              "startTime": "12.300s",
+              "word": "custom"
+            },
+            {
+              "confidence": 0.69642854,
+              "endTime": "13.500s",
+              "startTime": "12.900s",
+              "word": "domain"
+            },
+            {
+              "confidence": 0.90177846,
+              "endTime": "13.900s",
+              "startTime": "13.600s",
+              "word": "in"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "14.100s",
+              "startTime": "13.900s",
+              "word": "the"
+            },
+            {
+              "confidence": 0.88535833,
+              "endTime": "14.800s",
+              "startTime": "14.100s",
+              "word": "section"
+            },
+            {
+              "confidence": 0.82131815,
+              "endTime": "15.300s",
+              "startTime": "14.800s",
+              "word": "then"
+            },
+            {
+              "confidence": 0.69194829,
+              "endTime": "15.700s",
+              "startTime": "15.300s",
+              "word": "click"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "15.900s",
+              "startTime": "15.700s",
+              "word": "on"
+            },
+            {
+              "confidence": 0.75857276,
+              "endTime": "16.500s",
+              "startTime": "15.900s",
+              "word": "Save"
+            },
+            {
+              "confidence": 0.72145313,
+              "endTime": "17.700s",
+              "startTime": "17.100s",
+              "word": "and"
+            },
+            {
+              "confidence": 0.7717194,
+              "endTime": "18.200s",
+              "startTime": "17.700s",
+              "word": "wait"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "18.400s",
+              "startTime": "18.200s",
+              "word": "for"
+            },
+            {
+              "confidence": 0.77171934,
+              "endTime": "18.500s",
+              "startTime": "18.400s",
+              "word": "the"
+            },
+            {
+              "confidence": 0.70046932,
+              "endTime": "19.500s",
+              "startTime": "18.500s",
+              "word": "confirmation"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "20.100s",
+              "startTime": "19.900s",
+              "word": "if"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "20.300s",
+              "startTime": "20.100s",
+              "word": "your"
+            },
+            {
+              "confidence": 0.87937558,
+              "endTime": "20.800s",
+              "startTime": "20.300s",
+              "word": "wallet"
+            },
+            {
+              "confidence": 0.78791857,
+              "endTime": "21.600s",
+              "startTime": "20.800s",
+              "word": "basket"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "22.200s",
+              "startTime": "22s",
+              "word": "you"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "22.500s",
+              "startTime": "22.200s",
+              "word": "just"
+            },
+            {
+              "confidence": 0.75520676,
+              "endTime": "22.900s",
+              "startTime": "22.500s",
+              "word": "click"
+            },
+            {
+              "confidence": 0.7241835,
+              "endTime": "23.100s",
+              "startTime": "23s",
+              "word": "on"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "23.200s",
+              "startTime": "23.100s",
+              "word": "the"
+            },
+            {
+              "confidence": 0.69498724,
+              "endTime": "24.100s",
+              "startTime": "23.200s",
+              "word": "confirmation"
+            },
+            {
+              "confidence": 0.69194829,
+              "endTime": "24.700s",
+              "startTime": "24.200s",
+              "word": "and"
+            },
+            {
+              "confidence": 0.76580691,
+              "endTime": "25.500s",
+              "startTime": "25.200s",
+              "word": "all"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "25.800s",
+              "startTime": "25.500s",
+              "word": "will"
+            },
+            {
+              "confidence": 0.70746619,
+              "endTime": "25.900s",
+              "startTime": "25.800s",
+              "word": "be"
+            },
+            {
+              "confidence": 0.7717194,
+              "endTime": "26.400s",
+              "startTime": "25.900s",
+              "word": "set"
+            },
+            {
+              "confidence": 0.87816745,
+              "endTime": "27.200s",
+              "startTime": "26.900s",
+              "word": "this"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "27.500s",
+              "startTime": "27.200s",
+              "word": "can"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "27.700s",
+              "startTime": "27.500s",
+              "word": "be"
+            },
+            {
+              "confidence": 0.71051419,
+              "endTime": "28.500s",
+              "startTime": "27.700s",
+              "word": "changed"
+            },
+            {
+              "confidence": 0.71505064,
+              "endTime": "29.400s",
+              "startTime": "28.500s",
+              "word": "anytime"
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "29.860s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.91283858,
+          "transcript": " just go to other sections and replace it by another domain that you own in this case we will leave it in this",
+          "words": [
+            {
+              "confidence": 0.91283858,
+              "endTime": "31.300s",
+              "startTime": "30.800s",
+              "word": "just"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "31.700s",
+              "startTime": "31.300s",
+              "word": "go"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "32.100s",
+              "startTime": "31.700s",
+              "word": "to"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "32.900s",
+              "startTime": "32.600s",
+              "word": "other"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "33.600s",
+              "startTime": "32.900s",
+              "word": "sections"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "34.100s",
+              "startTime": "33.600s",
+              "word": "and"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "34.900s",
+              "startTime": "34.400s",
+              "word": "replace"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "35.300s",
+              "startTime": "34.900s",
+              "word": "it"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "36s",
+              "startTime": "35.500s",
+              "word": "by"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "36.600s",
+              "startTime": "36s",
+              "word": "another"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "37.300s",
+              "startTime": "36.600s",
+              "word": "domain"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "37.700s",
+              "startTime": "37.400s",
+              "word": "that"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "37.900s",
+              "startTime": "37.700s",
+              "word": "you"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "38.300s",
+              "startTime": "37.900s",
+              "word": "own"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "38.900s",
+              "startTime": "38.800s",
+              "word": "in"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "39.100s",
+              "startTime": "38.900s",
+              "word": "this"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "39.600s",
+              "startTime": "39.100s",
+              "word": "case"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "40.400s",
+              "startTime": "40.200s",
+              "word": "we"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "40.800s",
+              "startTime": "40.400s",
+              "word": "will"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "41.300s",
+              "startTime": "41s",
+              "word": "leave"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "41.500s",
+              "startTime": "41.300s",
+              "word": "it"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "41.700s",
+              "startTime": "41.500s",
+              "word": "in"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "42.100s",
+              "startTime": "41.700s",
+              "word": "this"
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "42.500s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.82612276,
+          "transcript": " let's go to the marketplace management clicking on Marketplace here or just",
+          "words": [
+            {
+              "confidence": 0.91283858,
+              "endTime": "44.600s",
+              "startTime": "44.400s",
+              "word": "let's"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "44.900s",
+              "startTime": "44.600s",
+              "word": "go"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "45.100s",
+              "startTime": "44.900s",
+              "word": "to"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "45.200s",
+              "startTime": "45.100s",
+              "word": "the"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "46s",
+              "startTime": "45.200s",
+              "word": "marketplace"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "46.900s",
+              "startTime": "46s",
+              "word": "management"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "47.600s",
+              "startTime": "47s",
+              "word": "clicking"
+            },
+            {
+              "confidence": 0.87289983,
+              "endTime": "47.900s",
+              "startTime": "47.600s",
+              "word": "on"
+            },
+            {
+              "confidence": 0.56170559,
+              "endTime": "48.600s",
+              "startTime": "47.900s",
+              "word": "Marketplace"
+            },
+            {
+              "confidence": 0.72771227,
+              "endTime": "49.100s",
+              "startTime": "48.600s",
+              "word": "here"
+            },
+            {
+              "confidence": 0.72499388,
+              "endTime": "50.200s",
+              "startTime": "49.800s",
+              "word": "or"
+            },
+            {
+              "confidence": 0.63629144,
+              "endTime": "51.700s",
+              "startTime": "51s",
+              "word": "just"
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "52.090s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.85676289,
+          "transcript": " going to admin section in the menu manage marketplaces as you can see here is our only one entity Marketplace in the first place you can see the custom domain and in the second place you can see the domain provide Xscape they sit in your nft Marketplace name you can see also the actions",
+          "words": [
+            {
+              "confidence": 0.91283858,
+              "endTime": "53.400s",
+              "startTime": "53s",
+              "word": "going"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "53.900s",
+              "startTime": "53.400s",
+              "word": "to"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "54.700s",
+              "startTime": "54.200s",
+              "word": "admin"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "55.300s",
+              "startTime": "54.700s",
+              "word": "section"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "55.500s",
+              "startTime": "55.300s",
+              "word": "in"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "55.600s",
+              "startTime": "55.500s",
+              "word": "the"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "56.200s",
+              "startTime": "55.600s",
+              "word": "menu"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "57s",
+              "startTime": "56.500s",
+              "word": "manage"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "58.100s",
+              "startTime": "57s",
+              "word": "marketplaces"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "58.700s",
+              "startTime": "58.600s",
+              "word": "as"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "58.800s",
+              "startTime": "58.700s",
+              "word": "you"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "59s",
+              "startTime": "58.800s",
+              "word": "can"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "59.500s",
+              "startTime": "59s",
+              "word": "see"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "60.300s",
+              "startTime": "60s",
+              "word": "here"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "60.700s",
+              "startTime": "60.300s",
+              "word": "is"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "61s",
+              "startTime": "60.700s",
+              "word": "our"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "61.400s",
+              "startTime": "61s",
+              "word": "only"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "61.900s",
+              "startTime": "61.400s",
+              "word": "one"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "62.600s",
+              "startTime": "61.900s",
+              "word": "entity"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "63.600s",
+              "startTime": "62.600s",
+              "word": "Marketplace"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "64.600s",
+              "startTime": "64.400s",
+              "word": "in"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "64.700s",
+              "startTime": "64.600s",
+              "word": "the"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "65.100s",
+              "startTime": "64.700s",
+              "word": "first"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "65.600s",
+              "startTime": "65.100s",
+              "word": "place"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "65.900s",
+              "startTime": "65.700s",
+              "word": "you"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "66.100s",
+              "startTime": "65.900s",
+              "word": "can"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "66.600s",
+              "startTime": "66.100s",
+              "word": "see"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "66.700s",
+              "startTime": "66.600s",
+              "word": "the"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "67.200s",
+              "startTime": "66.700s",
+              "word": "custom"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "67.800s",
+              "startTime": "67.200s",
+              "word": "domain"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "68.200s",
+              "startTime": "67.900s",
+              "word": "and"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "68.400s",
+              "startTime": "68.200s",
+              "word": "in"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "68.500s",
+              "startTime": "68.400s",
+              "word": "the"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "68.900s",
+              "startTime": "68.500s",
+              "word": "second"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "69.400s",
+              "startTime": "68.900s",
+              "word": "place"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "69.500s",
+              "startTime": "69.400s",
+              "word": "you"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "69.800s",
+              "startTime": "69.500s",
+              "word": "can"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "70.100s",
+              "startTime": "69.800s",
+              "word": "see"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "70.400s",
+              "startTime": "70.300s",
+              "word": "the"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "70.800s",
+              "startTime": "70.400s",
+              "word": "domain"
+            },
+            {
+              "confidence": 0.78389156,
+              "endTime": "71.500s",
+              "startTime": "70.800s",
+              "word": "provide"
+            },
+            {
+              "confidence": 0.34962645,
+              "endTime": "72.200s",
+              "startTime": "71.500s",
+              "word": "Xscape"
+            },
+            {
+              "confidence": 0.71721381,
+              "endTime": "72.600s",
+              "startTime": "72.400s",
+              "word": "they"
+            },
+            {
+              "confidence": 0.71284312,
+              "endTime": "73.100s",
+              "startTime": "72.600s",
+              "word": "sit"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "73.500s",
+              "startTime": "73.300s",
+              "word": "in"
+            },
+            {
+              "confidence": 0.69525599,
+              "endTime": "73.700s",
+              "startTime": "73.500s",
+              "word": "your"
+            },
+            {
+              "confidence": 0.5257892,
+              "endTime": "74.200s",
+              "startTime": "73.700s",
+              "word": "nft"
+            },
+            {
+              "confidence": 0.89481759,
+              "endTime": "75s",
+              "startTime": "74.200s",
+              "word": "Marketplace"
+            },
+            {
+              "confidence": 0.72184253,
+              "endTime": "75.400s",
+              "startTime": "75s",
+              "word": "name"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "76.200s",
+              "startTime": "76s",
+              "word": "you"
+            },
+            {
+              "confidence": 0.72562474,
+              "endTime": "76.400s",
+              "startTime": "76.200s",
+              "word": "can"
+            },
+            {
+              "confidence": 0.7457729,
+              "endTime": "76.600s",
+              "startTime": "76.400s",
+              "word": "see"
+            },
+            {
+              "confidence": 0.65113407,
+              "endTime": "77s",
+              "startTime": "76.600s",
+              "word": "also"
+            },
+            {
+              "confidence": 0.52201909,
+              "endTime": "77.200s",
+              "startTime": "77s",
+              "word": "the"
+            },
+            {
+              "confidence": 0.73692298,
+              "endTime": "77.900s",
+              "startTime": "77.200s",
+              "word": "actions"
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "78.290s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.91283864,
+          "transcript": " and this is done now you have connected your domain with your energy Marketplace",
+          "words": [
+            {
+              "confidence": 0.91283858,
+              "endTime": "79.400s",
+              "startTime": "78.900s",
+              "word": "and"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "80.900s",
+              "startTime": "80.400s",
+              "word": "this"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "81.200s",
+              "startTime": "80.900s",
+              "word": "is"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "81.900s",
+              "startTime": "81.400s",
+              "word": "done"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "82.900s",
+              "startTime": "82.500s",
+              "word": "now"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "83.100s",
+              "startTime": "82.900s",
+              "word": "you"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "83.500s",
+              "startTime": "83.100s",
+              "word": "have"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "84.400s",
+              "startTime": "83.500s",
+              "word": "connected"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "84.700s",
+              "startTime": "84.500s",
+              "word": "your"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "85.300s",
+              "startTime": "84.700s",
+              "word": "domain"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "85.900s",
+              "startTime": "85.500s",
+              "word": "with"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "86.400s",
+              "startTime": "86s",
+              "word": "your"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "87s",
+              "startTime": "86.400s",
+              "word": "energy"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "88.100s",
+              "startTime": "87.200s",
+              "word": "Marketplace"
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "88.470s"
+    }
+  ]
+}

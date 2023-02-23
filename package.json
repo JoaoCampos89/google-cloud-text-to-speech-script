@@ -9,6 +9,7 @@
     "convert-file-to-audio": "node scripts/index.js",
     "convert-file-to-audio-2": "node scripts/index2.js",
     "convert-transcriptions-to-audio": "node scripts/convertTranscriptionsToSpeech.js",
+    "convert-single-transcription-to-audio": "node scripts/convertTranscriptionToSpeech.js",
     "parse-transcripted-files": "node scripts/parseTranscriptions.js",
     "convert-transcripted-files-to-ssml": "node scripts/convertTranscriptionsSSML.js"
   },

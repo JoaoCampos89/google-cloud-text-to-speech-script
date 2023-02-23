@@ -1,25 +1,28 @@
 <speak>
 	<par>
 		<media begin="4.400s">
-			<speak>in this section we will be changing the default collections on the nft marketplace</speak>
+			<speak>in this section we will be changing I will befall collections on the nft marketplace</speak>
 		</media>
 		<media begin="13.500s">
-			<speak> you can see that the three default collections are the kittygotchi nft pets for Ethereum</speak>
+			<speak> you can see that the three default collections are the kitty gachi nft pets for Thanksgiving</speak>
 		</media>
 		<media begin="20.900s">
-			<speak> Binance, smart chain and Polygon metworks. let's edit  this. You can see that you can choose the network from ethereum, optimism, Smart chain, polygon, Fantom and Avalanche anyone where your collection is living. Paste the address here, you place a name for the collection doesn't need to be the same name you can add emojis</speak>
+			<speak> cerium smart chain and polygons let's edit it the kitty got your material you can see that you can choose the network from etherium optimism is my chain polygon sample and Avalanche anyone word unfp collection is leading you paste the address here place a name for the collection doesn't need to be the same name you can add more Danger</speak>
+		</media>
+		<media begin="50.500s">
+			<speak> an absolutely</speak>
 		</media>
 		<media begin="53.500s">
-			<speak> for it. It won't change anything. Add a Collection image that you can choose from your gallery collection. Add a background image that you can choose as well from your gallery and add a description</speak>
+			<speak> Emoji for it is watching anything a Collection image that you can choose from your gallery collection background image that you can choose as well from your gallery and that description</speak>
 		</media>
 		<media begin="68.700s">
 			<speak> let's save it</speak>
 		</media>
 		<media begin="70.700s">
-			<speak> with the kitty you can see that this collection is saved the same with the smart chain one and the polygon one</speak>
+			<speak> we the kitty you can see that this collection is sacred the same with the smart chain one and the polygon one</speak>
 		</media>
 		<media begin="79.600s">
-			<speak> do you want to erase the default one? just click on remove</speak>
+			<speak> do you want to erase the default one just click on remove</speak>
 		</media>
 		<media begin="85.200s">
 			<speak> and add your own collections from scratch</speak>
@@ -31,31 +34,31 @@
 			<speak> and we click on Save now here</speak>
 		</media>
 		<media begin="99.500s">
-			<speak> and now we are going to the last part of the data section that are the tokens</speak>
+			<speak> and now we are going to the last part of the data section that is the tokens</speak>
 		</media>
 		<media begin="107.100s">
-			<speak> this section will turn on or turn off all the tokens that are tradeable in your Marketplace by default you will see these enabled on those Networks</speak>
+			<speak> this section will turn on or turn off all the tokens that are traditional in your Marketplace by default you will see that are enabled they you will see feeder theorem in do some of those Networks</speak>
 		</media>
 		<media begin="127.300s">
-			<speak> but we want to do commerce with a custom token we click on ADD</speak>
+			<speak> but we want to do comics with a custom talking we click on ADD</speak>
 		</media>
 		<media begin="135.400s">
-			<speak> we click the network we are trying to add the token</speak>
+			<speak> we click the network we are trying to add the talking</speak>
 		</media>
 		<media begin="141.400s">
-			<speak> and we trying to scope the token contract here. We will paste one called PP coin you have it here PP coin, we import the coin</speak>
+			<speak> and we trying to scope the docking contract here faced it talking contract here with paper we will paste one called PP coin you have it here PP coin we import the coin</speak>
 		</media>
 		<media begin="158.700s">
 			<speak> we can see it in the bottom that is not turn it on so it won't be tradable turn it on and the tradable tag will appear</speak>
 		</media>
 		<media begin="169.400s">
-			<speak> return on this and the tradeable will tag will appear but if you are lazy like me we click here select all click here and select all and just untick the ones you don't want</speak>
+			<speak> return on this and the treble will tag will appear but if you are lazy like me we click here select all click here and select all and just tick the ones you don't want</speak>
 		</media>
 		<media begin="184.100s">
-			<speak> click on Save click on confirm and now you NFT Marketplace is enabled to accept those tokens</speak>
+			<speak> click on Save click on confirm and now you Marketplace is enabled to accept those coins</speak>
 		</media>
 		<media begin="194.400s">
-			<speak> keep watching now we are about to deploy our Marketplace.</speak>
+			<speak> keep watching now we are about to deploy our Marketplace</speak>
 		</media>
 	</par>
 </speak>

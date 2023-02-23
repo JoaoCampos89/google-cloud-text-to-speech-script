@@ -1,0 +1,76 @@
+<speak>
+	<par>
+		<media begin="0.500s">
+			<speak>in this video you will learn how to clone an nft Marketplace by DexKit</speak>
+		</media>
+		<media begin="7.500s">
+			<speak> In the first place you need to go to the website in the description. Then, inside there, you will need to connect your wallet just click</speak>
+		</media>
+		<media begin="20.800s">
+			<speak> in the menu and select your preferred wallet in this case we will use metamask</speak>
+		</media>
+		<media begin="30.400s">
+			<speak> now we are going to clone the marketplace clicking in the yellow bottom</speak>
+		</media>
+		<media begin="38.200s">
+			<speak> you will see several options to use. </speak>
+		</media>
+        <media begin="41.200s">
+            <speak> Let's start with this one</speak>
+        </media>
+		<media begin="49s">
+			<speak> in first instance the marketplace name</speak>
+		</media>
+		<media begin="62.200s">
+			<speak> email to get notifications</speak>
+		</media>
+		<media begin="70.400s">
+			<speak> and then click on create Marketplace</speak>
+		</media>
+		<media begin="74.700s">
+			<speak> you will need to authenticate with your wallet</speak>
+		</media>
+		<media begin="80s">
+			<speak> and then now click on view Marketplace</speak>
+		</media>
+		<media begin="84.500s">
+			<speak> you can see here that you have now your new nft Marketplace cloned using</speak>
+		</media>
+		<media begin="94.400s">
+			<speak> the things that were there in the marketplace that we select</speak>
+		</media>
+		<media begin="100.900s">
+			<speak> this case we will check how it looks clicking here in the preview URL</speak>
+		</media>
+		<media begin="114.100s">
+			<speak> let's wait until this loads. Remember that after you clone your Marketplace it will be sent to a production server. In this case it will take some time to fetch and appear in your screen. Don't worry, it will appear shortly</speak>
+		</media>
+		<media begin="139s">
+			<speak> you just need to connect here your wallet because this is a new site</speak>
+		</media>
+		<media begin="146s">
+			<speak> we did it! we cloned our NFT Marketplace by first time</speak>
+		</media>
+		<media begin="154.400s">
+			<speak> and now we can just edit it by our taste</speak>
+		</media>
+		<media begin="159.200s">
+			<speak> we have it here the pages</speak>
+		</media>
+		<media begin="162.700s">
+			<speak> we can click here on the editor and change some things</speak>
+		</media>
+		<media begin="168.900s">
+			<speak> that are here that we need to display in our Marketplace</speak>
+		</media>
+		<media begin="180.800s">
+			<speak> remember that you need also to change the marketplaces fees and put your addresses in order to grab the fees every time that your clients use your Marketplace</speak>
+		</media>
+		<media begin="196.700s">
+			<speak> and also remember to change everything in the general section and always click on save because if you don't save progressively it won't take your changes</speak>
+		</media>
+		<media begin="212.800s">
+			<speak> again, thank you very much for watching this video and we hope you keep learning how to use our products in the best and efficient way</speak>
+		</media>
+	</par>
+</speak>

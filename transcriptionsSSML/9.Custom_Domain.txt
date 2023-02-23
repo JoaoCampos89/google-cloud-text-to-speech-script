@@ -1,0 +1,19 @@
+<speak>
+	<par>
+		<media begin="0.500s">
+			<speak>it's not hard to configure your domain section in the nft marketplace by desk you just need to go to The Domain section and input your custom domain in the section then click on Save and wait for the confirmation if your wallet basket you just click on the confirmation and all will be set this can be changed anytime</speak>
+		</media>
+		<media begin="30.800s">
+			<speak> just go to other sections and replace it by another domain that you own in this case we will leave it in this</speak>
+		</media>
+		<media begin="44.400s">
+			<speak> let's go to the marketplace management clicking on Marketplace here or just</speak>
+		</media>
+		<media begin="53s">
+			<speak> going to admin section in the menu manage marketplaces as you can see here is our only one entity Marketplace in the first place you can see the custom domain and in the second place you can see the domain provide Xscape they sit in your nft Marketplace name you can see also the actions</speak>
+		</media>
+		<media begin="78.900s">
+			<speak> and this is done now you have connected your domain with your energy Marketplace</speak>
+		</media>
+	</par>
+</speak>

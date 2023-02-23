@@ -1,0 +1,169 @@
+<speak>
+	<par>
+		<media begin="0.200s">
+			<speak>Hello, I will show you today how to create an NFT collection using AI, only by DexKit and hosted in Polygon.</speak>
+		</media>
+		<media begin="21.200s">
+			<speak> check the first link in the description of this video. </speak>
+		</media>
+		<media begin="27.300s">
+			<speak> inside the platform you will need to connect your wallet</speak>
+		</media>
+		<media begin="34.600s">
+			<speak> Click in the connect wallet button at the top right</speak>
+		</media>
+		<media begin="38.800s">
+			<speak> and choose your preferred wallet. In this case I will use MetaMask</speak>
+		</media>
+		<media begin="46.900s">
+			<speak> you can see here I have three collections that I've created before</speak>
+		</media>
+		<media begin="55.600s">
+			<speak> I'm going to show you how you will create yours</speak>
+		</media>
+		<media begin="61s">
+			<speak> you need to click on the plus button here or you will see here a create Button as well just click on it</speak>
+		</media>
+		<media begin="72.500s">
+			<speak>Let's name and define our collection! the first field will be the name of your collection. You are also enabled to generate your Collection image using natural language. Here I will show you how this works:</speak>
+		</media>
+		<media begin="97.200s">
+			<speak>I have a dummy NFT collection created for this purpose. Let me show you how this works</speak>
+		</media>
+		<media begin="109s">
+			<speak> copy here</speak>
+		</media>
+		<media begin="113s">
+			<speak> Paste the name</speak>
+		</media>
+		<media begin="119s">
+			<speak> let's put a description for our NFT collection</speak>
+		</media>
+		<media begin="129.800s">
+			<speak> and you will see</speak>
+		</media>
+		<media begin="133.100s">
+			<speak> how these will be generated basic on this prompt</speak>
+		</media>
+		<media begin="142.200s">
+			<speak> the more specific you are here in the description</speak>
+		</media>
+		<media begin="147.100s">
+			<speak> the most beautiful will be the picture output.</speak>
+		</media>
+		<media begin="155.600s">
+			<speak>after clicking on generate image you will need to sign in your wallet.  After this you will be authenticated by the system and the data will be sent successfully</speak>
+		</media>
+		<media begin="172.600s">
+			<speak> and as you can see we have a image generated based on this prompt</speak>
+		</media>
+		<media begin="182.800s">
+			<speak> let's put a royalty of</speak>
+		</media>
+		<media begin="186s">
+			<speak> 5% and let's create our amazing NFT collection</speak>
+		</media>
+		<media begin="195.300s">
+			<speak> you need to confirm with your wallet if you agreed with creating your collection</speak>
+		</media>
+		<media begin="202.400s">
+			<speak> remember you will need Polygon tokens</speak>
+		</media>
+		<media begin="206.400s">
+			<speak> in your wallet in order to pay for the mandatory gas fees and as you can see our collection was created successfully. We can view the transaction here or we can just click on view collection</speak>
+		</media>
+		<media begin="224.800s">
+			<speak> and this is our new collection. Now let's create two NFTs for this particular one. </speak>
+		</media>
+		<media begin="235.900s">
+			<speak> let's click here on Create NFTs button</speak>
+		</media>
+		<media begin="241.800s">
+			<speak> and here we will start to fill the fields</speak>
+		</media>
+		<media begin="249.200s">
+			<speak> on quantity we will put no more that twenty single pieces</speak>
+		</media>
+		<media begin="257.100s">
+			<speak> and thirty maximum for collection. We don't want to bottleneck our contract and, in this case, we are setting up some limits in order to avoid this. After you create your collection you can edit it and add as many NFTs you want. At this moment we will create this NFT with one piece.</speak>
+		</media>
+		<media begin="286.900s">
+			<speak> only one here</speak>
+		</media>
+		<media begin="289.100s">
+			<speak> the name our first nft</speak>
+		</media>
+		<media begin="293.300s">
+			<speak> will be Sarah the Zorbonian.</speak>
+		</media>
+		<media begin="299s">
+			<speak> I'm here asking</speak>
+		</media>
+		<media begin="302.600s">
+			<speak> and let's put also the description of Sara. Let's see what does this generates for us</speak>
+		</media>
+		<media begin="313.900s">
+			<speak> we can put also attributes for our nft or we just can leave this blank. I will remove this because I won't use attributes. Let's click on generate NFT. Let's see how this looks. If you get another signature request you need to sign it</speak>
+		</media>
+		<media begin="335.600s">
+			<speak> the system will ask you frequently for signature requests so it's mandatory to sign them</speak>
+		</media>
+		<media begin="346.500s">
+			<speak> let's add another NFT</speak>
+		</media>
+		<media begin="350.300s">
+			<speak> basic in the description we have</speak>
+		</media>
+		<media begin="354.900s">
+			<speak> the quantity will be one and the name will be the name we have here Kato the cricket</speak>
+		</media>
+		<media begin="370.600s">
+			<speak> let's click here and copy the description</speak>
+		</media>
+		<media begin="379.400s">
+			<speak> and we will keep the attributes blank as well let's generate this image let's see</speak>
+		</media>
+		<media begin="394.900s">
+			<speak> okay now that our population is finished we can just go to create nxt's click on the blue button</speak>
+		</media>
+		<media begin="406.600s">
+			<speak> and confirm with the prompt</speak>
+		</media>
+		<media begin="412.500s">
+			<speak> you will be asked again in your wallet</speak>
+		</media>
+		<media begin="417s">
+			<speak> and you will need to accept this will be</speak>
+		</media>
+		<media begin="421.400s">
+			<speak> cost use Magic</speak>
+		</media>
+		<media begin="424s">
+			<speak> and you will have your amazing collection</speak>
+		</media>
+		<media begin="429.900s">
+			<speak> please don't close this window until you finish now we have our nft collection created let's see</speak>
+		</media>
+		<media begin="444s">
+			<speak> how looks</speak>
+		</media>
+		<media begin="446s">
+			<speak> are we running this</speak>
+		</media>
+		<media begin="456.800s">
+			<speak> you can see</speak>
+		</media>
+		<media begin="459s">
+			<speak> we have the description, we have details and we have the contract address. We minted this collection on Polygon Testnet, but you can mint yours in Polygon mainnet as well and sell your collectibles anywhere.</speak>
+		</media>
+		<media begin="480.600s">
+			<speak> let's see the other NFT looks</speak>
+		</media>
+		<media begin="490s">
+			<speak> Amazing job!</speak>
+		</media>
+		<media begin="492.400s">
+			<speak> you learned how to create your NFT collection with the newest DexKit tool. Thank you for viewing this video and do not forget to like and subscribe to our channel.</speak>
+		</media>
+	</par>
+</speak>

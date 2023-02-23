@@ -1,16 +1,16 @@
 <speak>
 	<par>
 		<media begin="4.400s">
-			<speak>Now we are in the fees section of our Marketplace maybe this is the one of the most important parts of it because this will lead you to earn profits from your clients trades. The first option here on the marketplace fees will be regarding NFT sales. Every time that one NFT is traded in your marketplace</speak>
+			<speak>now we are in the Southeast section of our Marketplace maybe this is the one of the most important parts of it because this will leave you to it earn profits from your clients traits and your client voice so the first option here on the marketplace fees will be regarding NSP sales every time that one NFP is traded in your mouth</speak>
 		</media>
 		<media begin="33.600s">
-			<speak> you will earn 1% of this commission so it will be sent to this address we will need to change this address because</speak>
+			<speak> good place to earn 1% of this commission so it will be sent to this address we will need to change this address because</speak>
 		</media>
 		<media begin="46s">
-			<speak> it is the default address . Paste here our address and we keep the 1% because this is a common practice because if you place it higher your community won't buy in your Marketplace so you will scare them out so let's keep it simple and cheap one percent for the nft marketplace and now click on Swap fees</speak>
+			<speak> if the default address basically our address and we keep the 1% because this is a common practice because if you keep it tiger place it higher you people your community your clients won't Bowie in your Marketplace so you will scare them out so let's keep it simple and cheap one percent for the nft marketplace and now click on Swipe fees</speak>
 		</media>
 		<media begin="76.300s">
-			<speak> and the same here but 0.3% change the recipient to our ErC 20 address, save, save againv confirm and now fees are set in our Marketplace</speak>
+			<speak> and the same here but 0.3% change the recipient to our Eric C20 address safe safe again confirm and now feasts are said in our Marketplace</speak>
 		</media>
 	</par>
 </speak>

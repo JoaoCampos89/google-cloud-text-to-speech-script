@@ -1,0 +1,332 @@
+[
+  {
+    "transcript": "Hello, I will show you today how to create an NFT collection using AI, only by DexKit and hosted in Polygon.",
+    "confidence": 0.77309537,
+    "startTime": "0.200s",
+    "endTime": "20.100s"
+  },
+  {
+    "transcript": " check the first link in the description of this video. ",
+    "confidence": 0.79023844,
+    "startTime": "21.200s",
+    "endTime": "25.600s"
+  },
+  {
+    "transcript": " inside the platform you will need to connect your wallet",
+    "confidence": 0.91283858,
+    "startTime": "27.300s",
+    "endTime": "33.600s"
+  },
+  {
+    "transcript": " Click in the connect wallet button at the top right",
+    "confidence": 0.79852569,
+    "startTime": "34.600s",
+    "endTime": "37.300s"
+  },
+  {
+    "transcript": " and choose your preferred wallet. In this case I will use MetaMask",
+    "confidence": 0.91283864,
+    "startTime": "38.800s",
+    "endTime": "44.800s"
+  },
+  {
+    "transcript": " you can see here I have three collections that I've created before",
+    "confidence": 0.79951638,
+    "startTime": "46.900s",
+    "endTime": "53.800s"
+  },
+  {
+    "transcript": " I'm going to show you how you will create yours",
+    "confidence": 0.82878053,
+    "startTime": "55.600s",
+    "endTime": "59.100s"
+  },
+  {
+    "transcript": " you need to click on the plus button here or you will see here a create Button as well just click on it",
+    "confidence": 0.83015555,
+    "startTime": "61s",
+    "endTime": "70.200s"
+  },
+  {
+    "transcript": "Let's name and define our collection! the first field will be the name of your collection. You are also enabled to generate your Collection image using natural language. Here I will show you how this works:",
+    "confidence": 0.89281023,
+    "startTime": "72.500s",
+    "endTime": "95.500s"
+  },
+  {
+    "transcript": "I have a dummy NFT collection created for this purpose. Let me show you how this works",
+    "confidence": 0.83575577,
+    "startTime": "97.200s",
+    "endTime": "105.600s"
+  },
+  {
+    "transcript": " copy here",
+    "confidence": 0.81172812,
+    "startTime": "109s",
+    "endTime": "110.200s"
+  },
+  {
+    "transcript": " Paste the name",
+    "confidence": 0.715693,
+    "startTime": "113s",
+    "endTime": "114.100s"
+  },
+  {
+    "transcript": " let's put a description for our NFT collection",
+    "confidence": 0.89459485,
+    "startTime": "119s",
+    "endTime": "122.400s"
+  },
+  {
+    "transcript": " and you will see",
+    "confidence": 0.91283858,
+    "startTime": "129.800s",
+    "endTime": "131.600s"
+  },
+  {
+    "transcript": " how these will be generated basic on this prompt",
+    "confidence": 0.79984963,
+    "startTime": "133.100s",
+    "endTime": "137.500s"
+  },
+  {
+    "transcript": " the more specific you are here in the description",
+    "confidence": 0.91283852,
+    "startTime": "142.200s",
+    "endTime": "145.600s"
+  },
+  {
+    "transcript": " the most beautiful will be the picture output.",
+    "confidence": 0.8517136,
+    "startTime": "147.100s",
+    "endTime": "153.600s"
+  },
+  {
+    "transcript": "after clicking on generate image you will need to sign in your wallet.  After this you will be authenticated by the system and the data will be sent successfully",
+    "confidence": 0.89965314,
+    "startTime": "155.600s",
+    "endTime": "171.300s"
+  },
+  {
+    "transcript": " and as you can see we have a image generated based on this prompt",
+    "confidence": 0.82038432,
+    "startTime": "172.600s",
+    "endTime": "180.800s"
+  },
+  {
+    "transcript": " let's put a royalty of",
+    "confidence": 0.91283858,
+    "startTime": "182.800s",
+    "endTime": "184.900s"
+  },
+  {
+    "transcript": " 5% and let's create our amazing NFT collection",
+    "confidence": 0.5719524,
+    "startTime": "186s",
+    "endTime": "192.400s"
+  },
+  {
+    "transcript": " you need to confirm with your wallet if you agreed with creating your collection",
+    "confidence": 0.88796008,
+    "startTime": "195.300s",
+    "endTime": "201.300s"
+  },
+  {
+    "transcript": " remember you will need Polygon tokens",
+    "confidence": 0.77832156,
+    "startTime": "202.400s",
+    "endTime": "204.800s"
+  },
+  {
+    "transcript": " in your wallet in order to pay for the mandatory gas fees and as you can see our collection was created successfully. We can view the transaction here or we can just click on view collection",
+    "confidence": 0.87238634,
+    "startTime": "206.400s",
+    "endTime": "223.100s"
+  },
+  {
+    "transcript": " and this is our new collection. Now let's create two NFTs for this particular one. ",
+    "confidence": 0.83947831,
+    "startTime": "224.800s",
+    "endTime": "232.700s"
+  },
+  {
+    "transcript": " let's click here on Create NFTs button",
+    "confidence": 0.90649796,
+    "startTime": "235.900s",
+    "endTime": "238.800s"
+  },
+  {
+    "transcript": " and here we will start to fill the fields",
+    "confidence": 0.86016673,
+    "startTime": "241.800s",
+    "endTime": "247.500s"
+  },
+  {
+    "transcript": " on quantity we will put no more that twenty single pieces",
+    "confidence": 0.91283864,
+    "startTime": "249.200s",
+    "endTime": "256.100s"
+  },
+  {
+    "transcript": " and thirty maximum for collection. We don't want to bottleneck our contract and, in this case, we are setting up some limits in order to avoid this. After you create your collection you can edit it and add as many NFTs you want. At this moment we will create this NFT with one piece.",
+    "confidence": 0.91209924,
+    "startTime": "257.100s",
+    "endTime": "286.800s"
+  },
+  {
+    "transcript": " only one here",
+    "confidence": 0.91283864,
+    "startTime": "286.900s",
+    "endTime": "287.900s"
+  },
+  {
+    "transcript": " the name our first nft",
+    "confidence": 0.80221158,
+    "startTime": "289.100s",
+    "endTime": "291.200s"
+  },
+  {
+    "transcript": " will be Sarah the Zorbonian.",
+    "confidence": 0.8645398,
+    "startTime": "293.300s",
+    "endTime": "297.600s"
+  },
+  {
+    "transcript": " I'm here asking",
+    "confidence": 0.80986673,
+    "startTime": "299s",
+    "endTime": "300.700s"
+  },
+  {
+    "transcript": " and let's put also the description of Sara. Let's see what does this generates for us",
+    "confidence": 0.82300752,
+    "startTime": "302.600s",
+    "endTime": "309.800s"
+  },
+  {
+    "transcript": " we can put also attributes for our nft or we just can leave this blank. I will remove this because I won't use attributes. Let's click on generate NFT. Let's see how this looks. If you get another signature request you need to sign it",
+    "confidence": 0.77565598,
+    "startTime": "313.900s",
+    "endTime": "334.500s"
+  },
+  {
+    "transcript": " the system will ask you frequently for signature requests so it's mandatory to sign them",
+    "confidence": 0.8843869,
+    "startTime": "335.600s",
+    "endTime": "342.800s"
+  },
+  {
+    "transcript": " let's add another NFT",
+    "confidence": 0.81365019,
+    "startTime": "346.500s",
+    "endTime": "348.900s"
+  },
+  {
+    "transcript": " basic in the description we have",
+    "confidence": 0.79006821,
+    "startTime": "350.300s",
+    "endTime": "352.800s"
+  },
+  {
+    "transcript": " the quantity will be one and the name will be the name we have here Kato the cricket",
+    "confidence": 0.67901778,
+    "startTime": "354.900s",
+    "endTime": "362.200s"
+  },
+  {
+    "transcript": " let's click here and copy the description",
+    "confidence": 0.91283852,
+    "startTime": "370.600s",
+    "endTime": "374.200s"
+  },
+  {
+    "transcript": " and we will keep the attributes blank as well let's generate this image let's see",
+    "confidence": 0.89638335,
+    "startTime": "379.400s",
+    "endTime": "385.500s"
+  },
+  {
+    "transcript": " okay now that our population is finished we can just go to create nxt's click on the blue button",
+    "confidence": 0.89462394,
+    "startTime": "394.900s",
+    "endTime": "404.600s"
+  },
+  {
+    "transcript": " and confirm with the prompt",
+    "confidence": 0.91283858,
+    "startTime": "406.600s",
+    "endTime": "409.800s"
+  },
+  {
+    "transcript": " you will be asked again in your wallet",
+    "confidence": 0.91283852,
+    "startTime": "412.500s",
+    "endTime": "415.400s"
+  },
+  {
+    "transcript": " and you will need to accept this will be",
+    "confidence": 0.91283852,
+    "startTime": "417s",
+    "endTime": "420.200s"
+  },
+  {
+    "transcript": " cost use Magic",
+    "confidence": 0.70597774,
+    "startTime": "421.400s",
+    "endTime": "422.800s"
+  },
+  {
+    "transcript": " and you will have your amazing collection",
+    "confidence": 0.91283852,
+    "startTime": "424s",
+    "endTime": "428.900s"
+  },
+  {
+    "transcript": " please don't close this window until you finish now we have our nft collection created let's see",
+    "confidence": 0.84835529,
+    "startTime": "429.900s",
+    "endTime": "442.600s"
+  },
+  {
+    "transcript": " how looks",
+    "confidence": 0.79126406,
+    "startTime": "444s",
+    "endTime": "444.800s"
+  },
+  {
+    "transcript": " are we running this",
+    "confidence": 0.71362644,
+    "startTime": "446s",
+    "endTime": "447.100s"
+  },
+  {
+    "transcript": " you can see",
+    "confidence": 0.91283864,
+    "startTime": "456.800s",
+    "endTime": "457.500s"
+  },
+  {
+    "transcript": " we have the description, we have details and we have the contract address. We minted this collection on Polygon Testnet, but you can mint yours in Polygon mainnet as well and sell your collectibles anywhere.",
+    "confidence": 0.87136054,
+    "startTime": "459s",
+    "endTime": "478s"
+  },
+  {
+    "transcript": " let's see the other NFT looks",
+    "confidence": 0.83128005,
+    "startTime": "480.600s",
+    "endTime": "483s"
+  },
+  {
+    "transcript": " Amazing job!",
+    "confidence": 0.91283858,
+    "startTime": "490s",
+    "endTime": "491.300s"
+  },
+  {
+    "transcript": " you learned how to create your NFT collection with the newest DexKit tool. Thank you for viewing this video and do not forget to like and subscribe to our channel.",
+    "confidence": 0.77432096,
+    "startTime": "492.400s",
+    "endTime": "506.900s"
+  }
+]

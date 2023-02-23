@@ -8,12 +8,12 @@ const util = require("util");
 const client = new textToSpeech.TextToSpeechClient();
 async function quickStart() {
   // The text to synthesize
-  fs.readdir("./texts/CreateMarketplace", (err, files) => {
+  fs.readdir("./texts/DexKitExplainer2", (err, files) => {
     files.forEach(async (file) => {
-      const text = fs.readFileSync(`./texts/CreateMarketplace/${file}`);
+      const text = fs.readFileSync(`./texts/DexKitExplainer2/${file}`);
       const request = {
         input: {
-          ssml: text,
+          text: text,
         },
         // Select the language and SSML voice gender (optional)
         voice: {
@@ -30,7 +30,7 @@ async function quickStart() {
       // Write the binary audio content to a local file
       const writeFile = util.promisify(fs.writeFile);
       await writeFile(
-        `./audios/${file.split(".")[0]}.mp3`,
+        `./audios/DexKitExplainer2/${file.split(".")[0]}.mp3`,
         response.audioContent,
         "binary"
       );
