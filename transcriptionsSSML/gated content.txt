@@ -1,0 +1,187 @@
+<speak>
+	<par>
+		<media begin="1.900s">
+			<speak>the only fans for crypto has arrived yes my friends this is a new functionality of decks kit crypto apps that allows creators designers developers and everyone gate their content for their premium audiences</speak>
+		</media>
+		<media begin="26.200s">
+			<speak> they're can just hide content and use it as premium for their audiences</speak>
+		</media>
+		<media begin="37.600s">
+			<speak> now the Creator's will be able to use this functionality using any kind of token or nft let's dive in into this new functionality inside deck skipped grip trap if you didn't create it any crypto up before</speak>
+		</media>
+		<media begin="62s">
+			<speak> please check out the link in the description and learn how to create any crypto up with Dex Kitty from nft marketplaces to decks Kyra Gators and also monetize it blocks</speak>
+		</media>
+		<media begin="81.100s">
+			<speak> let's go to the explanation of this feature</speak>
+		</media>
+		<media begin="86.900s">
+			<speak> let's assume that you have created your grip trap with the escape and this is the dashboard of your trip trap that you can see my crypto up is NFD hyphen phallus the next kit dot up</speak>
+		</media>
+		<media begin="108.500s">
+			<speak> so I want to show premium content to some of my audience</speak>
+		</media>
+		<media begin="118.900s">
+			<speak> that audience are my talking holders and all those that bout my nft</speak>
+		</media>
+		<media begin="128.900s">
+			<speak> so if this is the case you need first to import all the data of your nasd and your tokens in data</speak>
+		</media>
+		<media begin="143.600s">
+			<speak> you can choose between Collections and tokens</speak>
+		</media>
+		<media begin="149.500s">
+			<speak> if you choose a collection</speak>
+		</media>
+		<media begin="153.400s">
+			<speak> you need to go to the bottom click on ADD collection and input all the data for the collection when you finish you click on saved and you will see your new collection here the collection that you will be using for your gated content</speak>
+		</media>
+		<media begin="177.800s">
+			<speak> please remember always to click on Save because this will assure that your content will be properly saved and you won't lose your progress</speak>
+		</media>
+		<media begin="193.300s">
+			<speak> if you're wanting to host your gated content we are talking go to token section</speak>
+		</media>
+		<media begin="202.800s">
+			<speak> click on the import button and input all the token details here</speak>
+		</media>
+		<media begin="212.800s">
+			<speak> and click on import</speak>
+		</media>
+		<media begin="217.500s">
+			<speak> before doing this please check in the list below if any of those default tokens are the ones that you're looking for this system is also compatible with any custom token created on the networks that we host</speak>
+		</media>
+		<media begin="240s">
+			<speak> that's you can see here and we using an important token</speak>
+		</media>
+		<media begin="247.600s">
+			<speak> and I can use it any of those tokens as</speak>
+		</media>
+		<media begin="255.700s">
+			<speak> entry for my gated content let's go now to the Gated content section to show you how this works after you finish here please click again on save button confirm that your product is correctly saved and let's dive in into pages</speak>
+		</media>
+		<media begin="280s">
+			<speak> as you can see I have here in the home page some sections that are part of my nft Marketplace I will show you how it looks this is the home or the main page the page that you will be able to see right now</speak>
+		</media>
+		<media begin="303.300s">
+			<speak> those are some of the collections</speak>
+		</media>
+		<media begin="309.200s">
+			<speak> what do I want to do I need to create a new page that will host the Gated content</speak>
+		</media>
+		<media begin="319.600s">
+			<speak> so we need to go to create new page button here</speak>
+		</media>
+		<media begin="328.700s">
+			<speak> create a title for the page that can be private</speak>
+		</media>
+		<media begin="334.500s">
+			<speak> and click on save this will create a new page</speak>
+		</media>
+		<media begin="340.600s">
+			<speak> we will see here the Gated conditions button we need to click on there and set our conditions as the owner of this private web page enter the specific conditions that user must meet to access to patient by the feeling these conditions you ensure that only eligible users are granted access so the first condition is</speak>
+		</media>
+		<media begin="370.400s">
+			<speak> it will be a coin or a 10 ft collection let's use a coin or a token</speak>
+		</media>
+		<media begin="377.900s">
+			<speak> which token are we selecting here well we can select here</speak>
+		</media>
+		<media begin="385.400s">
+			<speak> polygon if the user have</speak>
+		</media>
+		<media begin="390.400s">
+			<speak> 580 kick</speak>
+		</media>
+		<media begin="393.300s">
+			<speak> it will be able to see this and let's add another condition</speak>
+		</media>
+		<media begin="400.300s">
+			<speak> if they use your half</speak>
+		</media>
+		<media begin="404.400s">
+			<speak> any of the collections of the kitty got you</speak>
+		</media>
+		<media begin="411.400s">
+			<speak> and have at least one of those</speak>
+		</media>
+		<media begin="415.800s">
+			<speak> it will be able to see the page as well</speak>
+		</media>
+		<media begin="419.200s">
+			<speak> this is a poor condition</speak>
+		</media>
+		<media begin="423.800s">
+			<speak> can be and condition as well</speak>
+		</media>
+		<media begin="428.500s">
+			<speak> or condition is if meets the criteria for the coin it will see the content or if meets the criteria for the kitty gachi it will see the content as well</speak>
+		</media>
+		<media begin="445s">
+			<speak> and</speak>
+		</media>
+		<media begin="447s">
+			<speak> it works in both ways</speak>
+		</media>
+		<media begin="450s">
+			<speak> is it any of those both conditions are fulfilled the user will be able to see the content let's add the and condition and click on Save</speak>
+		</media>
+		<media begin="465.600s">
+			<speak> I know you will be able to add</speak>
+		</media>
+		<media begin="469.900s">
+			<speak> sections that are by default by deal called to action featured collections any of those or you will be able also to add your custom section</speak>
+		</media>
+		<media begin="483.700s">
+			<speak> with any possibilities</speak>
+		</media>
+		<media begin="487.700s">
+			<speak> we have another videos in the description about how to use this feature we will leave also the link for the documentation about how to use this</speak>
+		</media>
+		<media begin="503.700s">
+			<speak> content editor in the most efficient way so you will be able to create an amazing private page for your fans</speak>
+		</media>
+		<media begin="517.800s">
+			<speak> also remember to click on safe anytime that you do changes in your page in that case you will assure that you contend won't be lost</speak>
+		</media>
+		<media begin="534.100s">
+			<speak> now it's time to add our page link to our top menu</speak>
+		</media>
+		<media begin="543.200s">
+			<speak> so in this case we will assure that our visitors will be able to enter on this gated content section and watch the content if they have their Holdings that you have before requested</speak>
+		</media>
+		<media begin="564.600s">
+			<speak> so now let's click on menu click on the add menu button</speak>
+		</media>
+		<media begin="572s">
+			<speak> the type will be a page and the name will be private Beacon save and click in the arrows if you want to make it be Hopper</speak>
+		</media>
+		<media begin="585.200s">
+			<speak> so click on Save if you finish to confirm again if your wallet ask for digital signature liske sign and go forward</speak>
+		</media>
+		<media begin="598.400s">
+			<speak> now we added our private page to our NFD Marketplace or crypto up</speak>
+		</media>
+		<media begin="611s">
+			<speak> let's wait until D deployment is successful in order to see the changes in our product</speak>
+		</media>
+		<media begin="624.200s">
+			<speak> page is already in the top menu let's click on there</speak>
+		</media>
+		<media begin="630.100s">
+			<speak> and</speak>
+		</media>
+		<media begin="632s">
+			<speak> here we will showing our content all the content that we are preparing to gate to our customers to our client and here are or the requirements that must be fulfilled to satisfy all your customers and visitors giving them</speak>
+		</media>
+		<media begin="658.500s">
+			<speak> custom content and tailored content for their needs you will be able to control the subscriptions of your people and also change the requirements every time so if you want to change an mft collection for another one as the Gated content you will be able to do so</speak>
+		</media>
+		<media begin="687.900s">
+			<speak> you will find in the description of this video all the links related to this crypto app how to deploy yours how to create all the custom content inside your crypto app how to set your fees and even more</speak>
+		</media>
+		<media begin="711.800s">
+			<speak> thank you for watching this video</speak>
+		</media>
+	</par>
+</speak>

@@ -1,0 +1,91 @@
+<speak>
+	<par>
+		<media begin="0.000s">
+			<speak> now let's add another condition</speak>
+		</media>
+		<media begin="7.000s">
+			<speak> if your visitor clicks on the private content page</speak>
+		</media>
+		<media begin="18.100s">
+			<speak> and have at least one of those</speak>
+		</media>
+		<media begin="22.500s">
+			<speak> it will be able to see the page as well</speak>
+		</media>
+		<media begin="25.900s">
+			<speak> this is an OR condition</speak>
+		</media>
+		<media begin="30.500s">
+			<speak> can be an AND condition as well</speak>
+		</media>
+		<media begin="35.200s">
+			<speak> the OR condition is satisfied when usrs meets the criteria for the requested token or if meets the criteria for NFT holding. If its positive it will see the content as well</speak>
+		</media>
+		<media begin="51.700s">
+			<speak> AND</speak>
+		</media>
+		<media begin="53.700s">
+			<speak>works in both ways</speak>
+		</media>
+		<media begin="56.700s">
+			<speak> if any of those both conditions are fulfilled the user will be able to see the content. let's add the and condition and click on Save</speak>
+		</media>
+		<media begin="72.300s">
+			<speak>Here you will able to add</speak>
+		</media>
+		<media begin="76.600s">
+			<speak> sections that were created by default to help you save time. You will be able also to add your custom section with all the content you are willing to show</speak>
+		</media>
+		<media begin="90.400s">
+			<speak> with endless possibilities</speak>
+		</media>
+		<media begin="94.400s">
+			<speak> we have another videos in the description about how to use this feature. we will leave also the link for the documentation for all those who prefers read instead watching videos</speak>
+		</media>
+		<media begin="110.400s">
+			<speak> so you will use our content editor in the most efficient way and create delightful private pages for your fans</speak>
+		</media>
+		<media begin="124.500s">
+			<speak> do not forget to click on Save everytime that you do changes in your page in that case you will assure that you contend won't be lost</speak>
+		</media>
+		<media begin="140.800s">
+			<speak> now it's time to add our page link to our top menu</speak>
+		</media>
+		<media begin="149.900s">
+			<speak> so in this case we will assure that our visitors will be able to enter on this gated content section and watch the content if they have their Holdings that you have before requested</speak>
+		</media>
+		<media begin="171.300s">
+			<speak> so now let's click on menu click on the add menu button</speak>
+		</media>
+		<media begin="178.700s">
+			<speak> the type will be a page and the name will be the one you choose. Hit on save and click in the arrows for positioning.</speak>
+		</media>
+		<media begin="191.900s">
+			<speak> click on Save when finished to confirm again. If your wallet ask for digital signature, sign it and go forward</speak>
+		</media>
+		<media begin="205.100s">
+			<speak> now we added our private page to our NFT Marketplace or crypto app</speak>
+		</media>
+		<media begin="217.700s">
+			<speak> let's wait until deployment is successful in order to see the changes in our product</speak>
+		</media>
+		<media begin="230.900s">
+			<speak> page is already in the top menu let's click on there</speak>
+		</media>
+		<media begin="236.800s">
+			<speak> and</speak>
+		</media>
+		<media begin="238.700s">
+			<speak> here we will showing our content all the content that we are preparing to gate to our customers to our client and here are or the requirements that must be fulfilled to satisfy all your customers and visitors giving them</speak>
+		</media>
+		<media begin="265.200s">
+			<speak> custom content and tailored content for their needs you will be able to control the subscriptions of your people and also change the requirements every time so if you want to change an mft collection for another one as the Gated content you will be able to do so</speak>
+		</media>
+		<media begin="294.600s">
+			<speak> you will find in the description of this video all the links related to this crypto app: how to deploy yours, how to create all the custom content inside your crypto app, how to set your fees and even more</speak>
+		</media>
+		<media begin="318.500s">
+			<speak> thank you for watching this video and do not forget to like and subscribe</speak>
+		</media>
+	</par>
+</speak>

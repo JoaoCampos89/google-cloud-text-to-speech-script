@@ -7,9 +7,7 @@ const util = require("util");
 // Creates a client
 const client = new textToSpeech.TextToSpeechClient();
 async function quickStart() {
-  const text = fs.readFileSync(
-    `./transcriptionsSSML/creating-nft-collection-edited-2.txt`
-  );
+  const text = fs.readFileSync(`./transcriptionsSSML/gated_content_mod-1.txt`);
 
   const request = {
     input: {
@@ -30,7 +28,7 @@ async function quickStart() {
   // Write the binary audio content to a local file
   const writeFile = util.promisify(fs.writeFile);
   await writeFile(
-    `./audios/creating-nft-collection-2.mp3`,
+    `./audios/gated_content_mod-1.mp3`,
     response.audioContent,
     "binary"
   );

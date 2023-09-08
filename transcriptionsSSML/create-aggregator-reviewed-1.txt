@@ -1,0 +1,67 @@
+<speak>
+	<par>
+		<media begin="0.000">
+			<speak> you will be able as well to import tokens directly from coin geeko API just click on import and write the name of the token in the first blank space for example let's input</speak>
+		</media>
+		<media begin="22.400">
+			<speak> near</speak>
+		</media>
+		<media begin="24.100">
+			<speak> you can see here all the options available on coingecko you can do the same for other tokens as well</speak>
+		</media>
+		<media begin="33.100">
+			<speak> for example DAI stablecoin is present in several networks. We see others with similar name as well</speak>
+		</media>
+		<media begin="46.600">
+			<speak> add that token as default and just click on import and you will have another token in your list</speak>
+		</media>
+		<media begin="58.700">
+			<speak> we will keep here all the default</speak>
+		</media>
+		<media begin="63.900">
+			<speak> coins, select all the present ones</speak>
+		</media>
+		<media begin="69.300">
+			<speak> select which will be here the default Network on our DEX aggregator. we need to choose it on the swap configuration</speak>
+		</media>
+		<media begin="81.000">
+			<speak> we will use Ethereum</speak>
+		</media>
+		<media begin="85.600">
+			<speak> the default tokens will be Ethereum</speak>
+		</media>
+		<media begin="89.200">
+			<speak> the default input token will be Ethereum</speak>
+		</media>
+		<media begin="92.600">
+			<speak> and the output will be USD coin</speak>
+		</media>
+		<media begin="97.500">
+			<speak> the slippage will be 1%</speak>
+		</media>
+		<media begin="101.800">
+			<speak> and we can click on finish when we finished all the steps</speak>
+		</media>
+		<media begin="110.100">
+			<speak> now let's finish your dapp configuration and let's click on create now</speak>
+		</media>
+		<media begin="119.300">
+			<speak> we will need to sign on our wallet</speak>
+		</media>
+		<media begin="125.200">
+			<speak> and after signing we click on the blue button confirm</speak>
+		</media>
+		<media begin="131.300">
+			<speak> now the operation it's done. let's click on the URL for this application</speak>
+		</media>
+		<media begin="146.600">
+			<speak> and as you can see</speak>
+		</media>
+		<media begin="149.800">
+			<speak> this is your DEX aggregator. remember that you can change everything here from logo to colors and also remove this footer to make it even more special</speak>
+		</media>
+		<media begin="168.900">
+			<speak> feel free to comment this video and ask what else do you want to add on this application. We will consider your opinions. Thank you and we wish you many luck.</speak>
+		</media>
+	</par>
+</speak>

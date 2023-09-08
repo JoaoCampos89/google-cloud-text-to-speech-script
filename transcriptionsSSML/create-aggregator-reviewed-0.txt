@@ -1,0 +1,67 @@
+<speak>
+	<par>
+		<media begin="0.800s">
+			<speak>now it's very easy to deploy your crypto app on DexKit with DexAppBuilder</speak>
+		</media>
+		<media begin="10s">
+			<speak>This is your best friend and companion. with it you can create any crypto app but today we will focus our time creating a dex aggregator compatible with ethereum, polygon, Binance chain, Avalanche, Phantom, optimism and arbitrum networks efficiently</speak>
+		</media>
+		<media begin="37.200s">
+			<speak> you can trade your tokens in your own white label DEX aggregator with low costs on fees and getting the best price on real time. You can also earn money every time your friends trade in your product. Now let's navigate to the website that I will put in the description of the video</speak>
+		</media>
+		<media begin="67s">
+			<speak> In the platform jsut click on connect wallet button at the top right of the page. Now connect with metamask or wallet connect. let's use metamask for this purpose</speak>
+		</media>
+		<media begin="84.300s">
+			<speak> okay we are now connected to our wallet now let's create a new DEX aggregator</speak>
+		</media>
+		<media begin="95.900s">
+			<speak> we will navigate here in the menu on the top and we hit on App Builder, Create Swap App </speak>
+		</media>
+		<media begin="108.900s">
+			<speak> here we will fill all the blanks with the requested information. Name and email to start</speak>
+		</media>
+		<media begin="119.500s">
+			<speak> Here, at name, we will use DEXter</speak>
+		</media>
+		<media begin="128.300s">
+			<speak> I will use my business email for this purpose</speak>
+		</media>
+		<media begin="136.300s">
+			<speak> and</speak>
+		</media>
+		<media begin="138.100s">
+			<speak> I will keep these both Global and favicons because I'm just showing you how to do it</speak>
+		</media>
+		<media begin="147s">
+			<speak> I will keep the English language</speak>
+		</media>
+		<media begin="151.300s">
+			<speak> we wll offer support with Portuguese and Spanish</speak>
+		</media>
+		<media begin="156.900s">
+			<speak> and we will use US dollar as default. you can use another currency present here</speak>
+		</media>
+		<media begin="165.200s">
+			<speak> in the list or if you want another ones feel free to reach the team on Discord and they will add this in the upcoming update. Let's finish this part clicking on continue</speak>
+		</media>
+		<media begin="184.700s">
+			<speak> and now let's change some things here in the UI</speak>
+		</media>
+		<media begin="190.100s">
+			<speak> as you can see here at the left you can use any of those fonts available</speak>
+		</media>
+		<media begin="197.100s">
+			<speak> let's use this font</speak>
+		</media>
+		<media begin="201.500s">
+			<speak> and let's use this color combination</speak>
+		</media>
+		<media begin="206.200s">
+			<speak> we can click here and continue. Here in the token section you can use the default ones or you can import as well some tokens on the compatible networks in the list just choose the network</speak>
+		</media>
+		<media begin="225.700s">
+			<speak> and paste the data, upload the logo and click on import</speak>
+		</media>
+	</par>
+</speak>

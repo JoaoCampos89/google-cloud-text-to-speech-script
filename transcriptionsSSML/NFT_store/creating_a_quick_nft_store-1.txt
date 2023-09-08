@@ -1,0 +1,43 @@
+<speak>
+	<par>
+		<media begin="0.000s">
+			<speak> in this case you will have access to thousands fonts from Google API</speak>
+		</media>
+		<media begin="7.700s">
+			<speak> this is the most popular font repository on internet so you will find here one similar to your brand or so close to it. Let's use this one and, after picking font, we can choose the colors. here we have some default color combinations or we can customize our colors as well</speak>
+		</media>
+		<media begin="36.400s">
+			<speak> choose between dark and light mode. Let's keep the color combination and after thisnow can see here in the preview how your NFT Store will looks</speak>
+		</media>
+		<media begin="66.000s">
+			<speak> we finish here setting up the app now let's click on continue</speak>
+		</media>
+		<media begin="72.800s">
+			<speak> in this section you will be able to scan your ERC20 address in order to watch all the offers you have opened in your DexKit Marketplace or CryptoApp</speak>
+		</media>
+		<media begin="89.700s">
+			<speak> you just need to input here your address and the system will detect automatically all your open listings. in this case I opened offers for this nft collection and I want to call this nft Marketplace</speak>
+		</media>
+		<media begin="112.700s">
+			<speak> Abstract Art</speak>
+		</media>
+		<media begin="120.100s">
+			<speak> now we will put a title for the NFT Store and a description</speak>
+		</media>
+		<media begin="130.500s">
+			<speak> we can use single title as subheading</speak>
+		</media>
+		<media begin="133.700s">
+			<speak> </speak>
+		</media>
+		<media begin="149.600s">
+			<speak>as you can see</speak>
+		</media>
+		<media begin="152.700s">
+			<speak> we finished here now we will add an profile profile image for the nft marketplace and a background image</speak>
+		</media>
+		<media begin="166.300s">
+			<speak> let's add an image here</speak>
+		</media>
+	</par>
+</speak>

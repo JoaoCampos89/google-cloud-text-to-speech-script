@@ -1,0 +1,67 @@
+<speak>
+	<par>
+		<media begin="2.100s">
+			<speak>the best app builder from the Escape is now celebrating the new feature that empowers the nft marketplace owners in front of their Creations now they will be able to meet their nft Marketplace templates as nft and sell them on secondary Market places</speak>
+		</media>
+		<media begin="29.700s">
+			<speak> so this will give the power to any developer or designer to monetize their content</speak>
+		</media>
+		<media begin="39.200s">
+			<speak> the way to own and lft Marketplace by maintaining an NF T is an simple process to do so let's do it right now assuming you have created your nft marketplace with the X key and also you need to hold 1,000 key because this quantity will log you this nft feature</speak>
+		</media>
+		<media begin="68.600s">
+			<speak> ER now let's navigate into white label I think NF t .x kit.com connect your wallet in the right top menu</speak>
+		</media>
+		<media begin="84.800s">
+			<speak> click in the app builder menu and manage apps</speak>
+		</media>
+		<media begin="92.100s">
+			<speak> we assume you have created you nft marketplaces or you prefer laps before if you didn't so please visit the links Below in the description to learn how to deploy your crypto app or nft Marketplace</speak>
+		</media>
+		<media begin="111.100s">
+			<speak> let's edit one of these nft marketplaces in order to maintain it as an st we go to actions we go to the bottom we want to edit and we click on edit</speak>
+		</media>
+		<media begin="128.500s">
+			<speak> this is one Marketplace I created to show you how to maintain an active market place after you design your nht marketplaces you will click on ownership and you will feel all these planks</speak>
+		</media>
+		<media begin="150.100s">
+			<speak> my Marketplace is called Beautiful</speak>
+		</media>
+		<media begin="167s">
+			<speak> you can create an image for these nft using generative AI we can also add clicking in the image we can add an image from our computer or from our other sources let's create and a prompt to make the a I work for us</speak>
+		</media>
+		<media begin="202.400s">
+			<speak> after generating our I match for the nft we can just change the description and use one more suitable for this situation if this is a single nft Marketplace we will put</speak>
+		</media>
+		<media begin="223s">
+			<speak> this right up we can add attributes as well but we won't do it at this time you can hide as well the high powered by Dex kick at the folder of the page</speak>
+		</media>
+		<media begin="237.600s">
+			<speak> where is done you will find that here and if you click here you will hide that let's create our nft</speak>
+		</media>
+		<media begin="251.300s">
+			<speak> to empower our Marketplace and make it unique</speak>
+		</media>
+		<media begin="258.200s">
+			<speak> did you know that if you mean your nft Marketplace in with your Forever unless you trade it or you send it to another person nobody will be able to clone your Marketplace</speak>
+		</media>
+		<media begin="277.100s">
+			<speak> this is your Marketplace and ft</speak>
+		</media>
+		<media begin="281.400s">
+			<speak> if you sell this nft the owner will be able to deploy an NXT marketplace with that features</speak>
+		</media>
+		<media begin="294.600s">
+			<speak> I have another nft Marketplace I have created before but this is only a decks aggregator this is only a swab you can see here that here is another nft generated with a I and I change the description to make it more suitable</speak>
+		</media>
+		<media begin="323.400s">
+			<speak>let's give it a look to this nft Marketplace or decks aggregator in this case and you can see it's what I have expected it's a single trading widget with the powerful API from the Xscape</speak>
+		</media>
+		<media begin="345s">
+			<speak> you can have yours or you can create any nft Marketplace and minted to be the owner</speak>
+		</media>
+		<media begin="356.400s">
+			<speak> this is all thank you for watching</speak>
+		</media>
+	</par>
+</speak>

@@ -1,0 +1,254 @@
+[
+  {
+    "transcript": "now it's very easy to deploy your crypto app on DexKit with DexAppBuilder",
+    "confidence": 0.84070235,
+    "startTime": "0.800s",
+    "endTime": "8.800s"
+  },
+  {
+    "transcript": "This is your best friend and companion. with it you can create any crypto app but today we will focus our time creating a dex aggregator compatible with ethereum, polygon, Binance chain, Avalanche, Phantom, optimism and arbitrum networks efficiently",
+    "confidence": 0.8959738,
+    "startTime": "10s",
+    "endTime": "36s"
+  },
+  {
+    "transcript": " you can trade your tokens in your own white label DEX aggregator with low costs on fees and getting the best price on real time. You can also earn money every time your friends trade in your product. Now let's navigate to the website that I will put in the description of the video",
+    "confidence": 0.77409023,
+    "startTime": "37.200s",
+    "endTime": "66.900s"
+  },
+  {
+    "transcript": " In the platform jsut click on connect wallet button at the top right of the page. Now connect with metamask or wallet connect. let's use metamask for this purpose",
+    "confidence": 0.78218192,
+    "startTime": "67s",
+    "endTime": "83.100s"
+  },
+  {
+    "transcript": " okay we are now connected to our wallet now let's create a new DEX aggregator",
+    "confidence": 0.9128387,
+    "startTime": "84.300s",
+    "endTime": "93.700s"
+  },
+  {
+    "transcript": " we will navigate here in the menu on the top and we hit on App Builder, Create Swap App ",
+    "confidence": 0.81828523,
+    "startTime": "95.900s",
+    "endTime": "107s"
+  },
+  {
+    "transcript": " here we will fill all the blanks with the requested information. Name and email to start",
+    "confidence": 0.9128387,
+    "startTime": "108.900s",
+    "endTime": "118.300s"
+  },
+  {
+    "transcript": " Here, at name, we will use DEXter",
+    "confidence": 0.89265978,
+    "startTime": "119.500s",
+    "endTime": "124.900s"
+  },
+  {
+    "transcript": " I will use my business email for this purpose",
+    "confidence": 0.91283852,
+    "startTime": "128.300s",
+    "endTime": "134s"
+  },
+  {
+    "transcript": " and",
+    "confidence": 0.91283858,
+    "startTime": "136.300s",
+    "endTime": "137.100s"
+  },
+  {
+    "transcript": " I will keep these both Global and favicons because I'm just showing you how to do it",
+    "confidence": 0.82584298,
+    "startTime": "138.100s",
+    "endTime": "146.100s"
+  },
+  {
+    "transcript": " I will keep the English language",
+    "confidence": 0.87813741,
+    "startTime": "147s",
+    "endTime": "150.100s"
+  },
+  {
+    "transcript": " we wll offer support with Portuguese and Spanish",
+    "confidence": 0.86268288,
+    "startTime": "151.300s",
+    "endTime": "155.600s"
+  },
+  {
+    "transcript": " and we will use US dollar as default. you can use another currency present here",
+    "confidence": 0.84331614,
+    "startTime": "156.900s",
+    "endTime": "163.900s"
+  },
+  {
+    "transcript": " in the list or if you want another ones feel free to reach the team on Discord and they will add this in the upcoming update. Let's finish this part clicking on continue",
+    "confidence": 0.9128384,
+    "startTime": "165.200s",
+    "endTime": "183s"
+  },
+  {
+    "transcript": " and now let's change some things here in the UI",
+    "confidence": 0.88903171,
+    "startTime": "184.700s",
+    "endTime": "188.700s"
+  },
+  {
+    "transcript": " as you can see here at the left you can use any of those fonts available",
+    "confidence": 0.9128387,
+    "startTime": "190.100s",
+    "endTime": "195.800s"
+  },
+  {
+    "transcript": " let's use this font",
+    "confidence": 0.72009259,
+    "startTime": "197.100s",
+    "endTime": "199.500s"
+  },
+  {
+    "transcript": " and let's use this color combination",
+    "confidence": 0.91283858,
+    "startTime": "201.500s",
+    "endTime": "203.700s"
+  },
+  {
+    "transcript": " we can click here and continue. Here in the token section you can use the default ones or you can import as well some tokens on the compatible networks in the list just choose the network",
+    "confidence": 0.88082391,
+    "startTime": "206.200s",
+    "endTime": "224.700s"
+  },
+  {
+    "transcript": " and paste the data, upload the logo and click on import",
+    "confidence": 0.79363775,
+    "startTime": "225.700s",
+    "endTime": "231.300s"
+  },
+  {
+    "transcript": " you will be able as well to import tokens directly from coin geeko API just click on import and write the name of the token in the first blank space for example let's input",
+    "confidence": 0.80902898,
+    "startTime": "232.700s",
+    "endTime": "252.300s"
+  },
+  {
+    "transcript": " near",
+    "confidence": 0.7279675,
+    "startTime": "255.100s",
+    "endTime": "255.600s"
+  },
+  {
+    "transcript": " you can see here all the options available on coingecko you can do the same for other tokens as well",
+    "confidence": 0.77104241,
+    "startTime": "256.800s",
+    "endTime": "264.700s"
+  },
+  {
+    "transcript": " for example DAI stablecoin is present in several networks. We see others with similar name as well",
+    "confidence": 0.87440175,
+    "startTime": "265.800s",
+    "endTime": "274.900s"
+  },
+  {
+    "transcript": " add that token as default and just click on import and you will have another token in your list",
+    "confidence": 0.87363344,
+    "startTime": "279.300s",
+    "endTime": "288.100s"
+  },
+  {
+    "transcript": " we will keep here all the default",
+    "confidence": 0.91283852,
+    "startTime": "291.400s",
+    "endTime": "295.300s"
+  },
+  {
+    "transcript": " coins, select all the present ones",
+    "confidence": 0.91283858,
+    "startTime": "296.600s",
+    "endTime": "300.600s"
+  },
+  {
+    "transcript": " select which will be here the default Network on our DEX aggregator. we need to choose it on the swap configuration",
+    "confidence": 0.85476941,
+    "startTime": "302s",
+    "endTime": "312.100s"
+  },
+  {
+    "transcript": " we will use Ethereum",
+    "confidence": 0.85323399,
+    "startTime": "313.700s",
+    "endTime": "316.100s"
+  },
+  {
+    "transcript": " the default tokens will be Ethereum",
+    "confidence": 0.83093625,
+    "startTime": "318.300s",
+    "endTime": "320.800s"
+  },
+  {
+    "transcript": " the default input token will be Ethereum",
+    "confidence": 0.86133528,
+    "startTime": "321.900s",
+    "endTime": "323.900s"
+  },
+  {
+    "transcript": " and the output will be USD coin",
+    "confidence": 0.91283852,
+    "startTime": "325.300s",
+    "endTime": "328.200s"
+  },
+  {
+    "transcript": " the slippage will be 1%",
+    "confidence": 0.87010241,
+    "startTime": "330.200s",
+    "endTime": "333.400s"
+  },
+  {
+    "transcript": " and we can click on finish when we finished all the steps",
+    "confidence": 0.88069451,
+    "startTime": "334.500s",
+    "endTime": "341.200s"
+  },
+  {
+    "transcript": " now let's finish your dapp configuration and let's click on create now",
+    "confidence": 0.78987652,
+    "startTime": "342.800s",
+    "endTime": "349.700s"
+  },
+  {
+    "transcript": " we will need to sign on our wallet",
+    "confidence": 0.91283852,
+    "startTime": "352s",
+    "endTime": "356.400s"
+  },
+  {
+    "transcript": " and after signing we click on the blue button confirm",
+    "confidence": 0.90842474,
+    "startTime": "357.900s",
+    "endTime": "362.400s"
+  },
+  {
+    "transcript": " now the operation it's done. let's click on the URL for this application",
+    "confidence": 0.91283864,
+    "startTime": "364s",
+    "endTime": "374.500s"
+  },
+  {
+    "transcript": " and as you can see",
+    "confidence": 0.91283858,
+    "startTime": "379.300s",
+    "endTime": "381.200s"
+  },
+  {
+    "transcript": " this is your DEX aggregator. remember that you can change everything here from logo to colors and also remove this footer to make it even more special",
+    "confidence": 0.904522,
+    "startTime": "382.500s",
+    "endTime": "399s"
+  },
+  {
+    "transcript": " feel free to comment this video and ask what else do you want to add on this application. We will consider your opinions. Thank you and we wish you many luck.",
+    "confidence": 0.91283846,
+    "startTime": "401.600s",
+    "endTime": "415.200s"
+  }
+]

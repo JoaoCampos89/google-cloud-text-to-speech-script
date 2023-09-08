@@ -1,0 +1,130 @@
+<speak>
+	<par>
+		<media begin="0.800s">
+			<speak>now it's very easy to deploy your crypto app on DexKit with DexAppBuilder</speak>
+		</media>
+		<media begin="10s">
+			<speak>This is your best friend and companion. with it you can create any crypto app but today we will focus our time creating a dex aggregator compatible with ethereum, polygon, Binance chain, Avalanche, Phantom, optimism and arbitrum networks efficiently</speak>
+		</media>
+		<media begin="37.200s">
+			<speak> you can trade your tokens in your own white label DEX aggregator with low costs on fees and getting the best price on real time. You can also earn money every time your friends trade in your product. Now let's navigate to the website that I will put in the description of the video</speak>
+		</media>
+		<media begin="67s">
+			<speak> In the platform jsut click on connect wallet button at the top right of the page. Now connect with metamask or wallet connect. let's use metamask for this purpose</speak>
+		</media>
+		<media begin="84.300s">
+			<speak> okay we are now connected to our wallet now let's create a new DEX aggregator</speak>
+		</media>
+		<media begin="95.900s">
+			<speak> we will navigate here in the menu on the top and we hit on App Builder, Create Swap App </speak>
+		</media>
+		<media begin="108.900s">
+			<speak> here we will fill all the blanks with the requested information. Name and email to start</speak>
+		</media>
+		<media begin="119.500s">
+			<speak> Here, at name, we will use DEXter</speak>
+		</media>
+		<media begin="128.300s">
+			<speak> I will use my business email for this purpose</speak>
+		</media>
+		<media begin="136.300s">
+			<speak> and</speak>
+		</media>
+		<media begin="138.100s">
+			<speak> I will keep these both Global and favicons because I'm just showing you how to do it</speak>
+		</media>
+		<media begin="147s">
+			<speak> I will keep the English language</speak>
+		</media>
+		<media begin="151.300s">
+			<speak> we wll offer support with Portuguese and Spanish</speak>
+		</media>
+		<media begin="156.900s">
+			<speak> and we will use US dollar as default. you can use another currency present here</speak>
+		</media>
+		<media begin="165.200s">
+			<speak> in the list or if you want another ones feel free to reach the team on Discord and they will add this in the upcoming update. Let's finish this part clicking on continue</speak>
+		</media>
+		<media begin="184.700s">
+			<speak> and now let's change some things here in the UI</speak>
+		</media>
+		<media begin="190.100s">
+			<speak> as you can see here at the left you can use any of those fonts available</speak>
+		</media>
+		<media begin="197.100s">
+			<speak> let's use this font</speak>
+		</media>
+		<media begin="201.500s">
+			<speak> and let's use this color combination</speak>
+		</media>
+		<media begin="206.200s">
+			<speak> we can click here and continue. Here in the token section you can use the default ones or you can import as well some tokens on the compatible networks in the list just choose the network</speak>
+		</media>
+		<media begin="225.700s">
+			<speak> and paste the data, upload the logo and click on import</speak>
+		</media>
+		<media begin="232.700s">
+			<speak> you will be able as well to import tokens directly from coin geeko API just click on import and write the name of the token in the first blank space for example let's input</speak>
+		</media>
+		<media begin="255.100s">
+			<speak> near</speak>
+		</media>
+		<media begin="256.800s">
+			<speak> you can see here all the options available on coingecko you can do the same for other tokens as well</speak>
+		</media>
+		<media begin="265.800s">
+			<speak> for example DAI stablecoin is present in several networks. We see others with similar name as well</speak>
+		</media>
+		<media begin="279.300s">
+			<speak> add that token as default and just click on import and you will have another token in your list</speak>
+		</media>
+		<media begin="291.400s">
+			<speak> we will keep here all the default</speak>
+		</media>
+		<media begin="296.600s">
+			<speak> coins, select all the present ones</speak>
+		</media>
+		<media begin="302s">
+			<speak> select which will be here the default Network on our DEX aggregator. we need to choose it on the swap configuration</speak>
+		</media>
+		<media begin="313.700s">
+			<speak> we will use Ethereum</speak>
+		</media>
+		<media begin="318.300s">
+			<speak> the default tokens will be Ethereum</speak>
+		</media>
+		<media begin="321.900s">
+			<speak> the default input token will be Ethereum</speak>
+		</media>
+		<media begin="325.300s">
+			<speak> and the output will be USD coin</speak>
+		</media>
+		<media begin="330.200s">
+			<speak> the slippage will be 1%</speak>
+		</media>
+		<media begin="334.500s">
+			<speak> and we can click on finish when we finished all the steps</speak>
+		</media>
+		<media begin="342.800s">
+			<speak> now let's finish your dapp configuration and let's click on create now</speak>
+		</media>
+		<media begin="352s">
+			<speak> we will need to sign on our wallet</speak>
+		</media>
+		<media begin="357.900s">
+			<speak> and after signing we click on the blue button confirm</speak>
+		</media>
+		<media begin="364s">
+			<speak> now the operation it's done. let's click on the URL for this application</speak>
+		</media>
+		<media begin="379.300s">
+			<speak> and as you can see</speak>
+		</media>
+		<media begin="382.500s">
+			<speak> this is your DEX aggregator. remember that you can change everything here from logo to colors and also remove this footer to make it even more special</speak>
+		</media>
+		<media begin="401.600s">
+			<speak> feel free to comment this video and ask what else do you want to add on this application. We will consider your opinions. Thank you and we wish you many luck.</speak>
+		</media>
+	</par>
+</speak>

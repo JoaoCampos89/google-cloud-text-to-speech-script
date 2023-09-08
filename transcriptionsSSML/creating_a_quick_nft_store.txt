@@ -1,0 +1,121 @@
+<speak>
+	<par>
+		<media begin="0.700s">
+			<speak>hello I'm going to show you how to create your NFD store with Dex app builder</speak>
+		</media>
+		<media begin="10.100s">
+			<speak> the nft store will let you to create your own nft store like Shopify but with an SDS you will be able to offer their all the nht's you are willing to sell in a flexible and more organized way for your clients this product is incredible for collection that are just</speak>
+		</media>
+		<media begin="39.900s">
+			<speak> just arriving you want to sell your collection just publish it there and share your link with everyone</speak>
+		</media>
+		<media begin="52.900s">
+			<speak> I will show you how to create an nft Market quickly</speak>
+		</media>
+		<media begin="59.400s">
+			<speak> first of all you need to go to wait libel hyphen and ft dots that keep.com then inside the page you need to click in the app builder option in the top menu then you will click on create nft store app that is the third option</speak>
+		</media>
+		<media begin="84.600s">
+			<speak> inside there we will connect our wallet clicking in the top menu at the right</speak>
+		</media>
+		<media begin="93.800s">
+			<speak> you can use many masks or you can use as well while I connect four other ones let's use many masks</speak>
+		</media>
+		<media begin="105.400s">
+			<speak> we authenticated we are loading and now we will create the basic structure for our quick nft store Builder</speak>
+		</media>
+		<media begin="115.200s">
+			<speak> let's put a name here</speak>
+		</media>
+		<media begin="123.300s">
+			<speak> let's put now an email</speak>
+		</media>
+		<media begin="133.500s">
+			<speak> you can change the logo of your product according to your brand and also you can change the tab icon for the page</speak>
+		</media>
+		<media begin="143.800s">
+			<speak> the languages available are English Portuguese and Spanish and the currencies are u.s. dollar euro and other ones you can choose to display the prices according to your fiat currency you finish here let's click on continue now</speak>
+		</media>
+		<media begin="167.900s">
+			<speak> now we will choose the thing to make it suitable for our brand</speak>
+		</media>
+		<media begin="173.800s">
+			<speak> in this case you will have access to thousands funds from Google API</speak>
+		</media>
+		<media begin="181.500s">
+			<speak> this is the most popular fault repository on internet so you will find here one similar to your brand or so close to it let's use someone anyone let's use this we can choose the colors here we have some default colors or we can customize our colors clicking on custom</speak>
+		</media>
+		<media begin="210.200s">
+			<speak> choosing between dark and light mode let's use dark let's keep the same colors primary secondary this is a background color and this is the font color in this case it will be black we need a white letters here let's put here now you can see here in the preview how it looks</speak>
+		</media>
+		<media begin="239.800s">
+			<speak> okay we finish here in the setup thing let's click on continue</speak>
+		</media>
+		<media begin="246.600s">
+			<speak> in this section you will be able to ascan your are C20 address in order to watch all the offers you have opened in your desk it Marketplace or your crypto up</speak>
+		</media>
+		<media begin="263.500s">
+			<speak> you just need to input here you are C20 address and the system will scan all your open listings in this case I open it to release things on these nft collection I want to call this nft Marketplace</speak>
+		</media>
+		<media begin="286.500s">
+			<speak> abstract art</speak>
+		</media>
+		<media begin="293.900s">
+			<speak> now we will put a title for the NHD Marketplace and the description</speak>
+		</media>
+		<media begin="304.300s">
+			<speak> we can use a title a single title</speak>
+		</media>
+		<media begin="307.500s">
+			<speak> get the most</speak>
+		</media>
+		<media begin="323.400s">
+			<speak>as you can see</speak>
+		</media>
+		<media begin="326.500s">
+			<speak> we finished here now we will add some profile image for the nft marketplace and a background image</speak>
+		</media>
+		<media begin="340.100s">
+			<speak> let's add an image here</speak>
+		</media>
+		<media begin="346.500s">
+			<speak> you need to authenticate with your wallet</speak>
+		</media>
+		<media begin="351.900s">
+			<speak> in order to save your image you can see here we have a profile image and we will put a background one</speak>
+		</media>
+		<media begin="363.600s">
+			<speak> let's use this according to</speak>
+		</media>
+		<media begin="372.300s">
+			<speak> okay now we finish to field all our blanks</speak>
+		</media>
+		<media begin="378.900s">
+			<speak> we click now unfinished</speak>
+		</media>
+		<media begin="382.300s">
+			<speak> all step complete</speak>
+		</media>
+		<media begin="384.700s">
+			<speak> now we create up and confirm with the system if in this case you don't receive a confirmation message of your wallet don't worry maybe it will be active your latest autorización but if the system asks you again for the signature don't worry it just click on signing and wait for the system do</speak>
+		</media>
+		<media begin="414.500s">
+			<speak> they work</speak>
+		</media>
+		<media begin="416.100s">
+			<speak> as you can see we created our quick nft marketplace now we can click here</speak>
+		</media>
+		<media begin="425.400s">
+			<speak> after clicking on preview you can see that this is our nft store created with the nft we decided to offer</speak>
+		</media>
+		<media begin="440.100s">
+			<speak> in the first instance remember to put the offers for the UN Estes to want to display here and then just choose them and it will be displayed in your nft store and people will be able to bully them this is the fastest option for the creators and designers in order to sell their</speak>
+		</media>
+		<media begin="469.900s">
+			<speak> incredible creations</speak>
+		</media>
+		<media begin="472.800s">
+			<speak> thank you again for watching this video and we want you to use our products</speak>
+		</media>
+	</par>
+</speak>

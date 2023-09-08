@@ -8,9 +8,9 @@ const util = require("util");
 const client = new textToSpeech.TextToSpeechClient();
 async function quickStart() {
   // The text to synthesize
-  fs.readdir("./transcriptionsSSML", (err, files) => {
+  fs.readdir("./transcriptionsSSML/NFT_store", (err, files) => {
     files.forEach(async (file) => {
-      const text = fs.readFileSync(`./transcriptionsSSML/${file}`);
+      const text = fs.readFileSync(`./transcriptionsSSML/NFT_store/${file}`);
       const request = {
         input: {
           ssml: text,

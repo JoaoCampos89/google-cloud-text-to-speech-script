@@ -10,20 +10,22 @@ async function quickStart() {
       const transcription = JSON.parse(text);
       const results = transcription.results;
       const speechText = [];
-      for (const section of results) {
-        const alt = section.alternatives;
-        if (
-          section.alternatives.length &&
-          alt[0].confidence > 0 &&
-          alt[0]?.words &&
-          alt[0].transcript
-        ) {
-          speechText.push({
-            transcript: alt[0].transcript,
-            confidence: alt[0].confidence,
-            startTime: alt[0]?.words[0].startTime,
-            endTime: alt[0]?.words[alt[0]?.words.length - 1].endTime,
-          });
+      if (results && results.length) {
+        for (const section of results) {
+          const alt = section.alternatives;
+          if (
+            section.alternatives.length &&
+            alt[0].confidence > 0 &&
+            alt[0]?.words &&
+            alt[0].transcript
+          ) {
+            speechText.push({
+              transcript: alt[0].transcript,
+              confidence: alt[0].confidence,
+              startTime: alt[0]?.words[0].startTime,
+              endTime: alt[0]?.words[alt[0]?.words.length - 1].endTime,
+            });
+          }
         }
       }
 

@@ -1,0 +1,43 @@
+<speak>
+	<par>
+		<media begin="0.000s">
+			<speak> you need to authenticate with your wallet</speak>
+		</media>
+		<media begin="5.400s">
+			<speak> in order to save your image you can see here we have a profile image and we will put a background one</speak>
+		</media>
+		<media begin="17.100s">
+			<speak> let's use this one</speak>
+		</media>
+		<media begin="25.800s">
+			<speak> okay now we finish to fill all the blanks</speak>
+		</media>
+		<media begin="32.400s">
+			<speak> we click now on finished</speak>
+		</media>
+		<media begin="35.800s">
+			<speak> all step complete</speak>
+		</media>
+		<media begin="38.200s">
+			<speak> now we create it and confirm with the system. if in this case you don't receive a confirmation message on your wallet, don't worry! your latest autorizatio is still active but if the system asks you again for the signature click on sign in and wait for the system do</speak>
+		</media>
+		<media begin="68.000s">
+			<speak> its work</speak>
+		</media>
+		<media begin="69.600s">
+			<speak> as you can see we created our quick nft marketplace!</speak>
+		</media>
+		<media begin="78.900s">
+			<speak> after clicking on preview URL you can see that this is our nft store created with the collectibles we decided to offer</speak>
+		</media>
+		<media begin="93.600s">
+			<speak> in the first instance remember to put the offers for the NFTs to want to display here and then just choose them. All the open offers will be displayed in your nft store and people will be able to buy them.  This is the fastest option for the creators and designers in order to sell their</speak>
+		</media>
+		<media begin="123.400s">
+			<speak> incredible creations</speak>
+		</media>
+		<media begin="126.300s">
+			<speak> thank you again for watching this video and we invite you to use our products for entrepreneurs</speak>
+		</media>
+	</par>
+</speak>

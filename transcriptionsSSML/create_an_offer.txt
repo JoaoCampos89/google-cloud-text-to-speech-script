@@ -1,0 +1,82 @@
+<speak>
+	<par>
+		<media begin="3s">
+			<speak>hello Dex get fan I'm going to show you how to put a place offers for any n FD published on our community marketplaces</speak>
+		</media>
+		<media begin="21.700s">
+			<speak> if you don't know how to create your marketplace with Dex kit don't worry we will let you in the comments I will YouTube playlist with all the resources you need to create an amazing market place and sell as well your entities and why not how to create an effective</speak>
+		</media>
+		<media begin="51.400s">
+			<speak> the collections as well with us in this specific video you will learn how to put offers for any of those entities in any of the community marketplaces and how to profit with them let's start</speak>
+		</media>
+		<media begin="72.400s">
+			<speak> the first is to go to this website white label dash n ft docks that kit.com / Stipe this is basically like a directory here you will be able to see any of the available Marketplace has created by Tex kid community</speak>
+		</media>
+		<media begin="96.800s">
+			<speak> four-time economy let's choose this one that we know that is an amazing Marketplace created by one ball of gold member</speak>
+		</media>
+		<media begin="108.600s">
+			<speak> we see that he posted some nice entities in if we like one of these entities we can just put our offer or check if any of these are published let's check this first one</speak>
+		</media>
+		<media begin="129.300s">
+			<speak> as we can see this nft is here posted by 3-matic Price you can move straight from here or if you have a better offer for this nft you just can click on make offer</speak>
+		</media>
+		<media begin="150.400s">
+			<speak> after clicking here you can see the available tokens</speak>
+		</media>
+		<media begin="156.700s">
+			<speak> for paying this nft we can pay rate that mattock</speak>
+		</media>
+		<media begin="163.300s">
+			<speak> we can pay day USD because this Marketplace is highly compatible with a lot of networks etherium Finance chain polygon Avalanche Phantom orbit room and optimism you can display and sell all your entities</speak>
+		</media>
+		<media begin="190.600s">
+			<speak> now we will look for another nft of this Marketplace in order to make a listing over</speak>
+		</media>
+		<media begin="202.100s">
+			<speak> let's click on this one</speak>
+		</media>
+		<media begin="205.400s">
+			<speak> okay we have a listing here for 0.3 medic</speak>
+		</media>
+		<media begin="211.900s">
+			<speak> we can make our own over clicking in the makeover bottom you can see here the available tokens</speak>
+		</media>
+		<media begin="225.500s">
+			<speak> I will use Rapid mattock and I will put a 0.3 price in a seven days you can place an offer that lasts an hour to six months nine will last seven days I will pay 03 if the owner of the nft that is the owner of this nft Marketplace</speak>
+		</media>
+		<media begin="255.300s">
+			<speak> accept my offer so I will confirm here</speak>
+		</media>
+		<media begin="260.500s">
+			<speak> I need to sing the message with my wallet let's click here Madam asked and message is signed you should maybe have to authentications at the first time you enter here so no worry all is safe let's see the offers</speak>
+		</media>
+		<media begin="283.300s">
+			<speak> we can see that we put an offer similar to the price that is here but I just wanted to show you how to put an offer you are not agreed with the price you just click there</speak>
+		</media>
+		<media begin="303.100s">
+			<speak> and you can check it and you can cancel it anytime as well</speak>
+		</media>
+		<media begin="309.200s">
+			<speak> you can share it on social media or you can watch it</speak>
+		</media>
+		<media begin="314.200s">
+			<speak> clicking on view order let's give it a look</speak>
+		</media>
+		<media begin="319.800s">
+			<speak> okay here is your older details you can see here is the NFD details with the description everything the number of the order</speak>
+		</media>
+		<media begin="332.300s">
+			<speak> the price when we Aspire who created this is my wallet in this case</speak>
+		</media>
+		<media begin="340.500s">
+			<speak> and we can cancel here as well</speak>
+		</media>
+		<media begin="344.400s">
+			<speak> so let's wait if the owner of this Marketplace accepts</speak>
+		</media>
+		<media begin="351s">
+			<speak> I hope you like this video do not forget to subscribe for more videos teaching how to use and squeeze the max of our platform see you later</speak>
+		</media>
+	</par>
+</speak>

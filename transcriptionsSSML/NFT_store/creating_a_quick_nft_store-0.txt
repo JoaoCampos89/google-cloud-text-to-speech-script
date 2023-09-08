@@ -1,0 +1,43 @@
+<speak>
+	<par>
+		<media begin="0.700s">
+			<speak>hello I'm going to show you how to create your NFT store with DexApp builder</speak>
+		</media>
+		<media begin="10.100s">
+			<speak> the nft store will let you to create your own nft store like Shopify but with NFTs. You will be able to display all your NFT open orders in a flexible and more organized way for your clients. This product is incredible for new collections</speak>
+		</media>
+		<media begin="39.900s">
+			<speak>  bacause user only needs to just publish it there and share the link with everyone</speak>
+		</media>
+		<media begin="52.900s">
+			<speak> I will show you how to create an NFT Market quickly</speak>
+		</media>
+		<media begin="59.400s">
+			<speak> first of all you need to go to the address in the description. Then, inside the platform you need to click in the app builder option in the top menu, then you will click on create nft store app that is the third option</speak>
+		</media>
+		<media begin="84.600s">
+			<speak> inside there we will connect our wallet clicking in the top menu at the right</speak>
+		</media>
+		<media begin="93.800s">
+			<speak> you can use MetaMask or you can use as well WalletConnect for other ones. Let´s use MetaMask</speak>
+		</media>
+		<media begin="105.400s">
+			<speak>after we got authenticated in the platform, now we will create the basic structure for our quick nft store Builder</speak>
+		</media>
+		<media begin="115.200s">
+			<speak> let's put a name here</speak>
+		</media>
+		<media begin="123.300s">
+			<speak> let's put now an email</speak>
+		</media>
+		<media begin="133.500s">
+			<speak> you can change the logo of your product according to your brand and also you can change the tab icon for the page</speak>
+		</media>
+		<media begin="143.800s">
+			<speak> the languages available are English, Portuguese, and Spanish and the currencies are u.s. dollar, euro and other ones. you can choose to display the prices according to your local fiat currency. Did you finished?  let's click on continue now</speak>
+		</media>
+		<media begin="167.900s">
+			<speak> it´s the moment to choose the theme to make it suitable for our brand</speak>
+		</media>
+	</par>
+</speak>

@@ -1,0 +1,4438 @@
+{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "confidence": 0.84070235,
+          "transcript": "now it's very easy to deploy your crypto app on deck skit",
+          "words": [
+            {
+              "confidence": 0.91283858,
+              "endTime": "1.300s",
+              "startTime": "0.800s",
+              "word": "now"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "1.600s",
+              "startTime": "1.300s",
+              "word": "it's"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "2.100s",
+              "startTime": "1.600s",
+              "word": "very"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "2.500s",
+              "startTime": "2.100s",
+              "word": "easy"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "2.700s",
+              "startTime": "2.500s",
+              "word": "to"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "3.500s",
+              "startTime": "2.700s",
+              "word": "deploy"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "4.400s",
+              "startTime": "4s",
+              "word": "your"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "5.800s",
+              "startTime": "5.100s",
+              "word": "crypto"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "6.400s",
+              "startTime": "5.800s",
+              "word": "app"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "6.900s",
+              "startTime": "6.500s",
+              "word": "on"
+            },
+            {
+              "confidence": 0.43167153,
+              "endTime": "7.200s",
+              "startTime": "6.900s",
+              "word": "deck"
+            },
+            {
+              "confidence": 0.52837217,
+              "endTime": "7.800s",
+              "startTime": "7.200s",
+              "word": "skit"
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "8.230s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.8959738,
+          "transcript": " the decks of Builder is your best friend and companion you can create any crypto app with this application but today we will focus our time creating a decks aggregator compatible with etherium polygon - chain Avalanche Phantom optimism and arbitral networks efficiently",
+          "words": [
+            {
+              "confidence": 0.91283858,
+              "endTime": "9.100s",
+              "startTime": "9s",
+              "word": "the"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "9.600s",
+              "startTime": "9.100s",
+              "word": "decks"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "9.800s",
+              "startTime": "9.600s",
+              "word": "of"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "10.400s",
+              "startTime": "9.800s",
+              "word": "Builder"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "10.800s",
+              "startTime": "10.400s",
+              "word": "is"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "11s",
+              "startTime": "10.800s",
+              "word": "your"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "11.400s",
+              "startTime": "11s",
+              "word": "best"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "12s",
+              "startTime": "11.400s",
+              "word": "friend"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "12.100s",
+              "startTime": "12s",
+              "word": "and"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "13.100s",
+              "startTime": "12.100s",
+              "word": "companion"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "14.600s",
+              "startTime": "14.300s",
+              "word": "you"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "14.900s",
+              "startTime": "14.600s",
+              "word": "can"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "15.800s",
+              "startTime": "14.900s",
+              "word": "create"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "16.300s",
+              "startTime": "15.800s",
+              "word": "any"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "16.900s",
+              "startTime": "16.300s",
+              "word": "crypto"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "17.400s",
+              "startTime": "16.900s",
+              "word": "app"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "17.600s",
+              "startTime": "17.400s",
+              "word": "with"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "17.800s",
+              "startTime": "17.600s",
+              "word": "this"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "18.700s",
+              "startTime": "17.800s",
+              "word": "application"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "19.400s",
+              "startTime": "19s",
+              "word": "but"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "20.100s",
+              "startTime": "19.500s",
+              "word": "today"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "20.600s",
+              "startTime": "20.400s",
+              "word": "we"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "20.900s",
+              "startTime": "20.600s",
+              "word": "will"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "21.500s",
+              "startTime": "20.900s",
+              "word": "focus"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "21.800s",
+              "startTime": "21.500s",
+              "word": "our"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "22.200s",
+              "startTime": "21.800s",
+              "word": "time"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "22.900s",
+              "startTime": "22.200s",
+              "word": "creating"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "23.100s",
+              "startTime": "23s",
+              "word": "a"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "23.700s",
+              "startTime": "23.100s",
+              "word": "decks"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "24.500s",
+              "startTime": "23.700s",
+              "word": "aggregator"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "25.700s",
+              "startTime": "24.900s",
+              "word": "compatible"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "26.100s",
+              "startTime": "25.700s",
+              "word": "with"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "26.900s",
+              "startTime": "26.100s",
+              "word": "etherium"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "28.300s",
+              "startTime": "27.500s",
+              "word": "polygon"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "29s",
+              "startTime": "28.500s",
+              "word": "-"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "29.700s",
+              "startTime": "29s",
+              "word": "chain"
+            },
+            {
+              "confidence": 0.69178176,
+              "endTime": "31s",
+              "startTime": "30.100s",
+              "word": "Avalanche"
+            },
+            {
+              "confidence": 0.84038973,
+              "endTime": "32s",
+              "startTime": "31.100s",
+              "word": "Phantom"
+            },
+            {
+              "confidence": 0.79078573,
+              "endTime": "33.300s",
+              "startTime": "32.400s",
+              "word": "optimism"
+            },
+            {
+              "confidence": 0.75190187,
+              "endTime": "33.700s",
+              "startTime": "33.400s",
+              "word": "and"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "34.300s",
+              "startTime": "33.700s",
+              "word": "arbitral"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "35.100s",
+              "startTime": "34.300s",
+              "word": "networks"
+            },
+            {
+              "confidence": 0.76415497,
+              "endTime": "36s",
+              "startTime": "35.100s",
+              "word": "efficiently"
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "36.600s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.77409023,
+          "transcript": " you can trade your tokens in your own weight labeled X aggregator with low costs on feast and the best price on real time you can also earn money in your decks aggregator wait label application with your friends drinking now let's start to the website that I will put in the description of the video and inside",
+          "words": [
+            {
+              "confidence": 0.91283858,
+              "endTime": "37.400s",
+              "startTime": "37.200s",
+              "word": "you"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "37.600s",
+              "startTime": "37.400s",
+              "word": "can"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "38s",
+              "startTime": "37.600s",
+              "word": "trade"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "38.200s",
+              "startTime": "38s",
+              "word": "your"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "38.900s",
+              "startTime": "38.200s",
+              "word": "tokens"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "39.100s",
+              "startTime": "38.900s",
+              "word": "in"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "39.500s",
+              "startTime": "39.100s",
+              "word": "your"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "40s",
+              "startTime": "39.500s",
+              "word": "own"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "40.400s",
+              "startTime": "40s",
+              "word": "weight"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "41.100s",
+              "startTime": "40.400s",
+              "word": "labeled"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "41.500s",
+              "startTime": "41.100s",
+              "word": "X"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "42.300s",
+              "startTime": "41.500s",
+              "word": "aggregator"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "43.300s",
+              "startTime": "42.900s",
+              "word": "with"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "43.700s",
+              "startTime": "43.300s",
+              "word": "low"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "44.500s",
+              "startTime": "43.700s",
+              "word": "costs"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "44.800s",
+              "startTime": "44.500s",
+              "word": "on"
+            },
+            {
+              "confidence": 0.46226472,
+              "endTime": "45.500s",
+              "startTime": "44.800s",
+              "word": "feast"
+            },
+            {
+              "confidence": 0.74846828,
+              "endTime": "45.800s",
+              "startTime": "45.500s",
+              "word": "and"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "45.900s",
+              "startTime": "45.800s",
+              "word": "the"
+            },
+            {
+              "confidence": 0.80694973,
+              "endTime": "46.400s",
+              "startTime": "45.900s",
+              "word": "best"
+            },
+            {
+              "confidence": 0.74751562,
+              "endTime": "46.900s",
+              "startTime": "46.400s",
+              "word": "price"
+            },
+            {
+              "confidence": 0.61806762,
+              "endTime": "47.100s",
+              "startTime": "46.900s",
+              "word": "on"
+            },
+            {
+              "confidence": 0.75035602,
+              "endTime": "47.500s",
+              "startTime": "47.100s",
+              "word": "real"
+            },
+            {
+              "confidence": 0.71801049,
+              "endTime": "48s",
+              "startTime": "47.500s",
+              "word": "time"
+            },
+            {
+              "confidence": 0.81942534,
+              "endTime": "48.500s",
+              "startTime": "48.200s",
+              "word": "you"
+            },
+            {
+              "confidence": 0.61538875,
+              "endTime": "48.800s",
+              "startTime": "48.500s",
+              "word": "can"
+            },
+            {
+              "confidence": 0.69447088,
+              "endTime": "49.400s",
+              "startTime": "48.800s",
+              "word": "also"
+            },
+            {
+              "confidence": 0.55078906,
+              "endTime": "49.900s",
+              "startTime": "49.400s",
+              "word": "earn"
+            },
+            {
+              "confidence": 0.76208025,
+              "endTime": "50.400s",
+              "startTime": "49.900s",
+              "word": "money"
+            },
+            {
+              "confidence": 0.86548221,
+              "endTime": "50.800s",
+              "startTime": "50.400s",
+              "word": "in"
+            },
+            {
+              "confidence": 0.7095077,
+              "endTime": "51.200s",
+              "startTime": "50.800s",
+              "word": "your"
+            },
+            {
+              "confidence": 0.89316058,
+              "endTime": "51.700s",
+              "startTime": "51.200s",
+              "word": "decks"
+            },
+            {
+              "confidence": 0.87846446,
+              "endTime": "52.500s",
+              "startTime": "51.700s",
+              "word": "aggregator"
+            },
+            {
+              "confidence": 0.74440664,
+              "endTime": "52.800s",
+              "startTime": "52.500s",
+              "word": "wait"
+            },
+            {
+              "confidence": 0.7307741,
+              "endTime": "53.300s",
+              "startTime": "52.800s",
+              "word": "label"
+            },
+            {
+              "confidence": 0.72036612,
+              "endTime": "54.600s",
+              "startTime": "53.400s",
+              "word": "application"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "55.300s",
+              "startTime": "55s",
+              "word": "with"
+            },
+            {
+              "confidence": 0.71127713,
+              "endTime": "55.600s",
+              "startTime": "55.300s",
+              "word": "your"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "56.100s",
+              "startTime": "55.600s",
+              "word": "friends"
+            },
+            {
+              "confidence": 0.56136626,
+              "endTime": "56.800s",
+              "startTime": "56.100s",
+              "word": "drinking"
+            },
+            {
+              "confidence": 0.69665635,
+              "endTime": "57.900s",
+              "startTime": "57.500s",
+              "word": "now"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "58.800s",
+              "startTime": "58.400s",
+              "word": "let's"
+            },
+            {
+              "confidence": 0.5496974,
+              "endTime": "59.300s",
+              "startTime": "58.800s",
+              "word": "start"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "59.800s",
+              "startTime": "59.600s",
+              "word": "to"
+            },
+            {
+              "confidence": 0.59910625,
+              "endTime": "60.200s",
+              "startTime": "59.800s",
+              "word": "the"
+            },
+            {
+              "confidence": 0.71018201,
+              "endTime": "61.300s",
+              "startTime": "60.400s",
+              "word": "website"
+            },
+            {
+              "confidence": 0.50698537,
+              "endTime": "61.600s",
+              "startTime": "61.300s",
+              "word": "that"
+            },
+            {
+              "confidence": 0.56695962,
+              "endTime": "61.800s",
+              "startTime": "61.600s",
+              "word": "I"
+            },
+            {
+              "confidence": 0.72210521,
+              "endTime": "62.300s",
+              "startTime": "61.800s",
+              "word": "will"
+            },
+            {
+              "confidence": 0.64159185,
+              "endTime": "62.900s",
+              "startTime": "62.500s",
+              "word": "put"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "63s",
+              "startTime": "62.900s",
+              "word": "in"
+            },
+            {
+              "confidence": 0.72250617,
+              "endTime": "63.100s",
+              "startTime": "63s",
+              "word": "the"
+            },
+            {
+              "confidence": 0.43967712,
+              "endTime": "63.800s",
+              "startTime": "63.100s",
+              "word": "description"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "63.900s",
+              "startTime": "63.800s",
+              "word": "of"
+            },
+            {
+              "confidence": 0.62688971,
+              "endTime": "64s",
+              "startTime": "63.900s",
+              "word": "the"
+            },
+            {
+              "confidence": 0.47844502,
+              "endTime": "64.600s",
+              "startTime": "64s",
+              "word": "video"
+            },
+            {
+              "confidence": 0.61971962,
+              "endTime": "65.800s",
+              "startTime": "65.200s",
+              "word": "and"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "66.900s",
+              "startTime": "66.500s",
+              "word": "inside"
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "67.040s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.78218192,
+          "transcript": " add their legs click on connect while the button at the bottom right of the page now connect yourself with metal mask or wallet connect if you are using another wallet let's use metal mask for this purpose",
+          "words": [
+            {
+              "confidence": 0.72508216,
+              "endTime": "67.100s",
+              "startTime": "67s",
+              "word": "add"
+            },
+            {
+              "confidence": 0.76130086,
+              "endTime": "67.500s",
+              "startTime": "67.100s",
+              "word": "their"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "67.900s",
+              "startTime": "67.600s",
+              "word": "legs"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "68.400s",
+              "startTime": "67.900s",
+              "word": "click"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "68.600s",
+              "startTime": "68.400s",
+              "word": "on"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "69s",
+              "startTime": "68.600s",
+              "word": "connect"
+            },
+            {
+              "confidence": 0.6626277,
+              "endTime": "69.300s",
+              "startTime": "69s",
+              "word": "while"
+            },
+            {
+              "confidence": 0.61024624,
+              "endTime": "69.400s",
+              "startTime": "69.300s",
+              "word": "the"
+            },
+            {
+              "confidence": 0.7267732,
+              "endTime": "70s",
+              "startTime": "69.400s",
+              "word": "button"
+            },
+            {
+              "confidence": 0.77250749,
+              "endTime": "70.300s",
+              "startTime": "70s",
+              "word": "at"
+            },
+            {
+              "confidence": 0.81854403,
+              "endTime": "70.500s",
+              "startTime": "70.300s",
+              "word": "the"
+            },
+            {
+              "confidence": 0.70328236,
+              "endTime": "71.100s",
+              "startTime": "70.500s",
+              "word": "bottom"
+            },
+            {
+              "confidence": 0.67351663,
+              "endTime": "71.400s",
+              "startTime": "71.100s",
+              "word": "right"
+            },
+            {
+              "confidence": 0.69528198,
+              "endTime": "71.700s",
+              "startTime": "71.400s",
+              "word": "of"
+            },
+            {
+              "confidence": 0.72559601,
+              "endTime": "71.900s",
+              "startTime": "71.700s",
+              "word": "the"
+            },
+            {
+              "confidence": 0.63404608,
+              "endTime": "72.600s",
+              "startTime": "71.900s",
+              "word": "page"
+            },
+            {
+              "confidence": 0.7177307,
+              "endTime": "73.900s",
+              "startTime": "73.500s",
+              "word": "now"
+            },
+            {
+              "confidence": 0.71908617,
+              "endTime": "74.900s",
+              "startTime": "74.200s",
+              "word": "connect"
+            },
+            {
+              "confidence": 0.68795341,
+              "endTime": "75.800s",
+              "startTime": "75.100s",
+              "word": "yourself"
+            },
+            {
+              "confidence": 0.74414825,
+              "endTime": "76s",
+              "startTime": "75.800s",
+              "word": "with"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "76.200s",
+              "startTime": "76s",
+              "word": "metal"
+            },
+            {
+              "confidence": 0.72398597,
+              "endTime": "76.700s",
+              "startTime": "76.200s",
+              "word": "mask"
+            },
+            {
+              "confidence": 0.87562335,
+              "endTime": "77s",
+              "startTime": "76.800s",
+              "word": "or"
+            },
+            {
+              "confidence": 0.85310453,
+              "endTime": "77.400s",
+              "startTime": "77s",
+              "word": "wallet"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "77.900s",
+              "startTime": "77.400s",
+              "word": "connect"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "78.100s",
+              "startTime": "77.900s",
+              "word": "if"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "78.200s",
+              "startTime": "78.100s",
+              "word": "you"
+            },
+            {
+              "confidence": 0.72661531,
+              "endTime": "78.400s",
+              "startTime": "78.200s",
+              "word": "are"
+            },
+            {
+              "confidence": 0.79600757,
+              "endTime": "78.700s",
+              "startTime": "78.400s",
+              "word": "using"
+            },
+            {
+              "confidence": 0.68737102,
+              "endTime": "79.100s",
+              "startTime": "78.700s",
+              "word": "another"
+            },
+            {
+              "confidence": 0.71460873,
+              "endTime": "79.700s",
+              "startTime": "79.100s",
+              "word": "wallet"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "80.500s",
+              "startTime": "80.200s",
+              "word": "let's"
+            },
+            {
+              "confidence": 0.72076243,
+              "endTime": "80.900s",
+              "startTime": "80.500s",
+              "word": "use"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "81.300s",
+              "startTime": "81s",
+              "word": "metal"
+            },
+            {
+              "confidence": 0.70989227,
+              "endTime": "82s",
+              "startTime": "81.300s",
+              "word": "mask"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "82.200s",
+              "startTime": "82s",
+              "word": "for"
+            },
+            {
+              "confidence": 0.72288787,
+              "endTime": "82.500s",
+              "startTime": "82.200s",
+              "word": "this"
+            },
+            {
+              "confidence": 0.7731123,
+              "endTime": "83.100s",
+              "startTime": "82.500s",
+              "word": "purpose"
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "83.520s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.9128387,
+          "transcript": " okay we are now connected to our wallet now let's create a new decks aggregator",
+          "words": [
+            {
+              "confidence": 0.91283858,
+              "endTime": "84.800s",
+              "startTime": "84.300s",
+              "word": "okay"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "85.200s",
+              "startTime": "85s",
+              "word": "we"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "85.300s",
+              "startTime": "85.200s",
+              "word": "are"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "85.600s",
+              "startTime": "85.300s",
+              "word": "now"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "86.500s",
+              "startTime": "85.600s",
+              "word": "connected"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "87.300s",
+              "startTime": "86.900s",
+              "word": "to"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "88s",
+              "startTime": "87.400s",
+              "word": "our"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "89s",
+              "startTime": "88.300s",
+              "word": "wallet"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "89.800s",
+              "startTime": "89.300s",
+              "word": "now"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "90.300s",
+              "startTime": "89.900s",
+              "word": "let's"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "91s",
+              "startTime": "90.300s",
+              "word": "create"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "91.600s",
+              "startTime": "91.500s",
+              "word": "a"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "92.200s",
+              "startTime": "91.600s",
+              "word": "new"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "92.900s",
+              "startTime": "92.500s",
+              "word": "decks"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "93.700s",
+              "startTime": "92.900s",
+              "word": "aggregator"
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "94.170s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.81828523,
+          "transcript": " we will here in the menu on the top and we create a swap up that is the same thing that the decks aggregator",
+          "words": [
+            {
+              "confidence": 0.91283858,
+              "endTime": "96.100s",
+              "startTime": "95.900s",
+              "word": "we"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "96.600s",
+              "startTime": "96.100s",
+              "word": "will"
+            },
+            {
+              "confidence": 0.68948674,
+              "endTime": "97.300s",
+              "startTime": "96.800s",
+              "word": "here"
+            },
+            {
+              "confidence": 0.9073571,
+              "endTime": "97.600s",
+              "startTime": "97.300s",
+              "word": "in"
+            },
+            {
+              "confidence": 0.74770063,
+              "endTime": "97.900s",
+              "startTime": "97.600s",
+              "word": "the"
+            },
+            {
+              "confidence": 0.7628895,
+              "endTime": "98.700s",
+              "startTime": "98s",
+              "word": "menu"
+            },
+            {
+              "confidence": 0.72029293,
+              "endTime": "99.100s",
+              "startTime": "98.800s",
+              "word": "on"
+            },
+            {
+              "confidence": 0.7291677,
+              "endTime": "99.200s",
+              "startTime": "99.100s",
+              "word": "the"
+            },
+            {
+              "confidence": 0.72029287,
+              "endTime": "99.900s",
+              "startTime": "99.200s",
+              "word": "top"
+            },
+            {
+              "confidence": 0.7059437,
+              "endTime": "101.200s",
+              "startTime": "100.700s",
+              "word": "and"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "101.600s",
+              "startTime": "101.500s",
+              "word": "we"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "102.100s",
+              "startTime": "101.600s",
+              "word": "create"
+            },
+            {
+              "confidence": 0.8172437,
+              "endTime": "102.200s",
+              "startTime": "102.100s",
+              "word": "a"
+            },
+            {
+              "confidence": 0.90735716,
+              "endTime": "102.800s",
+              "startTime": "102.200s",
+              "word": "swap"
+            },
+            {
+              "confidence": 0.71838647,
+              "endTime": "103.300s",
+              "startTime": "102.800s",
+              "word": "up"
+            },
+            {
+              "confidence": 0.79567951,
+              "endTime": "104.300s",
+              "startTime": "104s",
+              "word": "that"
+            },
+            {
+              "confidence": 0.83950979,
+              "endTime": "104.600s",
+              "startTime": "104.300s",
+              "word": "is"
+            },
+            {
+              "confidence": 0.87741584,
+              "endTime": "104.800s",
+              "startTime": "104.600s",
+              "word": "the"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "105.100s",
+              "startTime": "104.800s",
+              "word": "same"
+            },
+            {
+              "confidence": 0.7291677,
+              "endTime": "105.600s",
+              "startTime": "105.100s",
+              "word": "thing"
+            },
+            {
+              "confidence": 0.72538602,
+              "endTime": "105.800s",
+              "startTime": "105.600s",
+              "word": "that"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "105.900s",
+              "startTime": "105.800s",
+              "word": "the"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "106.200s",
+              "startTime": "105.900s",
+              "word": "decks"
+            },
+            {
+              "confidence": 0.85569972,
+              "endTime": "107s",
+              "startTime": "106.200s",
+              "word": "aggregator"
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "107.410s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.9128387,
+          "transcript": " here we will feel all the plants with the requested information the name the email",
+          "words": [
+            {
+              "confidence": 0.91283858,
+              "endTime": "109.400s",
+              "startTime": "108.900s",
+              "word": "here"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "109.700s",
+              "startTime": "109.400s",
+              "word": "we"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "109.900s",
+              "startTime": "109.700s",
+              "word": "will"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "110.500s",
+              "startTime": "109.900s",
+              "word": "feel"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "110.800s",
+              "startTime": "110.500s",
+              "word": "all"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "111s",
+              "startTime": "110.800s",
+              "word": "the"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "111.600s",
+              "startTime": "111s",
+              "word": "plants"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "112.400s",
+              "startTime": "112.100s",
+              "word": "with"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "112.900s",
+              "startTime": "112.400s",
+              "word": "the"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "114.100s",
+              "startTime": "113.400s",
+              "word": "requested"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "115.200s",
+              "startTime": "114.100s",
+              "word": "information"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "115.600s",
+              "startTime": "115.400s",
+              "word": "the"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "116.100s",
+              "startTime": "115.600s",
+              "word": "name"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "117.700s",
+              "startTime": "117.600s",
+              "word": "the"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "118.300s",
+              "startTime": "117.700s",
+              "word": "email"
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "118.830s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.89265978,
+          "transcript": " for first instance the name of this will be the X",
+          "words": [
+            {
+              "confidence": 0.91283858,
+              "endTime": "119.800s",
+              "startTime": "119.500s",
+              "word": "for"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "120.200s",
+              "startTime": "119.800s",
+              "word": "first"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "121s",
+              "startTime": "120.300s",
+              "word": "instance"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "122s",
+              "startTime": "121.900s",
+              "word": "the"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "122.400s",
+              "startTime": "122s",
+              "word": "name"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "122.500s",
+              "startTime": "122.400s",
+              "word": "of"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "123s",
+              "startTime": "122.500s",
+              "word": "this"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "123.200s",
+              "startTime": "123s",
+              "word": "will"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "123.600s",
+              "startTime": "123.200s",
+              "word": "be"
+            },
+            {
+              "confidence": 0.88212597,
+              "endTime": "124.500s",
+              "startTime": "124.300s",
+              "word": "the"
+            },
+            {
+              "confidence": 0.72158551,
+              "endTime": "124.900s",
+              "startTime": "124.500s",
+              "word": "X"
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "126.620s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.91283852,
+          "transcript": " I will use my business email for this purpose",
+          "words": [
+            {
+              "confidence": 0.91283858,
+              "endTime": "128.400s",
+              "startTime": "128.300s",
+              "word": "I"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "128.700s",
+              "startTime": "128.400s",
+              "word": "will"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "129.300s",
+              "startTime": "128.700s",
+              "word": "use"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "130.100s",
+              "startTime": "129.600s",
+              "word": "my"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "132s",
+              "startTime": "131.400s",
+              "word": "business"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "132.700s",
+              "startTime": "132s",
+              "word": "email"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "133s",
+              "startTime": "132.700s",
+              "word": "for"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "133.300s",
+              "startTime": "133s",
+              "word": "this"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "134s",
+              "startTime": "133.300s",
+              "word": "purpose"
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "134.410s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.91283858,
+          "transcript": " and",
+          "words": [
+            {
+              "confidence": 0.91283858,
+              "endTime": "137.100s",
+              "startTime": "136.300s",
+              "word": "and"
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "137.460s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.82584298,
+          "transcript": " I will keep these both Global and fat icons because I'm just showing you how to do it",
+          "words": [
+            {
+              "confidence": 0.91283858,
+              "endTime": "138.300s",
+              "startTime": "138.100s",
+              "word": "I"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "138.600s",
+              "startTime": "138.300s",
+              "word": "will"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "139.300s",
+              "startTime": "138.600s",
+              "word": "keep"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "139.800s",
+              "startTime": "139.500s",
+              "word": "these"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "140.300s",
+              "startTime": "139.800s",
+              "word": "both"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "140.900s",
+              "startTime": "140.400s",
+              "word": "Global"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "141.100s",
+              "startTime": "140.900s",
+              "word": "and"
+            },
+            {
+              "confidence": 0.67857289,
+              "endTime": "141.300s",
+              "startTime": "141.100s",
+              "word": "fat"
+            },
+            {
+              "confidence": 0.80529904,
+              "endTime": "141.800s",
+              "startTime": "141.300s",
+              "word": "icons"
+            },
+            {
+              "confidence": 0.76151937,
+              "endTime": "143.200s",
+              "startTime": "142.600s",
+              "word": "because"
+            },
+            {
+              "confidence": 0.78131133,
+              "endTime": "143.700s",
+              "startTime": "143.400s",
+              "word": "I'm"
+            },
+            {
+              "confidence": 0.72077388,
+              "endTime": "144.300s",
+              "startTime": "143.700s",
+              "word": "just"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "144.900s",
+              "startTime": "144.400s",
+              "word": "showing"
+            },
+            {
+              "confidence": 0.70935512,
+              "endTime": "145.100s",
+              "startTime": "144.900s",
+              "word": "you"
+            },
+            {
+              "confidence": 0.72348374,
+              "endTime": "145.300s",
+              "startTime": "145.100s",
+              "word": "how"
+            },
+            {
+              "confidence": 0.72751808,
+              "endTime": "145.500s",
+              "startTime": "145.300s",
+              "word": "to"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "145.700s",
+              "startTime": "145.500s",
+              "word": "do"
+            },
+            {
+              "confidence": 0.74179256,
+              "endTime": "146.100s",
+              "startTime": "145.700s",
+              "word": "it"
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "146.350s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.87813741,
+          "transcript": " I will keep the English language",
+          "words": [
+            {
+              "confidence": 0.91283858,
+              "endTime": "147.200s",
+              "startTime": "147s",
+              "word": "I"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "147.500s",
+              "startTime": "147.200s",
+              "word": "will"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "148.100s",
+              "startTime": "147.500s",
+              "word": "keep"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "148.500s",
+              "startTime": "148.200s",
+              "word": "the"
+            },
+            {
+              "confidence": 0.75953621,
+              "endTime": "149.400s",
+              "startTime": "148.700s",
+              "word": "English"
+            },
+            {
+              "confidence": 0.85793382,
+              "endTime": "150.100s",
+              "startTime": "149.400s",
+              "word": "language"
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "150.590s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.86268288,
+          "transcript": " that it has also Portuguese and Spanish",
+          "words": [
+            {
+              "confidence": 0.91283858,
+              "endTime": "151.800s",
+              "startTime": "151.300s",
+              "word": "that"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "152.200s",
+              "startTime": "152.100s",
+              "word": "it"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "152.800s",
+              "startTime": "152.200s",
+              "word": "has"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "153.500s",
+              "startTime": "152.800s",
+              "word": "also"
+            },
+            {
+              "confidence": 0.74965739,
+              "endTime": "154.400s",
+              "startTime": "153.700s",
+              "word": "Portuguese"
+            },
+            {
+              "confidence": 0.88811105,
+              "endTime": "154.800s",
+              "startTime": "154.400s",
+              "word": "and"
+            },
+            {
+              "confidence": 0.74965757,
+              "endTime": "155.600s",
+              "startTime": "154.800s",
+              "word": "Spanish"
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "156.110s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.84331614,
+          "transcript": " and we will use US dollar you can use another currency present here",
+          "words": [
+            {
+              "confidence": 0.91283858,
+              "endTime": "157.400s",
+              "startTime": "156.900s",
+              "word": "and"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "157.800s",
+              "startTime": "157.600s",
+              "word": "we"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "158.100s",
+              "startTime": "157.800s",
+              "word": "will"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "158.400s",
+              "startTime": "158.100s",
+              "word": "use"
+            },
+            {
+              "confidence": 0.70183957,
+              "endTime": "158.800s",
+              "startTime": "158.400s",
+              "word": "US"
+            },
+            {
+              "confidence": 0.82259214,
+              "endTime": "159.300s",
+              "startTime": "158.800s",
+              "word": "dollar"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "159.600s",
+              "startTime": "159.500s",
+              "word": "you"
+            },
+            {
+              "confidence": 0.85924149,
+              "endTime": "159.900s",
+              "startTime": "159.600s",
+              "word": "can"
+            },
+            {
+              "confidence": 0.81678641,
+              "endTime": "160.300s",
+              "startTime": "159.900s",
+              "word": "use"
+            },
+            {
+              "confidence": 0.72855985,
+              "endTime": "161.500s",
+              "startTime": "160.700s",
+              "word": "another"
+            },
+            {
+              "confidence": 0.76360816,
+              "endTime": "162.700s",
+              "startTime": "161.900s",
+              "word": "currency"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "163.400s",
+              "startTime": "162.800s",
+              "word": "present"
+            },
+            {
+              "confidence": 0.79345101,
+              "endTime": "163.900s",
+              "startTime": "163.400s",
+              "word": "here"
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "164.460s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.9128384,
+          "transcript": " in the list if you want another clearances feel free to reach the team on this court and they will add this in the upcoming update let's finish this part clicking on continue",
+          "words": [
+            {
+              "confidence": 0.91283858,
+              "endTime": "165.500s",
+              "startTime": "165.200s",
+              "word": "in"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "165.700s",
+              "startTime": "165.500s",
+              "word": "the"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "166.300s",
+              "startTime": "165.700s",
+              "word": "list"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "167.400s",
+              "startTime": "166.700s",
+              "word": "if"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "167.600s",
+              "startTime": "167.400s",
+              "word": "you"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "168s",
+              "startTime": "167.600s",
+              "word": "want"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "168.500s",
+              "startTime": "168s",
+              "word": "another"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "169.300s",
+              "startTime": "168.500s",
+              "word": "clearances"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "170.100s",
+              "startTime": "169.800s",
+              "word": "feel"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "170.600s",
+              "startTime": "170.100s",
+              "word": "free"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "171.100s",
+              "startTime": "170.700s",
+              "word": "to"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "171.600s",
+              "startTime": "171.100s",
+              "word": "reach"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "171.800s",
+              "startTime": "171.600s",
+              "word": "the"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "172.200s",
+              "startTime": "171.800s",
+              "word": "team"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "172.400s",
+              "startTime": "172.300s",
+              "word": "on"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "172.700s",
+              "startTime": "172.400s",
+              "word": "this"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "173.200s",
+              "startTime": "172.700s",
+              "word": "court"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "173.500s",
+              "startTime": "173.300s",
+              "word": "and"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "173.800s",
+              "startTime": "173.500s",
+              "word": "they"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "174.100s",
+              "startTime": "173.800s",
+              "word": "will"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "174.400s",
+              "startTime": "174.100s",
+              "word": "add"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "174.900s",
+              "startTime": "174.400s",
+              "word": "this"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "175.700s",
+              "startTime": "175.600s",
+              "word": "in"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "176.200s",
+              "startTime": "175.700s",
+              "word": "the"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "177.100s",
+              "startTime": "176.400s",
+              "word": "upcoming"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "177.800s",
+              "startTime": "177.100s",
+              "word": "update"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "178.800s",
+              "startTime": "178.500s",
+              "word": "let's"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "179.300s",
+              "startTime": "178.800s",
+              "word": "finish"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "179.500s",
+              "startTime": "179.300s",
+              "word": "this"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "180.100s",
+              "startTime": "179.500s",
+              "word": "part"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "180.900s",
+              "startTime": "180.400s",
+              "word": "clicking"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "181.300s",
+              "startTime": "180.900s",
+              "word": "on"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "183s",
+              "startTime": "182.200s",
+              "word": "continue"
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "183.530s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.88903171,
+          "transcript": " and now let's change some things here in the UA",
+          "words": [
+            {
+              "confidence": 0.91283858,
+              "endTime": "184.900s",
+              "startTime": "184.700s",
+              "word": "and"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "185.400s",
+              "startTime": "184.900s",
+              "word": "now"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "186s",
+              "startTime": "185.600s",
+              "word": "let's"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "186.500s",
+              "startTime": "186s",
+              "word": "change"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "186.800s",
+              "startTime": "186.500s",
+              "word": "some"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "187.300s",
+              "startTime": "186.800s",
+              "word": "things"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "187.700s",
+              "startTime": "187.300s",
+              "word": "here"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "187.900s",
+              "startTime": "187.700s",
+              "word": "in"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "188.100s",
+              "startTime": "187.900s",
+              "word": "the"
+            },
+            {
+              "confidence": 0.67477053,
+              "endTime": "188.700s",
+              "startTime": "188.100s",
+              "word": "UA"
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "189.110s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.9128387,
+          "transcript": " as you can see here at the left you can use any of those fonts available",
+          "words": [
+            {
+              "confidence": 0.91283858,
+              "endTime": "190.300s",
+              "startTime": "190.100s",
+              "word": "as"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "190.400s",
+              "startTime": "190.300s",
+              "word": "you"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "190.600s",
+              "startTime": "190.400s",
+              "word": "can"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "190.700s",
+              "startTime": "190.600s",
+              "word": "see"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "191.300s",
+              "startTime": "190.700s",
+              "word": "here"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "191.600s",
+              "startTime": "191.400s",
+              "word": "at"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "191.700s",
+              "startTime": "191.600s",
+              "word": "the"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "192.400s",
+              "startTime": "191.700s",
+              "word": "left"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "192.600s",
+              "startTime": "192.500s",
+              "word": "you"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "192.900s",
+              "startTime": "192.600s",
+              "word": "can"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "193.300s",
+              "startTime": "192.900s",
+              "word": "use"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "194s",
+              "startTime": "193.500s",
+              "word": "any"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "194.300s",
+              "startTime": "194s",
+              "word": "of"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "194.700s",
+              "startTime": "194.300s",
+              "word": "those"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "195.100s",
+              "startTime": "194.700s",
+              "word": "fonts"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "195.800s",
+              "startTime": "195.100s",
+              "word": "available"
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "196.280s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.72009259,
+          "transcript": " that's use here this font",
+          "words": [
+            {
+              "confidence": 0.63817424,
+              "endTime": "197.500s",
+              "startTime": "197.100s",
+              "word": "that's"
+            },
+            {
+              "confidence": 0.72240388,
+              "endTime": "197.900s",
+              "startTime": "197.500s",
+              "word": "use"
+            },
+            {
+              "confidence": 0.7259438,
+              "endTime": "198.400s",
+              "startTime": "197.900s",
+              "word": "here"
+            },
+            {
+              "confidence": 0.75965846,
+              "endTime": "198.900s",
+              "startTime": "198.600s",
+              "word": "this"
+            },
+            {
+              "confidence": 0.75428236,
+              "endTime": "199.500s",
+              "startTime": "198.900s",
+              "word": "font"
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "199.980s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.91283858,
+          "transcript": " and let's use this colors",
+          "words": [
+            {
+              "confidence": 0.91283858,
+              "endTime": "201.900s",
+              "startTime": "201.500s",
+              "word": "and"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "202.200s",
+              "startTime": "201.900s",
+              "word": "let's"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "202.600s",
+              "startTime": "202.200s",
+              "word": "use"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "203s",
+              "startTime": "202.600s",
+              "word": "this"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "203.700s",
+              "startTime": "203s",
+              "word": "colors"
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "204.150s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.88082391,
+          "transcript": " we can give click here and continue here in the token section you can use the default ones or you can import as well some tokens on the compatible networks in the list just choose the network",
+          "words": [
+            {
+              "confidence": 0.91283858,
+              "endTime": "206.300s",
+              "startTime": "206.200s",
+              "word": "we"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "206.500s",
+              "startTime": "206.300s",
+              "word": "can"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "207s",
+              "startTime": "206.500s",
+              "word": "give"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "207.600s",
+              "startTime": "207.200s",
+              "word": "click"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "207.900s",
+              "startTime": "207.600s",
+              "word": "here"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "208s",
+              "startTime": "207.900s",
+              "word": "and"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "208.800s",
+              "startTime": "208s",
+              "word": "continue"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "210.400s",
+              "startTime": "209.800s",
+              "word": "here"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "210.600s",
+              "startTime": "210.400s",
+              "word": "in"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "210.700s",
+              "startTime": "210.600s",
+              "word": "the"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "211.200s",
+              "startTime": "210.700s",
+              "word": "token"
+            },
+            {
+              "confidence": 0.88595414,
+              "endTime": "211.900s",
+              "startTime": "211.200s",
+              "word": "section"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "212.500s",
+              "startTime": "212.400s",
+              "word": "you"
+            },
+            {
+              "confidence": 0.88228822,
+              "endTime": "212.800s",
+              "startTime": "212.500s",
+              "word": "can"
+            },
+            {
+              "confidence": 0.81418777,
+              "endTime": "213.400s",
+              "startTime": "212.800s",
+              "word": "use"
+            },
+            {
+              "confidence": 0.90990818,
+              "endTime": "213.700s",
+              "startTime": "213.500s",
+              "word": "the"
+            },
+            {
+              "confidence": 0.76948273,
+              "endTime": "214.300s",
+              "startTime": "213.700s",
+              "word": "default"
+            },
+            {
+              "confidence": 0.86835146,
+              "endTime": "214.900s",
+              "startTime": "214.300s",
+              "word": "ones"
+            },
+            {
+              "confidence": 0.85700125,
+              "endTime": "216.100s",
+              "startTime": "215.600s",
+              "word": "or"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "216.300s",
+              "startTime": "216.100s",
+              "word": "you"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "216.700s",
+              "startTime": "216.300s",
+              "word": "can"
+            },
+            {
+              "confidence": 0.75899148,
+              "endTime": "217.500s",
+              "startTime": "216.700s",
+              "word": "import"
+            },
+            {
+              "confidence": 0.88228822,
+              "endTime": "217.700s",
+              "startTime": "217.500s",
+              "word": "as"
+            },
+            {
+              "confidence": 0.73136795,
+              "endTime": "218.100s",
+              "startTime": "217.700s",
+              "word": "well"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "218.500s",
+              "startTime": "218.100s",
+              "word": "some"
+            },
+            {
+              "confidence": 0.90775925,
+              "endTime": "219.100s",
+              "startTime": "218.500s",
+              "word": "tokens"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "220.100s",
+              "startTime": "219.800s",
+              "word": "on"
+            },
+            {
+              "confidence": 0.814188,
+              "endTime": "220.300s",
+              "startTime": "220.100s",
+              "word": "the"
+            },
+            {
+              "confidence": 0.90635383,
+              "endTime": "221.100s",
+              "startTime": "220.300s",
+              "word": "compatible"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "221.900s",
+              "startTime": "221.100s",
+              "word": "networks"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "222.100s",
+              "startTime": "221.900s",
+              "word": "in"
+            },
+            {
+              "confidence": 0.88228822,
+              "endTime": "222.200s",
+              "startTime": "222.100s",
+              "word": "the"
+            },
+            {
+              "confidence": 0.83975327,
+              "endTime": "222.800s",
+              "startTime": "222.200s",
+              "word": "list"
+            },
+            {
+              "confidence": 0.89021021,
+              "endTime": "223.400s",
+              "startTime": "223s",
+              "word": "just"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "223.800s",
+              "startTime": "223.400s",
+              "word": "choose"
+            },
+            {
+              "confidence": 0.89906311,
+              "endTime": "223.900s",
+              "startTime": "223.800s",
+              "word": "the"
+            },
+            {
+              "confidence": 0.74711943,
+              "endTime": "224.700s",
+              "startTime": "223.900s",
+              "word": "network"
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "225.080s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.79363775,
+          "transcript": " and paste the data to blow the logo and click on import",
+          "words": [
+            {
+              "confidence": 0.91283858,
+              "endTime": "226.100s",
+              "startTime": "225.700s",
+              "word": "and"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "226.700s",
+              "startTime": "226.100s",
+              "word": "paste"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "227.500s",
+              "startTime": "227s",
+              "word": "the"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "228.200s",
+              "startTime": "227.600s",
+              "word": "data"
+            },
+            {
+              "confidence": 0.6360839,
+              "endTime": "228.600s",
+              "startTime": "228.200s",
+              "word": "to"
+            },
+            {
+              "confidence": 0.6360839,
+              "endTime": "228.900s",
+              "startTime": "228.600s",
+              "word": "blow"
+            },
+            {
+              "confidence": 0.88750476,
+              "endTime": "229s",
+              "startTime": "228.900s",
+              "word": "the"
+            },
+            {
+              "confidence": 0.71928561,
+              "endTime": "229.500s",
+              "startTime": "229s",
+              "word": "logo"
+            },
+            {
+              "confidence": 0.72129464,
+              "endTime": "230s",
+              "startTime": "229.500s",
+              "word": "and"
+            },
+            {
+              "confidence": 0.71114385,
+              "endTime": "230.300s",
+              "startTime": "230s",
+              "word": "click"
+            },
+            {
+              "confidence": 0.86574602,
+              "endTime": "230.500s",
+              "startTime": "230.300s",
+              "word": "on"
+            },
+            {
+              "confidence": 0.69515646,
+              "endTime": "231.300s",
+              "startTime": "230.500s",
+              "word": "import"
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "231.680s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.80902898,
+          "transcript": " you will be able as well to import tokens directly from coin geeko API just click on import and write the name of the token in the first blank for example let's input",
+          "words": [
+            {
+              "confidence": 0.91283858,
+              "endTime": "232.800s",
+              "startTime": "232.700s",
+              "word": "you"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "233.100s",
+              "startTime": "232.800s",
+              "word": "will"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "233.400s",
+              "startTime": "233.100s",
+              "word": "be"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "233.800s",
+              "startTime": "233.400s",
+              "word": "able"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "234.100s",
+              "startTime": "233.800s",
+              "word": "as"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "234.500s",
+              "startTime": "234.100s",
+              "word": "well"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "235.300s",
+              "startTime": "235.100s",
+              "word": "to"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "235.900s",
+              "startTime": "235.300s",
+              "word": "import"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "236.600s",
+              "startTime": "235.900s",
+              "word": "tokens"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "237.800s",
+              "startTime": "236.800s",
+              "word": "directly"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "238.400s",
+              "startTime": "237.900s",
+              "word": "from"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "238.800s",
+              "startTime": "238.500s",
+              "word": "coin"
+            },
+            {
+              "confidence": 0.56418914,
+              "endTime": "239.400s",
+              "startTime": "238.800s",
+              "word": "geeko"
+            },
+            {
+              "confidence": 0.72218114,
+              "endTime": "240.200s",
+              "startTime": "239.400s",
+              "word": "API"
+            },
+            {
+              "confidence": 0.71748888,
+              "endTime": "240.800s",
+              "startTime": "240.400s",
+              "word": "just"
+            },
+            {
+              "confidence": 0.72376996,
+              "endTime": "241.300s",
+              "startTime": "240.800s",
+              "word": "click"
+            },
+            {
+              "confidence": 0.83562565,
+              "endTime": "242s",
+              "startTime": "241.700s",
+              "word": "on"
+            },
+            {
+              "confidence": 0.6957705,
+              "endTime": "242.900s",
+              "startTime": "242s",
+              "word": "import"
+            },
+            {
+              "confidence": 0.66535264,
+              "endTime": "244.100s",
+              "startTime": "243.900s",
+              "word": "and"
+            },
+            {
+              "confidence": 0.71810919,
+              "endTime": "244.600s",
+              "startTime": "244.100s",
+              "word": "write"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "244.800s",
+              "startTime": "244.700s",
+              "word": "the"
+            },
+            {
+              "confidence": 0.68897736,
+              "endTime": "245.300s",
+              "startTime": "244.800s",
+              "word": "name"
+            },
+            {
+              "confidence": 0.65058386,
+              "endTime": "245.600s",
+              "startTime": "245.400s",
+              "word": "of"
+            },
+            {
+              "confidence": 0.74553573,
+              "endTime": "245.700s",
+              "startTime": "245.600s",
+              "word": "the"
+            },
+            {
+              "confidence": 0.83153802,
+              "endTime": "246.300s",
+              "startTime": "245.700s",
+              "word": "token"
+            },
+            {
+              "confidence": 0.84630847,
+              "endTime": "246.800s",
+              "startTime": "246.600s",
+              "word": "in"
+            },
+            {
+              "confidence": 0.78666174,
+              "endTime": "247s",
+              "startTime": "246.800s",
+              "word": "the"
+            },
+            {
+              "confidence": 0.74553561,
+              "endTime": "247.700s",
+              "startTime": "247s",
+              "word": "first"
+            },
+            {
+              "confidence": 0.69131154,
+              "endTime": "248.600s",
+              "startTime": "248s",
+              "word": "blank"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "249.600s",
+              "startTime": "249.300s",
+              "word": "for"
+            },
+            {
+              "confidence": 0.75289154,
+              "endTime": "250.400s",
+              "startTime": "249.600s",
+              "word": "example"
+            },
+            {
+              "confidence": 0.86290216,
+              "endTime": "251s",
+              "startTime": "250.500s",
+              "word": "let's"
+            },
+            {
+              "confidence": 0.67348611,
+              "endTime": "252.300s",
+              "startTime": "251.500s",
+              "word": "input"
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "252.750s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.7279675,
+          "transcript": " near",
+          "words": [
+            {
+              "confidence": 0.7279675,
+              "endTime": "255.600s",
+              "startTime": "255.100s",
+              "word": "near"
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "256.050s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.77104241,
+          "transcript": " you can see here all the options available on clingy code you can do the same for other tokens as well",
+          "words": [
+            {
+              "confidence": 0.91283858,
+              "endTime": "256.900s",
+              "startTime": "256.800s",
+              "word": "you"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "257.200s",
+              "startTime": "256.900s",
+              "word": "can"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "257.400s",
+              "startTime": "257.200s",
+              "word": "see"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "257.900s",
+              "startTime": "257.400s",
+              "word": "here"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "258.100s",
+              "startTime": "257.900s",
+              "word": "all"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "258.300s",
+              "startTime": "258.100s",
+              "word": "the"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "259s",
+              "startTime": "258.300s",
+              "word": "options"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "259.800s",
+              "startTime": "259s",
+              "word": "available"
+            },
+            {
+              "confidence": 0.69604403,
+              "endTime": "260.300s",
+              "startTime": "260.100s",
+              "word": "on"
+            },
+            {
+              "confidence": 0.65035516,
+              "endTime": "260.800s",
+              "startTime": "260.300s",
+              "word": "clingy"
+            },
+            {
+              "confidence": 0.48230937,
+              "endTime": "261.200s",
+              "startTime": "260.800s",
+              "word": "code"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "261.900s",
+              "startTime": "261.800s",
+              "word": "you"
+            },
+            {
+              "confidence": 0.70658863,
+              "endTime": "262s",
+              "startTime": "261.900s",
+              "word": "can"
+            },
+            {
+              "confidence": 0.72818816,
+              "endTime": "262.200s",
+              "startTime": "262s",
+              "word": "do"
+            },
+            {
+              "confidence": 0.71989161,
+              "endTime": "262.300s",
+              "startTime": "262.200s",
+              "word": "the"
+            },
+            {
+              "confidence": 0.6078741,
+              "endTime": "262.700s",
+              "startTime": "262.300s",
+              "word": "same"
+            },
+            {
+              "confidence": 0.50656545,
+              "endTime": "263.100s",
+              "startTime": "262.700s",
+              "word": "for"
+            },
+            {
+              "confidence": 0.83760971,
+              "endTime": "263.400s",
+              "startTime": "263.100s",
+              "word": "other"
+            },
+            {
+              "confidence": 0.59268522,
+              "endTime": "264.100s",
+              "startTime": "263.400s",
+              "word": "tokens"
+            },
+            {
+              "confidence": 0.76520646,
+              "endTime": "264.300s",
+              "startTime": "264.100s",
+              "word": "as"
+            },
+            {
+              "confidence": 0.68302673,
+              "endTime": "264.700s",
+              "startTime": "264.300s",
+              "word": "well"
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "265.210s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.87440175,
+          "transcript": " for example day is doubled going in several networks and others with similar name",
+          "words": [
+            {
+              "confidence": 0.91283858,
+              "endTime": "266s",
+              "startTime": "265.800s",
+              "word": "for"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "266.600s",
+              "startTime": "266s",
+              "word": "example"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "268s",
+              "startTime": "267.500s",
+              "word": "day"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "268.700s",
+              "startTime": "268.600s",
+              "word": "is"
+            },
+            {
+              "confidence": 0.72966123,
+              "endTime": "269.100s",
+              "startTime": "268.700s",
+              "word": "doubled"
+            },
+            {
+              "confidence": 0.79736662,
+              "endTime": "269.600s",
+              "startTime": "269.100s",
+              "word": "going"
+            },
+            {
+              "confidence": 0.87843353,
+              "endTime": "270s",
+              "startTime": "269.600s",
+              "word": "in"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "271.700s",
+              "startTime": "271.300s",
+              "word": "several"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "272.400s",
+              "startTime": "271.700s",
+              "word": "networks"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "272.800s",
+              "startTime": "272.400s",
+              "word": "and"
+            },
+            {
+              "confidence": 0.90478766,
+              "endTime": "273.300s",
+              "startTime": "272.800s",
+              "word": "others"
+            },
+            {
+              "confidence": 0.88803339,
+              "endTime": "273.600s",
+              "startTime": "273.300s",
+              "word": "with"
+            },
+            {
+              "confidence": 0.75650662,
+              "endTime": "274.200s",
+              "startTime": "273.600s",
+              "word": "similar"
+            },
+            {
+              "confidence": 0.89696425,
+              "endTime": "274.900s",
+              "startTime": "274.400s",
+              "word": "name"
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "275.340s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.87363344,
+          "transcript": " add that token as default and just click on import and you will have another token in you'll list",
+          "words": [
+            {
+              "confidence": 0.91283858,
+              "endTime": "279.800s",
+              "startTime": "279.300s",
+              "word": "add"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "280.100s",
+              "startTime": "279.800s",
+              "word": "that"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "280.600s",
+              "startTime": "280.100s",
+              "word": "token"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "280.900s",
+              "startTime": "280.600s",
+              "word": "as"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "281.700s",
+              "startTime": "280.900s",
+              "word": "default"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "282.400s",
+              "startTime": "282.100s",
+              "word": "and"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "282.700s",
+              "startTime": "282.400s",
+              "word": "just"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "283s",
+              "startTime": "282.700s",
+              "word": "click"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "283.100s",
+              "startTime": "283s",
+              "word": "on"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "283.800s",
+              "startTime": "283.100s",
+              "word": "import"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "284.700s",
+              "startTime": "284s",
+              "word": "and"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "284.800s",
+              "startTime": "284.700s",
+              "word": "you"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "285.100s",
+              "startTime": "284.800s",
+              "word": "will"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "285.400s",
+              "startTime": "285.100s",
+              "word": "have"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "285.900s",
+              "startTime": "285.500s",
+              "word": "another"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "286.600s",
+              "startTime": "285.900s",
+              "word": "token"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "287.300s",
+              "startTime": "286.900s",
+              "word": "in"
+            },
+            {
+              "confidence": 0.38029996,
+              "endTime": "287.500s",
+              "startTime": "287.300s",
+              "word": "you'll"
+            },
+            {
+              "confidence": 0.70047712,
+              "endTime": "288.100s",
+              "startTime": "287.500s",
+              "word": "list"
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "288.430s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.91283852,
+          "transcript": " we will keep here all the default",
+          "words": [
+            {
+              "confidence": 0.91283858,
+              "endTime": "291.600s",
+              "startTime": "291.400s",
+              "word": "we"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "291.700s",
+              "startTime": "291.600s",
+              "word": "will"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "292.200s",
+              "startTime": "291.700s",
+              "word": "keep"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "292.700s",
+              "startTime": "292.200s",
+              "word": "here"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "294.100s",
+              "startTime": "293.500s",
+              "word": "all"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "294.300s",
+              "startTime": "294.200s",
+              "word": "the"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "295.300s",
+              "startTime": "294.300s",
+              "word": "default"
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "295.580s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.91283858,
+          "transcript": " coins select all and container",
+          "words": [
+            {
+              "confidence": 0.91283858,
+              "endTime": "297.200s",
+              "startTime": "296.600s",
+              "word": "coins"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "298.300s",
+              "startTime": "297.800s",
+              "word": "select"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "298.700s",
+              "startTime": "298.300s",
+              "word": "all"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "299.900s",
+              "startTime": "299.600s",
+              "word": "and"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "300.600s",
+              "startTime": "299.900s",
+              "word": "container"
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "301.070s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.85476941,
+          "transcript": " which will be here the default Network on our decks aggregator we need to choose it on the swap configuration",
+          "words": [
+            {
+              "confidence": 0.91283858,
+              "endTime": "302.300s",
+              "startTime": "302s",
+              "word": "which"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "302.600s",
+              "startTime": "302.300s",
+              "word": "will"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "303s",
+              "startTime": "302.600s",
+              "word": "be"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "304.100s",
+              "startTime": "303.500s",
+              "word": "here"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "305.200s",
+              "startTime": "305s",
+              "word": "the"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "305.600s",
+              "startTime": "305.200s",
+              "word": "default"
+            },
+            {
+              "confidence": 0.68854475,
+              "endTime": "306.100s",
+              "startTime": "305.600s",
+              "word": "Network"
+            },
+            {
+              "confidence": 0.81609464,
+              "endTime": "306.400s",
+              "startTime": "306.100s",
+              "word": "on"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "306.600s",
+              "startTime": "306.400s",
+              "word": "our"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "307s",
+              "startTime": "306.600s",
+              "word": "decks"
+            },
+            {
+              "confidence": 0.86505985,
+              "endTime": "307.800s",
+              "startTime": "307s",
+              "word": "aggregator"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "308.300s",
+              "startTime": "308.200s",
+              "word": "we"
+            },
+            {
+              "confidence": 0.83858848,
+              "endTime": "308.600s",
+              "startTime": "308.300s",
+              "word": "need"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "308.700s",
+              "startTime": "308.600s",
+              "word": "to"
+            },
+            {
+              "confidence": 0.75438929,
+              "endTime": "309.100s",
+              "startTime": "308.700s",
+              "word": "choose"
+            },
+            {
+              "confidence": 0.76561749,
+              "endTime": "309.500s",
+              "startTime": "309.100s",
+              "word": "it"
+            },
+            {
+              "confidence": 0.70551836,
+              "endTime": "310.500s",
+              "startTime": "310s",
+              "word": "on"
+            },
+            {
+              "confidence": 0.72902435,
+              "endTime": "310.700s",
+              "startTime": "310.500s",
+              "word": "the"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "311s",
+              "startTime": "310.700s",
+              "word": "swap"
+            },
+            {
+              "confidence": 0.89132702,
+              "endTime": "312.100s",
+              "startTime": "311s",
+              "word": "configuration"
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "312.590s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.85323399,
+          "transcript": " we will use this as a theorem",
+          "words": [
+            {
+              "confidence": 0.91283858,
+              "endTime": "313.900s",
+              "startTime": "313.700s",
+              "word": "we"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "314.100s",
+              "startTime": "313.900s",
+              "word": "will"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "314.300s",
+              "startTime": "314.100s",
+              "word": "use"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "314.900s",
+              "startTime": "314.300s",
+              "word": "this"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "315.300s",
+              "startTime": "315s",
+              "word": "as"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "315.400s",
+              "startTime": "315.300s",
+              "word": "a"
+            },
+            {
+              "confidence": 0.49560681,
+              "endTime": "316.100s",
+              "startTime": "315.400s",
+              "word": "theorem"
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "316.550s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.83093625,
+          "transcript": " the default tokens will be on a theorem",
+          "words": [
+            {
+              "confidence": 0.89751995,
+              "endTime": "318.400s",
+              "startTime": "318.300s",
+              "word": "the"
+            },
+            {
+              "confidence": 0.89751971,
+              "endTime": "318.900s",
+              "startTime": "318.400s",
+              "word": "default"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "319.300s",
+              "startTime": "318.900s",
+              "word": "tokens"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "319.600s",
+              "startTime": "319.300s",
+              "word": "will"
+            },
+            {
+              "confidence": 0.63494581,
+              "endTime": "319.800s",
+              "startTime": "319.600s",
+              "word": "be"
+            },
+            {
+              "confidence": 0.7215988,
+              "endTime": "320s",
+              "startTime": "319.800s",
+              "word": "on"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "320.100s",
+              "startTime": "320s",
+              "word": "a"
+            },
+            {
+              "confidence": 0.7573905,
+              "endTime": "320.800s",
+              "startTime": "320.100s",
+              "word": "theorem"
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "321.220s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.86133528,
+          "transcript": " the default will be the theorem",
+          "words": [
+            {
+              "confidence": 0.91283858,
+              "endTime": "321.900s",
+              "startTime": "321.900s",
+              "word": "the"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "322.600s",
+              "startTime": "321.900s",
+              "word": "default"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "322.900s",
+              "startTime": "322.600s",
+              "word": "will"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "323.100s",
+              "startTime": "322.900s",
+              "word": "be"
+            },
+            {
+              "confidence": 0.79544038,
+              "endTime": "323.200s",
+              "startTime": "323.100s",
+              "word": "the"
+            },
+            {
+              "confidence": 0.72121739,
+              "endTime": "323.900s",
+              "startTime": "323.200s",
+              "word": "theorem"
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "324.310s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.91283852,
+          "transcript": " and the output will be USD coin",
+          "words": [
+            {
+              "confidence": 0.91283858,
+              "endTime": "325.500s",
+              "startTime": "325.300s",
+              "word": "and"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "325.800s",
+              "startTime": "325.500s",
+              "word": "the"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "326.300s",
+              "startTime": "325.800s",
+              "word": "output"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "326.600s",
+              "startTime": "326.300s",
+              "word": "will"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "326.900s",
+              "startTime": "326.600s",
+              "word": "be"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "327.600s",
+              "startTime": "326.900s",
+              "word": "USD"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "328.200s",
+              "startTime": "327.600s",
+              "word": "coin"
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "328.790s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.87010241,
+          "transcript": " the slippage will be 1%",
+          "words": [
+            {
+              "confidence": 0.91283858,
+              "endTime": "330.400s",
+              "startTime": "330.200s",
+              "word": "the"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "331.400s",
+              "startTime": "330.500s",
+              "word": "slippage"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "331.700s",
+              "startTime": "331.400s",
+              "word": "will"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "332.100s",
+              "startTime": "331.700s",
+              "word": "be"
+            },
+            {
+              "confidence": 0.69915783,
+              "endTime": "333.400s",
+              "startTime": "332.300s",
+              "word": "1%"
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "333.750s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.88069451,
+          "transcript": " and we can click on finish when we filled it all the lengths",
+          "words": [
+            {
+              "confidence": 0.91283858,
+              "endTime": "335s",
+              "startTime": "334.500s",
+              "word": "and"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "335.800s",
+              "startTime": "335.500s",
+              "word": "we"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "336.300s",
+              "startTime": "335.800s",
+              "word": "can"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "336.700s",
+              "startTime": "336.300s",
+              "word": "click"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "336.900s",
+              "startTime": "336.700s",
+              "word": "on"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "337.500s",
+              "startTime": "336.900s",
+              "word": "finish"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "338s",
+              "startTime": "337.600s",
+              "word": "when"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "338.800s",
+              "startTime": "338.400s",
+              "word": "we"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "339.300s",
+              "startTime": "338.800s",
+              "word": "filled"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "339.700s",
+              "startTime": "339.300s",
+              "word": "it"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "340s",
+              "startTime": "339.700s",
+              "word": "all"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "340.400s",
+              "startTime": "340s",
+              "word": "the"
+            },
+            {
+              "confidence": 0.49496543,
+              "endTime": "341.200s",
+              "startTime": "340.600s",
+              "word": "lengths"
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "341.590s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.78987652,
+          "transcript": " all steps complete finish your job configuration let's click on create now",
+          "words": [
+            {
+              "confidence": 0.91283858,
+              "endTime": "343.100s",
+              "startTime": "342.800s",
+              "word": "all"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "343.800s",
+              "startTime": "343.100s",
+              "word": "steps"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "344.700s",
+              "startTime": "343.900s",
+              "word": "complete"
+            },
+            {
+              "confidence": 0.65433335,
+              "endTime": "345.900s",
+              "startTime": "345.200s",
+              "word": "finish"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "346.300s",
+              "startTime": "346.100s",
+              "word": "your"
+            },
+            {
+              "confidence": 0.35072437,
+              "endTime": "346.600s",
+              "startTime": "346.300s",
+              "word": "job"
+            },
+            {
+              "confidence": 0.84618509,
+              "endTime": "347.500s",
+              "startTime": "346.600s",
+              "word": "configuration"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "347.900s",
+              "startTime": "347.500s",
+              "word": "let's"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "348.200s",
+              "startTime": "347.900s",
+              "word": "click"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "348.300s",
+              "startTime": "348.200s",
+              "word": "on"
+            },
+            {
+              "confidence": 0.69969314,
+              "endTime": "349s",
+              "startTime": "348.300s",
+              "word": "create"
+            },
+            {
+              "confidence": 0.53771323,
+              "endTime": "349.700s",
+              "startTime": "349.200s",
+              "word": "now"
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "350.020s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.91283852,
+          "transcript": " we will need to sign on our wallet",
+          "words": [
+            {
+              "confidence": 0.91283858,
+              "endTime": "352.200s",
+              "startTime": "352s",
+              "word": "we"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "352.400s",
+              "startTime": "352.200s",
+              "word": "will"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "352.900s",
+              "startTime": "352.400s",
+              "word": "need"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "353.700s",
+              "startTime": "353.500s",
+              "word": "to"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "354.300s",
+              "startTime": "353.700s",
+              "word": "sign"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "355.200s",
+              "startTime": "354.800s",
+              "word": "on"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "355.700s",
+              "startTime": "355.200s",
+              "word": "our"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "356.400s",
+              "startTime": "355.700s",
+              "word": "wallet"
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "356.980s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.90842474,
+          "transcript": " and after signing we click on the blue button confirm",
+          "words": [
+            {
+              "confidence": 0.91283858,
+              "endTime": "358.400s",
+              "startTime": "357.900s",
+              "word": "and"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "358.800s",
+              "startTime": "358.400s",
+              "word": "after"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "359.400s",
+              "startTime": "358.800s",
+              "word": "signing"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "359.800s",
+              "startTime": "359.600s",
+              "word": "we"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "360.200s",
+              "startTime": "359.800s",
+              "word": "click"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "360.500s",
+              "startTime": "360.200s",
+              "word": "on"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "360.900s",
+              "startTime": "360.700s",
+              "word": "the"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "361.100s",
+              "startTime": "360.900s",
+              "word": "blue"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "361.500s",
+              "startTime": "361.100s",
+              "word": "button"
+            },
+            {
+              "confidence": 0.86870146,
+              "endTime": "362.400s",
+              "startTime": "361.600s",
+              "word": "confirm"
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "362.790s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.91283864,
+          "transcript": " now the obligation it's done let's click on the URL for this application",
+          "words": [
+            {
+              "confidence": 0.91283858,
+              "endTime": "364.600s",
+              "startTime": "364s",
+              "word": "now"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "365.200s",
+              "startTime": "365s",
+              "word": "the"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "366s",
+              "startTime": "365.200s",
+              "word": "obligation"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "366.500s",
+              "startTime": "366s",
+              "word": "it's"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "367s",
+              "startTime": "366.500s",
+              "word": "done"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "367.800s",
+              "startTime": "367.500s",
+              "word": "let's"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "368.300s",
+              "startTime": "367.800s",
+              "word": "click"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "369.500s",
+              "startTime": "369s",
+              "word": "on"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "371s",
+              "startTime": "370.700s",
+              "word": "the"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "372s",
+              "startTime": "371s",
+              "word": "URL"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "372.500s",
+              "startTime": "372.200s",
+              "word": "for"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "373s",
+              "startTime": "372.500s",
+              "word": "this"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "374.500s",
+              "startTime": "373.600s",
+              "word": "application"
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "374.790s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.91283858,
+          "transcript": " and as you can see",
+          "words": [
+            {
+              "confidence": 0.91283858,
+              "endTime": "380s",
+              "startTime": "379.300s",
+              "word": "and"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "380.400s",
+              "startTime": "380.200s",
+              "word": "as"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "380.500s",
+              "startTime": "380.400s",
+              "word": "you"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "380.700s",
+              "startTime": "380.500s",
+              "word": "can"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "381.200s",
+              "startTime": "380.700s",
+              "word": "see"
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "381.620s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.904522,
+          "transcript": " this is your decks aggregator remember that you can change everything here also you can change the logo the colors and also remove this folder",
+          "words": [
+            {
+              "confidence": 0.91283858,
+              "endTime": "382.800s",
+              "startTime": "382.500s",
+              "word": "this"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "383.200s",
+              "startTime": "382.800s",
+              "word": "is"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "383.600s",
+              "startTime": "383.200s",
+              "word": "your"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "384s",
+              "startTime": "383.600s",
+              "word": "decks"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "384.900s",
+              "startTime": "384s",
+              "word": "aggregator"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "386.200s",
+              "startTime": "385.700s",
+              "word": "remember"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "386.500s",
+              "startTime": "386.200s",
+              "word": "that"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "386.600s",
+              "startTime": "386.500s",
+              "word": "you"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "386.800s",
+              "startTime": "386.600s",
+              "word": "can"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "387.300s",
+              "startTime": "386.800s",
+              "word": "change"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "387.900s",
+              "startTime": "387.300s",
+              "word": "everything"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "388.400s",
+              "startTime": "387.900s",
+              "word": "here"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "389.900s",
+              "startTime": "389.200s",
+              "word": "also"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "390.100s",
+              "startTime": "389.900s",
+              "word": "you"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "390.600s",
+              "startTime": "390.100s",
+              "word": "can"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "392.400s",
+              "startTime": "391.600s",
+              "word": "change"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "393.100s",
+              "startTime": "393s",
+              "word": "the"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "393.800s",
+              "startTime": "393.100s",
+              "word": "logo"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "394.100s",
+              "startTime": "394s",
+              "word": "the"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "394.900s",
+              "startTime": "394.100s",
+              "word": "colors"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "396.100s",
+              "startTime": "395.400s",
+              "word": "and"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "396.900s",
+              "startTime": "396.200s",
+              "word": "also"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "397.800s",
+              "startTime": "397s",
+              "word": "remove"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "398.400s",
+              "startTime": "398s",
+              "word": "this"
+            },
+            {
+              "confidence": 0.70492512,
+              "endTime": "399s",
+              "startTime": "398.400s",
+              "word": "folder"
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "399.460s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.91283846,
+          "transcript": " feel free to comment this video and ask what else do you want to add on this application thank you and we wish you the best day ever",
+          "words": [
+            {
+              "confidence": 0.91283858,
+              "endTime": "401.900s",
+              "startTime": "401.600s",
+              "word": "feel"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "402.400s",
+              "startTime": "401.900s",
+              "word": "free"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "402.900s",
+              "startTime": "402.800s",
+              "word": "to"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "403.400s",
+              "startTime": "402.900s",
+              "word": "comment"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "403.600s",
+              "startTime": "403.400s",
+              "word": "this"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "404.300s",
+              "startTime": "403.600s",
+              "word": "video"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "404.600s",
+              "startTime": "404.300s",
+              "word": "and"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "405.400s",
+              "startTime": "404.600s",
+              "word": "ask"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "405.700s",
+              "startTime": "405.400s",
+              "word": "what"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "406.100s",
+              "startTime": "405.700s",
+              "word": "else"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "406.300s",
+              "startTime": "406.100s",
+              "word": "do"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "406.400s",
+              "startTime": "406.300s",
+              "word": "you"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "407s",
+              "startTime": "406.400s",
+              "word": "want"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "407.300s",
+              "startTime": "407.100s",
+              "word": "to"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "407.800s",
+              "startTime": "407.300s",
+              "word": "add"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "408.400s",
+              "startTime": "408s",
+              "word": "on"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "408.800s",
+              "startTime": "408.400s",
+              "word": "this"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "409.800s",
+              "startTime": "408.900s",
+              "word": "application"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "410.900s",
+              "startTime": "410.600s",
+              "word": "thank"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "411.300s",
+              "startTime": "410.900s",
+              "word": "you"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "411.700s",
+              "startTime": "411.400s",
+              "word": "and"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "411.900s",
+              "startTime": "411.700s",
+              "word": "we"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "412.200s",
+              "startTime": "411.900s",
+              "word": "wish"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "412.700s",
+              "startTime": "412.200s",
+              "word": "you"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "413.100s",
+              "startTime": "413s",
+              "word": "the"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "413.800s",
+              "startTime": "413.100s",
+              "word": "best"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "414.400s",
+              "startTime": "413.900s",
+              "word": "day"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "415.200s",
+              "startTime": "414.700s",
+              "word": "ever"
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "415.670s"
+    }
+  ]
+}

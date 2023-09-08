@@ -1,0 +1,130 @@
+<speak>
+	<par>
+		<media begin="0.800s">
+			<speak>now it's very easy to deploy your crypto app on deck skit</speak>
+		</media>
+		<media begin="9s">
+			<speak> the decks of Builder is your best friend and companion you can create any crypto app with this application but today we will focus our time creating a decks aggregator compatible with etherium polygon - chain Avalanche Phantom optimism and arbitral networks efficiently</speak>
+		</media>
+		<media begin="37.200s">
+			<speak> you can trade your tokens in your own weight labeled X aggregator with low costs on feast and the best price on real time you can also earn money in your decks aggregator wait label application with your friends drinking now let's start to the website that I will put in the description of the video and inside</speak>
+		</media>
+		<media begin="67s">
+			<speak> add their legs click on connect while the button at the bottom right of the page now connect yourself with metal mask or wallet connect if you are using another wallet let's use metal mask for this purpose</speak>
+		</media>
+		<media begin="84.300s">
+			<speak> okay we are now connected to our wallet now let's create a new decks aggregator</speak>
+		</media>
+		<media begin="95.900s">
+			<speak> we will here in the menu on the top and we create a swap up that is the same thing that the decks aggregator</speak>
+		</media>
+		<media begin="108.900s">
+			<speak> here we will feel all the plants with the requested information the name the email</speak>
+		</media>
+		<media begin="119.500s">
+			<speak> for first instance the name of this will be the X</speak>
+		</media>
+		<media begin="128.300s">
+			<speak> I will use my business email for this purpose</speak>
+		</media>
+		<media begin="136.300s">
+			<speak> and</speak>
+		</media>
+		<media begin="138.100s">
+			<speak> I will keep these both Global and fat icons because I'm just showing you how to do it</speak>
+		</media>
+		<media begin="147s">
+			<speak> I will keep the English language</speak>
+		</media>
+		<media begin="151.300s">
+			<speak> that it has also Portuguese and Spanish</speak>
+		</media>
+		<media begin="156.900s">
+			<speak> and we will use US dollar you can use another currency present here</speak>
+		</media>
+		<media begin="165.200s">
+			<speak> in the list if you want another clearances feel free to reach the team on this court and they will add this in the upcoming update let's finish this part clicking on continue</speak>
+		</media>
+		<media begin="184.700s">
+			<speak> and now let's change some things here in the UA</speak>
+		</media>
+		<media begin="190.100s">
+			<speak> as you can see here at the left you can use any of those fonts available</speak>
+		</media>
+		<media begin="197.100s">
+			<speak> that's use here this font</speak>
+		</media>
+		<media begin="201.500s">
+			<speak> and let's use this colors</speak>
+		</media>
+		<media begin="206.200s">
+			<speak> we can give click here and continue here in the token section you can use the default ones or you can import as well some tokens on the compatible networks in the list just choose the network</speak>
+		</media>
+		<media begin="225.700s">
+			<speak> and paste the data to blow the logo and click on import</speak>
+		</media>
+		<media begin="232.700s">
+			<speak> you will be able as well to import tokens directly from coin geeko API just click on import and write the name of the token in the first blank for example let's input</speak>
+		</media>
+		<media begin="255.100s">
+			<speak> near</speak>
+		</media>
+		<media begin="256.800s">
+			<speak> you can see here all the options available on clingy code you can do the same for other tokens as well</speak>
+		</media>
+		<media begin="265.800s">
+			<speak> for example day is doubled going in several networks and others with similar name</speak>
+		</media>
+		<media begin="279.300s">
+			<speak> add that token as default and just click on import and you will have another token in you'll list</speak>
+		</media>
+		<media begin="291.400s">
+			<speak> we will keep here all the default</speak>
+		</media>
+		<media begin="296.600s">
+			<speak> coins select all and container</speak>
+		</media>
+		<media begin="302s">
+			<speak> which will be here the default Network on our decks aggregator we need to choose it on the swap configuration</speak>
+		</media>
+		<media begin="313.700s">
+			<speak> we will use this as a theorem</speak>
+		</media>
+		<media begin="318.300s">
+			<speak> the default tokens will be on a theorem</speak>
+		</media>
+		<media begin="321.900s">
+			<speak> the default will be the theorem</speak>
+		</media>
+		<media begin="325.300s">
+			<speak> and the output will be USD coin</speak>
+		</media>
+		<media begin="330.200s">
+			<speak> the slippage will be 1%</speak>
+		</media>
+		<media begin="334.500s">
+			<speak> and we can click on finish when we filled it all the lengths</speak>
+		</media>
+		<media begin="342.800s">
+			<speak> all steps complete finish your job configuration let's click on create now</speak>
+		</media>
+		<media begin="352s">
+			<speak> we will need to sign on our wallet</speak>
+		</media>
+		<media begin="357.900s">
+			<speak> and after signing we click on the blue button confirm</speak>
+		</media>
+		<media begin="364s">
+			<speak> now the obligation it's done let's click on the URL for this application</speak>
+		</media>
+		<media begin="379.300s">
+			<speak> and as you can see</speak>
+		</media>
+		<media begin="382.500s">
+			<speak> this is your decks aggregator remember that you can change everything here also you can change the logo the colors and also remove this folder</speak>
+		</media>
+		<media begin="401.600s">
+			<speak> feel free to comment this video and ask what else do you want to add on this application thank you and we wish you the best day ever</speak>
+		</media>
+	</par>
+</speak>

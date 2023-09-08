@@ -1,0 +1,3561 @@
+{
+  "results": [
+    {
+      "alternatives": [
+        {
+          "confidence": 0.74880201,
+          "transcript": "the best app builder from the Escape is now celebrating the new feature that empowers the nft marketplace owners in front of their Creations now they will be able to meet their nft Marketplace templates as nft and sell them on secondary Market places",
+          "words": [
+            {
+              "confidence": 0.91283858,
+              "endTime": "2.300s",
+              "startTime": "2.100s",
+              "word": "the"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "2.700s",
+              "startTime": "2.300s",
+              "word": "best"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "2.900s",
+              "startTime": "2.700s",
+              "word": "app"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "3.500s",
+              "startTime": "2.900s",
+              "word": "builder"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "4.100s",
+              "startTime": "3.800s",
+              "word": "from"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "4.100s",
+              "startTime": "4.100s",
+              "word": "the"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "4.800s",
+              "startTime": "4.100s",
+              "word": "Escape"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "5.300s",
+              "startTime": "5.100s",
+              "word": "is"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "5.800s",
+              "startTime": "5.300s",
+              "word": "now"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "7s",
+              "startTime": "5.900s",
+              "word": "celebrating"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "7.300s",
+              "startTime": "7.200s",
+              "word": "the"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "7.600s",
+              "startTime": "7.300s",
+              "word": "new"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "8.400s",
+              "startTime": "7.600s",
+              "word": "feature"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "8.800s",
+              "startTime": "8.500s",
+              "word": "that"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "9.600s",
+              "startTime": "8.800s",
+              "word": "empowers"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "10.100s",
+              "startTime": "9.800s",
+              "word": "the"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "11s",
+              "startTime": "10.100s",
+              "word": "nft"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "12.100s",
+              "startTime": "11.100s",
+              "word": "marketplace"
+            },
+            {
+              "confidence": 0.375,
+              "endTime": "12.800s",
+              "startTime": "12.100s",
+              "word": "owners"
+            },
+            {
+              "confidence": 0.73819816,
+              "endTime": "13.400s",
+              "startTime": "13.200s",
+              "word": "in"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "13.900s",
+              "startTime": "13.400s",
+              "word": "front"
+            },
+            {
+              "confidence": 0.72791034,
+              "endTime": "14.100s",
+              "startTime": "13.900s",
+              "word": "of"
+            },
+            {
+              "confidence": 0.74977911,
+              "endTime": "14.400s",
+              "startTime": "14.100s",
+              "word": "their"
+            },
+            {
+              "confidence": 0.72432232,
+              "endTime": "15.300s",
+              "startTime": "14.400s",
+              "word": "Creations"
+            },
+            {
+              "confidence": 0.52247614,
+              "endTime": "16.200s",
+              "startTime": "15.700s",
+              "word": "now"
+            },
+            {
+              "confidence": 0.70767707,
+              "endTime": "16.600s",
+              "startTime": "16.400s",
+              "word": "they"
+            },
+            {
+              "confidence": 0.70767707,
+              "endTime": "16.900s",
+              "startTime": "16.600s",
+              "word": "will"
+            },
+            {
+              "confidence": 0.44823325,
+              "endTime": "17.100s",
+              "startTime": "16.900s",
+              "word": "be"
+            },
+            {
+              "confidence": 0.35558447,
+              "endTime": "17.600s",
+              "startTime": "17.100s",
+              "word": "able"
+            },
+            {
+              "confidence": 0.375,
+              "endTime": "18.200s",
+              "startTime": "18s",
+              "word": "to"
+            },
+            {
+              "confidence": 0.4053835,
+              "endTime": "19s",
+              "startTime": "18.200s",
+              "word": "meet"
+            },
+            {
+              "confidence": 0.69806278,
+              "endTime": "19.400s",
+              "startTime": "19s",
+              "word": "their"
+            },
+            {
+              "confidence": 0.45670614,
+              "endTime": "20.200s",
+              "startTime": "19.400s",
+              "word": "nft"
+            },
+            {
+              "confidence": 0.89469457,
+              "endTime": "21.100s",
+              "startTime": "20.300s",
+              "word": "Marketplace"
+            },
+            {
+              "confidence": 0.50834924,
+              "endTime": "22.200s",
+              "startTime": "21.100s",
+              "word": "templates"
+            },
+            {
+              "confidence": 0.65855432,
+              "endTime": "22.900s",
+              "startTime": "22.500s",
+              "word": "as"
+            },
+            {
+              "confidence": 0.45085928,
+              "endTime": "24s",
+              "startTime": "23.100s",
+              "word": "nft"
+            },
+            {
+              "confidence": 0.66390336,
+              "endTime": "25.400s",
+              "startTime": "24.800s",
+              "word": "and"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "25.900s",
+              "startTime": "25.500s",
+              "word": "sell"
+            },
+            {
+              "confidence": 0.63584042,
+              "endTime": "26.400s",
+              "startTime": "25.900s",
+              "word": "them"
+            },
+            {
+              "confidence": 0.41819507,
+              "endTime": "26.600s",
+              "startTime": "26.400s",
+              "word": "on"
+            },
+            {
+              "confidence": 0.70297378,
+              "endTime": "27.400s",
+              "startTime": "26.600s",
+              "word": "secondary"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "27.900s",
+              "startTime": "27.400s",
+              "word": "Market"
+            },
+            {
+              "confidence": 0.85229146,
+              "endTime": "28.500s",
+              "startTime": "27.900s",
+              "word": "places"
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "28.590s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.77127433,
+          "transcript": " so this will give the power to any developer or designer to monetize their content",
+          "words": [
+            {
+              "confidence": 0.59648991,
+              "endTime": "29.800s",
+              "startTime": "29.700s",
+              "word": "so"
+            },
+            {
+              "confidence": 0.81174439,
+              "endTime": "30.200s",
+              "startTime": "29.900s",
+              "word": "this"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "30.400s",
+              "startTime": "30.200s",
+              "word": "will"
+            },
+            {
+              "confidence": 0.7187441,
+              "endTime": "31s",
+              "startTime": "30.400s",
+              "word": "give"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "31.500s",
+              "startTime": "31.300s",
+              "word": "the"
+            },
+            {
+              "confidence": 0.85395408,
+              "endTime": "31.900s",
+              "startTime": "31.500s",
+              "word": "power"
+            },
+            {
+              "confidence": 0.6873256,
+              "endTime": "32.200s",
+              "startTime": "31.900s",
+              "word": "to"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "32.500s",
+              "startTime": "32.200s",
+              "word": "any"
+            },
+            {
+              "confidence": 0.69006735,
+              "endTime": "33.500s",
+              "startTime": "32.500s",
+              "word": "developer"
+            },
+            {
+              "confidence": 0.75032288,
+              "endTime": "34s",
+              "startTime": "33.500s",
+              "word": "or"
+            },
+            {
+              "confidence": 0.62479556,
+              "endTime": "35.300s",
+              "startTime": "34.400s",
+              "word": "designer"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "35.600s",
+              "startTime": "35.500s",
+              "word": "to"
+            },
+            {
+              "confidence": 0.77725613,
+              "endTime": "36.600s",
+              "startTime": "35.600s",
+              "word": "monetize"
+            },
+            {
+              "confidence": 0.75594211,
+              "endTime": "36.800s",
+              "startTime": "36.600s",
+              "word": "their"
+            },
+            {
+              "confidence": 0.65111715,
+              "endTime": "37.700s",
+              "startTime": "36.800s",
+              "word": "content"
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "37.910s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.75372195,
+          "transcript": " the way to own and lft Marketplace by maintaining an NF T is an simple process to do so let's do it right now assuming you have created your nft marketplace with the X key and also you need to hold 1,000 key because this quantity will log you this nft feature",
+          "words": [
+            {
+              "confidence": 0.91283858,
+              "endTime": "39.400s",
+              "startTime": "39.200s",
+              "word": "the"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "39.900s",
+              "startTime": "39.400s",
+              "word": "way"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "40.600s",
+              "startTime": "40s",
+              "word": "to"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "41.600s",
+              "startTime": "40.900s",
+              "word": "own"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "42.200s",
+              "startTime": "42s",
+              "word": "and"
+            },
+            {
+              "confidence": 0.63867617,
+              "endTime": "42.800s",
+              "startTime": "42.200s",
+              "word": "lft"
+            },
+            {
+              "confidence": 0.88124698,
+              "endTime": "43.700s",
+              "startTime": "42.800s",
+              "word": "Marketplace"
+            },
+            {
+              "confidence": 0.72002697,
+              "endTime": "44.500s",
+              "startTime": "43.800s",
+              "word": "by"
+            },
+            {
+              "confidence": 0.75719762,
+              "endTime": "45.300s",
+              "startTime": "44.600s",
+              "word": "maintaining"
+            },
+            {
+              "confidence": 0.8458907,
+              "endTime": "45.500s",
+              "startTime": "45.400s",
+              "word": "an"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "45.800s",
+              "startTime": "45.500s",
+              "word": "NF"
+            },
+            {
+              "confidence": 0.72655052,
+              "endTime": "46.300s",
+              "startTime": "45.800s",
+              "word": "T"
+            },
+            {
+              "confidence": 0.75886911,
+              "endTime": "47.600s",
+              "startTime": "47.200s",
+              "word": "is"
+            },
+            {
+              "confidence": 0.76873249,
+              "endTime": "48.700s",
+              "startTime": "48.400s",
+              "word": "an"
+            },
+            {
+              "confidence": 0.72330064,
+              "endTime": "49.400s",
+              "startTime": "48.700s",
+              "word": "simple"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "49.700s",
+              "startTime": "49.400s",
+              "word": "process"
+            },
+            {
+              "confidence": 0.70392776,
+              "endTime": "49.800s",
+              "startTime": "49.700s",
+              "word": "to"
+            },
+            {
+              "confidence": 0.72655052,
+              "endTime": "50.200s",
+              "startTime": "49.800s",
+              "word": "do"
+            },
+            {
+              "confidence": 0.73297966,
+              "endTime": "51.400s",
+              "startTime": "50.900s",
+              "word": "so"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "51.700s",
+              "startTime": "51.400s",
+              "word": "let's"
+            },
+            {
+              "confidence": 0.86704159,
+              "endTime": "51.900s",
+              "startTime": "51.700s",
+              "word": "do"
+            },
+            {
+              "confidence": 0.69655532,
+              "endTime": "52.300s",
+              "startTime": "51.900s",
+              "word": "it"
+            },
+            {
+              "confidence": 0.69814384,
+              "endTime": "52.500s",
+              "startTime": "52.300s",
+              "word": "right"
+            },
+            {
+              "confidence": 0.67973018,
+              "endTime": "53s",
+              "startTime": "52.500s",
+              "word": "now"
+            },
+            {
+              "confidence": 0.88833886,
+              "endTime": "54.200s",
+              "startTime": "53.400s",
+              "word": "assuming"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "54.500s",
+              "startTime": "54.300s",
+              "word": "you"
+            },
+            {
+              "confidence": 0.69655532,
+              "endTime": "54.800s",
+              "startTime": "54.500s",
+              "word": "have"
+            },
+            {
+              "confidence": 0.73637092,
+              "endTime": "55.800s",
+              "startTime": "54.800s",
+              "word": "created"
+            },
+            {
+              "confidence": 0.73637086,
+              "endTime": "56.200s",
+              "startTime": "55.800s",
+              "word": "your"
+            },
+            {
+              "confidence": 0.54971957,
+              "endTime": "56.900s",
+              "startTime": "56.200s",
+              "word": "nft"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "57.700s",
+              "startTime": "56.900s",
+              "word": "marketplace"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "57.900s",
+              "startTime": "57.700s",
+              "word": "with"
+            },
+            {
+              "confidence": 0.71003044,
+              "endTime": "58s",
+              "startTime": "57.900s",
+              "word": "the"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "58.200s",
+              "startTime": "58s",
+              "word": "X"
+            },
+            {
+              "confidence": 0.61988914,
+              "endTime": "58.600s",
+              "startTime": "58.200s",
+              "word": "key"
+            },
+            {
+              "confidence": 0.55161333,
+              "endTime": "59.100s",
+              "startTime": "58.700s",
+              "word": "and"
+            },
+            {
+              "confidence": 0.68428576,
+              "endTime": "59.800s",
+              "startTime": "59.100s",
+              "word": "also"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "60.500s",
+              "startTime": "60.400s",
+              "word": "you"
+            },
+            {
+              "confidence": 0.69511664,
+              "endTime": "60.800s",
+              "startTime": "60.500s",
+              "word": "need"
+            },
+            {
+              "confidence": 0.65670699,
+              "endTime": "61s",
+              "startTime": "60.800s",
+              "word": "to"
+            },
+            {
+              "confidence": 0.71003044,
+              "endTime": "61.500s",
+              "startTime": "61s",
+              "word": "hold"
+            },
+            {
+              "confidence": 0.53679234,
+              "endTime": "62.600s",
+              "startTime": "61.800s",
+              "word": "1,000"
+            },
+            {
+              "confidence": 0.65114892,
+              "endTime": "63.100s",
+              "startTime": "62.600s",
+              "word": "key"
+            },
+            {
+              "confidence": 0.72884291,
+              "endTime": "64s",
+              "startTime": "63.500s",
+              "word": "because"
+            },
+            {
+              "confidence": 0.65114903,
+              "endTime": "64.600s",
+              "startTime": "64.300s",
+              "word": "this"
+            },
+            {
+              "confidence": 0.50607407,
+              "endTime": "65.300s",
+              "startTime": "64.600s",
+              "word": "quantity"
+            },
+            {
+              "confidence": 0.67849082,
+              "endTime": "65.900s",
+              "startTime": "65.300s",
+              "word": "will"
+            },
+            {
+              "confidence": 0.71822107,
+              "endTime": "66.300s",
+              "startTime": "65.900s",
+              "word": "log"
+            },
+            {
+              "confidence": 0.69859558,
+              "endTime": "66.600s",
+              "startTime": "66.300s",
+              "word": "you"
+            },
+            {
+              "confidence": 0.7254923,
+              "endTime": "67.100s",
+              "startTime": "66.600s",
+              "word": "this"
+            },
+            {
+              "confidence": 0.54220778,
+              "endTime": "67.800s",
+              "startTime": "67.100s",
+              "word": "nft"
+            },
+            {
+              "confidence": 0.72918588,
+              "endTime": "68.400s",
+              "startTime": "67.800s",
+              "word": "feature"
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "68.570s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.77261132,
+          "transcript": " ER now let's navigate into white label I think NF t .x kit.com connect your wallet in the right top menu",
+          "words": [
+            {
+              "confidence": 0.55084145,
+              "endTime": "68.700s",
+              "startTime": "68.600s",
+              "word": "ER"
+            },
+            {
+              "confidence": 0.70055211,
+              "endTime": "69.500s",
+              "startTime": "68.900s",
+              "word": "now"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "70.300s",
+              "startTime": "70s",
+              "word": "let's"
+            },
+            {
+              "confidence": 0.60414112,
+              "endTime": "71.200s",
+              "startTime": "70.300s",
+              "word": "navigate"
+            },
+            {
+              "confidence": 0.72420222,
+              "endTime": "71.700s",
+              "startTime": "71.200s",
+              "word": "into"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "72s",
+              "startTime": "71.700s",
+              "word": "white"
+            },
+            {
+              "confidence": 0.82318598,
+              "endTime": "72.600s",
+              "startTime": "72s",
+              "word": "label"
+            },
+            {
+              "confidence": 0.6864143,
+              "endTime": "73.400s",
+              "startTime": "73.200s",
+              "word": "I"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "73.800s",
+              "startTime": "73.400s",
+              "word": "think"
+            },
+            {
+              "confidence": 0.75421816,
+              "endTime": "74.300s",
+              "startTime": "73.900s",
+              "word": "NF"
+            },
+            {
+              "confidence": 0.70399016,
+              "endTime": "74.700s",
+              "startTime": "74.300s",
+              "word": "t"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "75.600s",
+              "startTime": "74.800s",
+              "word": ".x"
+            },
+            {
+              "confidence": 0.72385412,
+              "endTime": "76.700s",
+              "startTime": "75.600s",
+              "word": "kit.com"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "78.400s",
+              "startTime": "77.700s",
+              "word": "connect"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "78.500s",
+              "startTime": "78.400s",
+              "word": "your"
+            },
+            {
+              "confidence": 0.72549337,
+              "endTime": "79.300s",
+              "startTime": "78.500s",
+              "word": "wallet"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "79.800s",
+              "startTime": "79.600s",
+              "word": "in"
+            },
+            {
+              "confidence": 0.68460286,
+              "endTime": "80s",
+              "startTime": "79.800s",
+              "word": "the"
+            },
+            {
+              "confidence": 0.7246961,
+              "endTime": "81.800s",
+              "startTime": "81.200s",
+              "word": "right"
+            },
+            {
+              "confidence": 0.69724214,
+              "endTime": "82.500s",
+              "startTime": "82.100s",
+              "word": "top"
+            },
+            {
+              "confidence": 0.73153216,
+              "endTime": "83.100s",
+              "startTime": "82.500s",
+              "word": "menu"
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "83.610s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.88469559,
+          "transcript": " click in the app builder menu and manage apps",
+          "words": [
+            {
+              "confidence": 0.85025012,
+              "endTime": "85.400s",
+              "startTime": "84.800s",
+              "word": "click"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "85.800s",
+              "startTime": "85.600s",
+              "word": "in"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "86s",
+              "startTime": "85.800s",
+              "word": "the"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "86.300s",
+              "startTime": "86s",
+              "word": "app"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "86.700s",
+              "startTime": "86.300s",
+              "word": "builder"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "87.300s",
+              "startTime": "86.700s",
+              "word": "menu"
+            },
+            {
+              "confidence": 0.90820581,
+              "endTime": "88.600s",
+              "startTime": "88s",
+              "word": "and"
+            },
+            {
+              "confidence": 0.74286765,
+              "endTime": "89.300s",
+              "startTime": "88.600s",
+              "word": "manage"
+            },
+            {
+              "confidence": 0.89674431,
+              "endTime": "89.900s",
+              "startTime": "89.400s",
+              "word": "apps"
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "90.380s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.7648145,
+          "transcript": " we assume you have created you nft marketplaces or you prefer laps before if you didn't so please visit the links Below in the description to learn how to deploy your crypto app or nft Marketplace",
+          "words": [
+            {
+              "confidence": 0.91283858,
+              "endTime": "92.300s",
+              "startTime": "92.100s",
+              "word": "we"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "93.100s",
+              "startTime": "92.300s",
+              "word": "assume"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "93.300s",
+              "startTime": "93.200s",
+              "word": "you"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "93.500s",
+              "startTime": "93.300s",
+              "word": "have"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "94.400s",
+              "startTime": "93.500s",
+              "word": "created"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "94.900s",
+              "startTime": "94.500s",
+              "word": "you"
+            },
+            {
+              "confidence": 0.56005901,
+              "endTime": "95.500s",
+              "startTime": "95s",
+              "word": "nft"
+            },
+            {
+              "confidence": 0.86782777,
+              "endTime": "96.700s",
+              "startTime": "95.500s",
+              "word": "marketplaces"
+            },
+            {
+              "confidence": 0.66251934,
+              "endTime": "97s",
+              "startTime": "96.700s",
+              "word": "or"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "97.100s",
+              "startTime": "97s",
+              "word": "you"
+            },
+            {
+              "confidence": 0.7516818,
+              "endTime": "97.500s",
+              "startTime": "97.100s",
+              "word": "prefer"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "97.900s",
+              "startTime": "97.500s",
+              "word": "laps"
+            },
+            {
+              "confidence": 0.67192101,
+              "endTime": "98.500s",
+              "startTime": "97.900s",
+              "word": "before"
+            },
+            {
+              "confidence": 0.84413314,
+              "endTime": "99.200s",
+              "startTime": "98.900s",
+              "word": "if"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "99.300s",
+              "startTime": "99.200s",
+              "word": "you"
+            },
+            {
+              "confidence": 0.90880644,
+              "endTime": "99.800s",
+              "startTime": "99.300s",
+              "word": "didn't"
+            },
+            {
+              "confidence": 0.70303148,
+              "endTime": "100.300s",
+              "startTime": "99.800s",
+              "word": "so"
+            },
+            {
+              "confidence": 0.80342621,
+              "endTime": "101s",
+              "startTime": "100.700s",
+              "word": "please"
+            },
+            {
+              "confidence": 0.66861802,
+              "endTime": "101.600s",
+              "startTime": "101s",
+              "word": "visit"
+            },
+            {
+              "confidence": 0.72513282,
+              "endTime": "101.700s",
+              "startTime": "101.600s",
+              "word": "the"
+            },
+            {
+              "confidence": 0.8611446,
+              "endTime": "102.300s",
+              "startTime": "101.700s",
+              "word": "links"
+            },
+            {
+              "confidence": 0.70780677,
+              "endTime": "102.800s",
+              "startTime": "102.300s",
+              "word": "Below"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "102.900s",
+              "startTime": "102.800s",
+              "word": "in"
+            },
+            {
+              "confidence": 0.7633456,
+              "endTime": "103.100s",
+              "startTime": "102.900s",
+              "word": "the"
+            },
+            {
+              "confidence": 0.77005786,
+              "endTime": "104.100s",
+              "startTime": "103.100s",
+              "word": "description"
+            },
+            {
+              "confidence": 0.67541158,
+              "endTime": "104.400s",
+              "startTime": "104.200s",
+              "word": "to"
+            },
+            {
+              "confidence": 0.60282737,
+              "endTime": "105.100s",
+              "startTime": "104.400s",
+              "word": "learn"
+            },
+            {
+              "confidence": 0.67192101,
+              "endTime": "105.800s",
+              "startTime": "105.100s",
+              "word": "how"
+            },
+            {
+              "confidence": 0.71895939,
+              "endTime": "105.900s",
+              "startTime": "105.800s",
+              "word": "to"
+            },
+            {
+              "confidence": 0.68804336,
+              "endTime": "106.700s",
+              "startTime": "105.900s",
+              "word": "deploy"
+            },
+            {
+              "confidence": 0.69124919,
+              "endTime": "107s",
+              "startTime": "106.800s",
+              "word": "your"
+            },
+            {
+              "confidence": 0.7223314,
+              "endTime": "107.500s",
+              "startTime": "107s",
+              "word": "crypto"
+            },
+            {
+              "confidence": 0.35826081,
+              "endTime": "108s",
+              "startTime": "107.500s",
+              "word": "app"
+            },
+            {
+              "confidence": 0.71396697,
+              "endTime": "108.300s",
+              "startTime": "108s",
+              "word": "or"
+            },
+            {
+              "confidence": 0.55754179,
+              "endTime": "108.800s",
+              "startTime": "108.300s",
+              "word": "nft"
+            },
+            {
+              "confidence": 0.73490971,
+              "endTime": "109.700s",
+              "startTime": "108.800s",
+              "word": "Marketplace"
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "110.040s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.77474582,
+          "transcript": " let's edit one of these nft marketplaces in order to maintain it as an st we go to actions we go to the bottom we want to edit and we click on edit",
+          "words": [
+            {
+              "confidence": 0.91283858,
+              "endTime": "111.600s",
+              "startTime": "111.100s",
+              "word": "let's"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "112.300s",
+              "startTime": "111.600s",
+              "word": "edit"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "113.200s",
+              "startTime": "112.800s",
+              "word": "one"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "113.500s",
+              "startTime": "113.200s",
+              "word": "of"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "114s",
+              "startTime": "113.500s",
+              "word": "these"
+            },
+            {
+              "confidence": 0.51695687,
+              "endTime": "114.600s",
+              "startTime": "114.100s",
+              "word": "nft"
+            },
+            {
+              "confidence": 0.79620403,
+              "endTime": "115.600s",
+              "startTime": "114.600s",
+              "word": "marketplaces"
+            },
+            {
+              "confidence": 0.69140565,
+              "endTime": "116.200s",
+              "startTime": "115.800s",
+              "word": "in"
+            },
+            {
+              "confidence": 0.73559505,
+              "endTime": "116.800s",
+              "startTime": "116.200s",
+              "word": "order"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "117.300s",
+              "startTime": "117.100s",
+              "word": "to"
+            },
+            {
+              "confidence": 0.70316529,
+              "endTime": "117.800s",
+              "startTime": "117.300s",
+              "word": "maintain"
+            },
+            {
+              "confidence": 0.70482409,
+              "endTime": "118s",
+              "startTime": "117.800s",
+              "word": "it"
+            },
+            {
+              "confidence": 0.84184051,
+              "endTime": "118.300s",
+              "startTime": "118s",
+              "word": "as"
+            },
+            {
+              "confidence": 0.70626843,
+              "endTime": "118.400s",
+              "startTime": "118.300s",
+              "word": "an"
+            },
+            {
+              "confidence": 0.69490254,
+              "endTime": "119s",
+              "startTime": "118.400s",
+              "word": "st"
+            },
+            {
+              "confidence": 0.78656155,
+              "endTime": "120.100s",
+              "startTime": "119.900s",
+              "word": "we"
+            },
+            {
+              "confidence": 0.71945381,
+              "endTime": "120.400s",
+              "startTime": "120.100s",
+              "word": "go"
+            },
+            {
+              "confidence": 0.81496787,
+              "endTime": "120.700s",
+              "startTime": "120.400s",
+              "word": "to"
+            },
+            {
+              "confidence": 0.76780933,
+              "endTime": "121.500s",
+              "startTime": "120.700s",
+              "word": "actions"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "122.500s",
+              "startTime": "122.400s",
+              "word": "we"
+            },
+            {
+              "confidence": 0.68362081,
+              "endTime": "122.800s",
+              "startTime": "122.500s",
+              "word": "go"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "123s",
+              "startTime": "122.800s",
+              "word": "to"
+            },
+            {
+              "confidence": 0.7390061,
+              "endTime": "123.200s",
+              "startTime": "123s",
+              "word": "the"
+            },
+            {
+              "confidence": 0.65545964,
+              "endTime": "123.800s",
+              "startTime": "123.200s",
+              "word": "bottom"
+            },
+            {
+              "confidence": 0.66527647,
+              "endTime": "124.500s",
+              "startTime": "124.400s",
+              "word": "we"
+            },
+            {
+              "confidence": 0.6493513,
+              "endTime": "124.900s",
+              "startTime": "124.500s",
+              "word": "want"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "125.100s",
+              "startTime": "124.900s",
+              "word": "to"
+            },
+            {
+              "confidence": 0.58387643,
+              "endTime": "125.700s",
+              "startTime": "125.100s",
+              "word": "edit"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "125.900s",
+              "startTime": "125.700s",
+              "word": "and"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "126s",
+              "startTime": "125.900s",
+              "word": "we"
+            },
+            {
+              "confidence": 0.75608373,
+              "endTime": "126.400s",
+              "startTime": "126s",
+              "word": "click"
+            },
+            {
+              "confidence": 0.72888434,
+              "endTime": "126.600s",
+              "startTime": "126.400s",
+              "word": "on"
+            },
+            {
+              "confidence": 0.58387643,
+              "endTime": "127.200s",
+              "startTime": "126.600s",
+              "word": "edit"
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "127.590s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.86365724,
+          "transcript": " this is one Marketplace I created to show you how to maintain an active market place after you design your nht marketplaces you will click on ownership and you will feel all these planks",
+          "words": [
+            {
+              "confidence": 0.91283858,
+              "endTime": "128.800s",
+              "startTime": "128.500s",
+              "word": "this"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "129s",
+              "startTime": "128.800s",
+              "word": "is"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "129.500s",
+              "startTime": "129s",
+              "word": "one"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "131.100s",
+              "startTime": "130.100s",
+              "word": "Marketplace"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "131.400s",
+              "startTime": "131.200s",
+              "word": "I"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "132.400s",
+              "startTime": "131.400s",
+              "word": "created"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "133.100s",
+              "startTime": "132.700s",
+              "word": "to"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "134.400s",
+              "startTime": "134.100s",
+              "word": "show"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "134.600s",
+              "startTime": "134.400s",
+              "word": "you"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "135s",
+              "startTime": "134.600s",
+              "word": "how"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "135.200s",
+              "startTime": "135s",
+              "word": "to"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "135.700s",
+              "startTime": "135.200s",
+              "word": "maintain"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "136s",
+              "startTime": "135.700s",
+              "word": "an"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "136.400s",
+              "startTime": "136s",
+              "word": "active"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "136.800s",
+              "startTime": "136.400s",
+              "word": "market"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "137.300s",
+              "startTime": "136.800s",
+              "word": "place"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "138.600s",
+              "startTime": "137.900s",
+              "word": "after"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "139s",
+              "startTime": "138.800s",
+              "word": "you"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "139.800s",
+              "startTime": "139s",
+              "word": "design"
+            },
+            {
+              "confidence": 0.71098602,
+              "endTime": "140.200s",
+              "startTime": "139.900s",
+              "word": "your"
+            },
+            {
+              "confidence": 0.71098602,
+              "endTime": "140.700s",
+              "startTime": "140.200s",
+              "word": "nht"
+            },
+            {
+              "confidence": 0.86039251,
+              "endTime": "141.800s",
+              "startTime": "140.700s",
+              "word": "marketplaces"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "142.700s",
+              "startTime": "142.500s",
+              "word": "you"
+            },
+            {
+              "confidence": 0.90725195,
+              "endTime": "142.900s",
+              "startTime": "142.700s",
+              "word": "will"
+            },
+            {
+              "confidence": 0.80885768,
+              "endTime": "143.300s",
+              "startTime": "142.900s",
+              "word": "click"
+            },
+            {
+              "confidence": 0.72676116,
+              "endTime": "143.600s",
+              "startTime": "143.300s",
+              "word": "on"
+            },
+            {
+              "confidence": 0.74861926,
+              "endTime": "144.600s",
+              "startTime": "143.600s",
+              "word": "ownership"
+            },
+            {
+              "confidence": 0.83412117,
+              "endTime": "145.600s",
+              "startTime": "145.100s",
+              "word": "and"
+            },
+            {
+              "confidence": 0.8980546,
+              "endTime": "145.800s",
+              "startTime": "145.600s",
+              "word": "you"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "146.100s",
+              "startTime": "145.800s",
+              "word": "will"
+            },
+            {
+              "confidence": 0.73030841,
+              "endTime": "146.600s",
+              "startTime": "146.100s",
+              "word": "feel"
+            },
+            {
+              "confidence": 0.72469079,
+              "endTime": "147s",
+              "startTime": "146.700s",
+              "word": "all"
+            },
+            {
+              "confidence": 0.7658636,
+              "endTime": "147.500s",
+              "startTime": "147s",
+              "word": "these"
+            },
+            {
+              "confidence": 0.76784438,
+              "endTime": "148.200s",
+              "startTime": "147.500s",
+              "word": "planks"
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "148.560s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.80564797,
+          "transcript": " my Marketplace is called Beautiful",
+          "words": [
+            {
+              "confidence": 0.91283858,
+              "endTime": "150.300s",
+              "startTime": "150.100s",
+              "word": "my"
+            },
+            {
+              "confidence": 0.71683902,
+              "endTime": "151.200s",
+              "startTime": "150.300s",
+              "word": "Marketplace"
+            },
+            {
+              "confidence": 0.77120119,
+              "endTime": "151.600s",
+              "startTime": "151.400s",
+              "word": "is"
+            },
+            {
+              "confidence": 0.85305852,
+              "endTime": "152.300s",
+              "startTime": "151.600s",
+              "word": "called"
+            },
+            {
+              "confidence": 0.77430266,
+              "endTime": "153.400s",
+              "startTime": "152.500s",
+              "word": "Beautiful"
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "153.920s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.77758634,
+          "transcript": " you can create an image for these nft using generative AI we can also add clicking in the image we can add an image from our computer or from our other sources let's create and a prompt to make the a I work for us",
+          "words": [
+            {
+              "confidence": 0.91283858,
+              "endTime": "167.100s",
+              "startTime": "167s",
+              "word": "you"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "167.300s",
+              "startTime": "167.100s",
+              "word": "can"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "167.900s",
+              "startTime": "167.300s",
+              "word": "create"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "168.200s",
+              "startTime": "167.900s",
+              "word": "an"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "168.800s",
+              "startTime": "168.200s",
+              "word": "image"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "169.700s",
+              "startTime": "169.200s",
+              "word": "for"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "170.400s",
+              "startTime": "169.900s",
+              "word": "these"
+            },
+            {
+              "confidence": 0.5342648,
+              "endTime": "171.600s",
+              "startTime": "170.700s",
+              "word": "nft"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "172.200s",
+              "startTime": "171.600s",
+              "word": "using"
+            },
+            {
+              "confidence": 0.90056056,
+              "endTime": "173.100s",
+              "startTime": "172.200s",
+              "word": "generative"
+            },
+            {
+              "confidence": 0.71213341,
+              "endTime": "173.800s",
+              "startTime": "173.100s",
+              "word": "AI"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "174.700s",
+              "startTime": "174.500s",
+              "word": "we"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "174.900s",
+              "startTime": "174.700s",
+              "word": "can"
+            },
+            {
+              "confidence": 0.70497477,
+              "endTime": "175.500s",
+              "startTime": "174.900s",
+              "word": "also"
+            },
+            {
+              "confidence": 0.71371013,
+              "endTime": "176.100s",
+              "startTime": "175.500s",
+              "word": "add"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "177.400s",
+              "startTime": "176.800s",
+              "word": "clicking"
+            },
+            {
+              "confidence": 0.83007234,
+              "endTime": "177.600s",
+              "startTime": "177.400s",
+              "word": "in"
+            },
+            {
+              "confidence": 0.70202875,
+              "endTime": "178.100s",
+              "startTime": "177.600s",
+              "word": "the"
+            },
+            {
+              "confidence": 0.73104447,
+              "endTime": "178.800s",
+              "startTime": "178.100s",
+              "word": "image"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "179.100s",
+              "startTime": "178.900s",
+              "word": "we"
+            },
+            {
+              "confidence": 0.69608635,
+              "endTime": "179.400s",
+              "startTime": "179.100s",
+              "word": "can"
+            },
+            {
+              "confidence": 0.73580182,
+              "endTime": "179.800s",
+              "startTime": "179.400s",
+              "word": "add"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "179.900s",
+              "startTime": "179.800s",
+              "word": "an"
+            },
+            {
+              "confidence": 0.60620224,
+              "endTime": "180.200s",
+              "startTime": "179.900s",
+              "word": "image"
+            },
+            {
+              "confidence": 0.63302714,
+              "endTime": "180.500s",
+              "startTime": "180.200s",
+              "word": "from"
+            },
+            {
+              "confidence": 0.64468193,
+              "endTime": "180.800s",
+              "startTime": "180.500s",
+              "word": "our"
+            },
+            {
+              "confidence": 0.84363484,
+              "endTime": "181.600s",
+              "startTime": "180.800s",
+              "word": "computer"
+            },
+            {
+              "confidence": 0.59336722,
+              "endTime": "182s",
+              "startTime": "181.600s",
+              "word": "or"
+            },
+            {
+              "confidence": 0.70401698,
+              "endTime": "182.300s",
+              "startTime": "182s",
+              "word": "from"
+            },
+            {
+              "confidence": 0.72911966,
+              "endTime": "182.700s",
+              "startTime": "182.300s",
+              "word": "our"
+            },
+            {
+              "confidence": 0.70401698,
+              "endTime": "183.100s",
+              "startTime": "182.700s",
+              "word": "other"
+            },
+            {
+              "confidence": 0.72886562,
+              "endTime": "183.800s",
+              "startTime": "183.100s",
+              "word": "sources"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "184.900s",
+              "startTime": "184.500s",
+              "word": "let's"
+            },
+            {
+              "confidence": 0.65345794,
+              "endTime": "185.600s",
+              "startTime": "184.900s",
+              "word": "create"
+            },
+            {
+              "confidence": 0.78205895,
+              "endTime": "186.500s",
+              "startTime": "186.100s",
+              "word": "and"
+            },
+            {
+              "confidence": 0.73559022,
+              "endTime": "186.600s",
+              "startTime": "186.500s",
+              "word": "a"
+            },
+            {
+              "confidence": 0.7399298,
+              "endTime": "187.400s",
+              "startTime": "186.600s",
+              "word": "prompt"
+            },
+            {
+              "confidence": 0.71357542,
+              "endTime": "188.100s",
+              "startTime": "188s",
+              "word": "to"
+            },
+            {
+              "confidence": 0.80126595,
+              "endTime": "188.500s",
+              "startTime": "188.100s",
+              "word": "make"
+            },
+            {
+              "confidence": 0.7194103,
+              "endTime": "188.800s",
+              "startTime": "188.500s",
+              "word": "the"
+            },
+            {
+              "confidence": 0.62287056,
+              "endTime": "189.200s",
+              "startTime": "188.800s",
+              "word": "a"
+            },
+            {
+              "confidence": 0.64423198,
+              "endTime": "189.400s",
+              "startTime": "189.200s",
+              "word": "I"
+            },
+            {
+              "confidence": 0.78205895,
+              "endTime": "189.900s",
+              "startTime": "189.500s",
+              "word": "work"
+            },
+            {
+              "confidence": 0.84951925,
+              "endTime": "190.100s",
+              "startTime": "189.900s",
+              "word": "for"
+            },
+            {
+              "confidence": 0.72006708,
+              "endTime": "190.600s",
+              "startTime": "190.100s",
+              "word": "us"
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "190.910s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.88365936,
+          "transcript": " after generating our I match for the nft we can just change the description and use one more suitable for this situation if this is a single nft Marketplace we will put",
+          "words": [
+            {
+              "confidence": 0.91283858,
+              "endTime": "202.800s",
+              "startTime": "202.400s",
+              "word": "after"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "203.900s",
+              "startTime": "202.800s",
+              "word": "generating"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "204.800s",
+              "startTime": "204.200s",
+              "word": "our"
+            },
+            {
+              "confidence": 0.83194774,
+              "endTime": "205.100s",
+              "startTime": "204.900s",
+              "word": "I"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "205.700s",
+              "startTime": "205.100s",
+              "word": "match"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "206s",
+              "startTime": "205.700s",
+              "word": "for"
+            },
+            {
+              "confidence": 0.91108775,
+              "endTime": "206.300s",
+              "startTime": "206s",
+              "word": "the"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "207.100s",
+              "startTime": "206.300s",
+              "word": "nft"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "208s",
+              "startTime": "207.900s",
+              "word": "we"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "208.400s",
+              "startTime": "208s",
+              "word": "can"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "208.700s",
+              "startTime": "208.400s",
+              "word": "just"
+            },
+            {
+              "confidence": 0.90501606,
+              "endTime": "209.200s",
+              "startTime": "208.700s",
+              "word": "change"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "209.300s",
+              "startTime": "209.200s",
+              "word": "the"
+            },
+            {
+              "confidence": 0.89554179,
+              "endTime": "210.300s",
+              "startTime": "209.300s",
+              "word": "description"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "210.600s",
+              "startTime": "210.300s",
+              "word": "and"
+            },
+            {
+              "confidence": 0.9082756,
+              "endTime": "211.100s",
+              "startTime": "210.600s",
+              "word": "use"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "211.700s",
+              "startTime": "211.100s",
+              "word": "one"
+            },
+            {
+              "confidence": 0.90165323,
+              "endTime": "212.600s",
+              "startTime": "212.100s",
+              "word": "more"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "214.400s",
+              "startTime": "213.600s",
+              "word": "suitable"
+            },
+            {
+              "confidence": 0.88998157,
+              "endTime": "214.600s",
+              "startTime": "214.400s",
+              "word": "for"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "214.900s",
+              "startTime": "214.600s",
+              "word": "this"
+            },
+            {
+              "confidence": 0.88890928,
+              "endTime": "215.800s",
+              "startTime": "214.900s",
+              "word": "situation"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "216.300s",
+              "startTime": "216s",
+              "word": "if"
+            },
+            {
+              "confidence": 0.89774358,
+              "endTime": "216.700s",
+              "startTime": "216.300s",
+              "word": "this"
+            },
+            {
+              "confidence": 0.86762297,
+              "endTime": "217.200s",
+              "startTime": "216.800s",
+              "word": "is"
+            },
+            {
+              "confidence": 0.90501559,
+              "endTime": "217.400s",
+              "startTime": "217.200s",
+              "word": "a"
+            },
+            {
+              "confidence": 0.90766257,
+              "endTime": "218.100s",
+              "startTime": "217.400s",
+              "word": "single"
+            },
+            {
+              "confidence": 0.55983007,
+              "endTime": "218.600s",
+              "startTime": "218.100s",
+              "word": "nft"
+            },
+            {
+              "confidence": 0.76672316,
+              "endTime": "219.500s",
+              "startTime": "218.600s",
+              "word": "Marketplace"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "219.900s",
+              "startTime": "219.800s",
+              "word": "we"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "220.200s",
+              "startTime": "219.900s",
+              "word": "will"
+            },
+            {
+              "confidence": 0.72183436,
+              "endTime": "220.700s",
+              "startTime": "220.200s",
+              "word": "put"
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "221.160s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.84729218,
+          "transcript": " this right up we can add attributes as well but we won't do it at this time you can hide as well the high powered by Dex kick at the folder of the page",
+          "words": [
+            {
+              "confidence": 0.91283858,
+              "endTime": "223.400s",
+              "startTime": "223s",
+              "word": "this"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "224.600s",
+              "startTime": "224.200s",
+              "word": "right"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "224.900s",
+              "startTime": "224.600s",
+              "word": "up"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "225.200s",
+              "startTime": "225.100s",
+              "word": "we"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "225.400s",
+              "startTime": "225.200s",
+              "word": "can"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "225.700s",
+              "startTime": "225.400s",
+              "word": "add"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "226.300s",
+              "startTime": "225.700s",
+              "word": "attributes"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "226.400s",
+              "startTime": "226.300s",
+              "word": "as"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "226.800s",
+              "startTime": "226.400s",
+              "word": "well"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "227.300s",
+              "startTime": "226.900s",
+              "word": "but"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "227.500s",
+              "startTime": "227.300s",
+              "word": "we"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "227.800s",
+              "startTime": "227.500s",
+              "word": "won't"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "227.900s",
+              "startTime": "227.800s",
+              "word": "do"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "228.100s",
+              "startTime": "227.900s",
+              "word": "it"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "228.300s",
+              "startTime": "228.100s",
+              "word": "at"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "228.500s",
+              "startTime": "228.300s",
+              "word": "this"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "229s",
+              "startTime": "228.500s",
+              "word": "time"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "229.900s",
+              "startTime": "229.700s",
+              "word": "you"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "230.100s",
+              "startTime": "229.900s",
+              "word": "can"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "230.700s",
+              "startTime": "230.100s",
+              "word": "hide"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "230.900s",
+              "startTime": "230.700s",
+              "word": "as"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "231.400s",
+              "startTime": "230.900s",
+              "word": "well"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "231.800s",
+              "startTime": "231.600s",
+              "word": "the"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "232.300s",
+              "startTime": "231.800s",
+              "word": "high"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "233.300s",
+              "startTime": "232.700s",
+              "word": "powered"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "233.500s",
+              "startTime": "233.300s",
+              "word": "by"
+            },
+            {
+              "confidence": 0.375,
+              "endTime": "233.800s",
+              "startTime": "233.500s",
+              "word": "Dex"
+            },
+            {
+              "confidence": 0.61671638,
+              "endTime": "234.300s",
+              "startTime": "233.800s",
+              "word": "kick"
+            },
+            {
+              "confidence": 0.64636636,
+              "endTime": "235s",
+              "startTime": "234.500s",
+              "word": "at"
+            },
+            {
+              "confidence": 0.53668433,
+              "endTime": "235.400s",
+              "startTime": "235.200s",
+              "word": "the"
+            },
+            {
+              "confidence": 0.80347866,
+              "endTime": "235.800s",
+              "startTime": "235.400s",
+              "word": "folder"
+            },
+            {
+              "confidence": 0.53668433,
+              "endTime": "236s",
+              "startTime": "235.800s",
+              "word": "of"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "236.100s",
+              "startTime": "236s",
+              "word": "the"
+            },
+            {
+              "confidence": 0.64636636,
+              "endTime": "236.600s",
+              "startTime": "236.100s",
+              "word": "page"
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "237.020s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.89454877,
+          "transcript": " where is done you will find that here and if you click here you will hide that let's create our nft",
+          "words": [
+            {
+              "confidence": 0.91283858,
+              "endTime": "237.900s",
+              "startTime": "237.600s",
+              "word": "where"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "238.100s",
+              "startTime": "237.900s",
+              "word": "is"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "238.500s",
+              "startTime": "238.100s",
+              "word": "done"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "239.400s",
+              "startTime": "239.300s",
+              "word": "you"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "239.700s",
+              "startTime": "239.400s",
+              "word": "will"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "240.200s",
+              "startTime": "239.700s",
+              "word": "find"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "240.800s",
+              "startTime": "240.200s",
+              "word": "that"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "241.800s",
+              "startTime": "241.200s",
+              "word": "here"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "242.900s",
+              "startTime": "242.400s",
+              "word": "and"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "243.100s",
+              "startTime": "243s",
+              "word": "if"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "243.300s",
+              "startTime": "243.100s",
+              "word": "you"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "243.900s",
+              "startTime": "243.300s",
+              "word": "click"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "245.600s",
+              "startTime": "245s",
+              "word": "here"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "245.700s",
+              "startTime": "245.600s",
+              "word": "you"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "246s",
+              "startTime": "245.700s",
+              "word": "will"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "246.400s",
+              "startTime": "246s",
+              "word": "hide"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "246.800s",
+              "startTime": "246.400s",
+              "word": "that"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "248.200s",
+              "startTime": "247.800s",
+              "word": "let's"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "248.700s",
+              "startTime": "248.200s",
+              "word": "create"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "249s",
+              "startTime": "248.700s",
+              "word": "our"
+            },
+            {
+              "confidence": 0.52875215,
+              "endTime": "249.800s",
+              "startTime": "249s",
+              "word": "nft"
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "250.200s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.88358414,
+          "transcript": " to empower our Marketplace and make it unique",
+          "words": [
+            {
+              "confidence": 0.91283858,
+              "endTime": "251.800s",
+              "startTime": "251.300s",
+              "word": "to"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "252.700s",
+              "startTime": "252s",
+              "word": "empower"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "253s",
+              "startTime": "252.700s",
+              "word": "our"
+            },
+            {
+              "confidence": 0.76787651,
+              "endTime": "253.700s",
+              "startTime": "253s",
+              "word": "Marketplace"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "253.900s",
+              "startTime": "253.700s",
+              "word": "and"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "254.200s",
+              "startTime": "253.900s",
+              "word": "make"
+            },
+            {
+              "confidence": 0.8537631,
+              "endTime": "254.500s",
+              "startTime": "254.200s",
+              "word": "it"
+            },
+            {
+              "confidence": 0.88284069,
+              "endTime": "255.300s",
+              "startTime": "254.500s",
+              "word": "unique"
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "255.590s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.79601181,
+          "transcript": " did you know that if you mean your nft Marketplace in with your Forever unless you trade it or you send it to another person nobody will be able to clone your Marketplace",
+          "words": [
+            {
+              "confidence": 0.91283858,
+              "endTime": "258.400s",
+              "startTime": "258.200s",
+              "word": "did"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "258.500s",
+              "startTime": "258.400s",
+              "word": "you"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "259s",
+              "startTime": "258.500s",
+              "word": "know"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "260.300s",
+              "startTime": "259.700s",
+              "word": "that"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "261s",
+              "startTime": "260.800s",
+              "word": "if"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "261.100s",
+              "startTime": "261s",
+              "word": "you"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "261.700s",
+              "startTime": "261.100s",
+              "word": "mean"
+            },
+            {
+              "confidence": 0.72516525,
+              "endTime": "262s",
+              "startTime": "261.700s",
+              "word": "your"
+            },
+            {
+              "confidence": 0.52231795,
+              "endTime": "262.600s",
+              "startTime": "262s",
+              "word": "nft"
+            },
+            {
+              "confidence": 0.76667774,
+              "endTime": "263.600s",
+              "startTime": "262.600s",
+              "word": "Marketplace"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "264.400s",
+              "startTime": "264.200s",
+              "word": "in"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "264.600s",
+              "startTime": "264.400s",
+              "word": "with"
+            },
+            {
+              "confidence": 0.74084145,
+              "endTime": "264.900s",
+              "startTime": "264.600s",
+              "word": "your"
+            },
+            {
+              "confidence": 0.74084145,
+              "endTime": "265.700s",
+              "startTime": "264.900s",
+              "word": "Forever"
+            },
+            {
+              "confidence": 0.64856416,
+              "endTime": "267.100s",
+              "startTime": "266.500s",
+              "word": "unless"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "267.400s",
+              "startTime": "267.200s",
+              "word": "you"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "267.700s",
+              "startTime": "267.400s",
+              "word": "trade"
+            },
+            {
+              "confidence": 0.62054998,
+              "endTime": "268.100s",
+              "startTime": "267.700s",
+              "word": "it"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "268.400s",
+              "startTime": "268.200s",
+              "word": "or"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "268.600s",
+              "startTime": "268.400s",
+              "word": "you"
+            },
+            {
+              "confidence": 0.69676042,
+              "endTime": "268.900s",
+              "startTime": "268.600s",
+              "word": "send"
+            },
+            {
+              "confidence": 0.75745589,
+              "endTime": "269.100s",
+              "startTime": "268.900s",
+              "word": "it"
+            },
+            {
+              "confidence": 0.72603673,
+              "endTime": "269.200s",
+              "startTime": "269.100s",
+              "word": "to"
+            },
+            {
+              "confidence": 0.65305483,
+              "endTime": "269.600s",
+              "startTime": "269.200s",
+              "word": "another"
+            },
+            {
+              "confidence": 0.60120231,
+              "endTime": "270.300s",
+              "startTime": "269.600s",
+              "word": "person"
+            },
+            {
+              "confidence": 0.75334066,
+              "endTime": "271.600s",
+              "startTime": "270.900s",
+              "word": "nobody"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "272s",
+              "startTime": "271.600s",
+              "word": "will"
+            },
+            {
+              "confidence": 0.72603673,
+              "endTime": "272.200s",
+              "startTime": "272s",
+              "word": "be"
+            },
+            {
+              "confidence": 0.57058799,
+              "endTime": "272.700s",
+              "startTime": "272.200s",
+              "word": "able"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "273s",
+              "startTime": "272.700s",
+              "word": "to"
+            },
+            {
+              "confidence": 0.74558264,
+              "endTime": "273.600s",
+              "startTime": "273s",
+              "word": "clone"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "273.800s",
+              "startTime": "273.600s",
+              "word": "your"
+            },
+            {
+              "confidence": 0.66795671,
+              "endTime": "274.800s",
+              "startTime": "273.800s",
+              "word": "Marketplace"
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "275.320s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.87717843,
+          "transcript": " this is your Marketplace and ft",
+          "words": [
+            {
+              "confidence": 0.91283858,
+              "endTime": "277.400s",
+              "startTime": "277.100s",
+              "word": "this"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "277.700s",
+              "startTime": "277.400s",
+              "word": "is"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "277.900s",
+              "startTime": "277.700s",
+              "word": "your"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "278.900s",
+              "startTime": "277.900s",
+              "word": "Marketplace"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "279.200s",
+              "startTime": "279s",
+              "word": "and"
+            },
+            {
+              "confidence": 0.69887799,
+              "endTime": "279.700s",
+              "startTime": "279.200s",
+              "word": "ft"
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "280.430s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.81529367,
+          "transcript": " if you sell this nft the owner will be able to deploy an NXT marketplace with that features",
+          "words": [
+            {
+              "confidence": 0.91283858,
+              "endTime": "281.700s",
+              "startTime": "281.400s",
+              "word": "if"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "282.100s",
+              "startTime": "281.700s",
+              "word": "you"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "283.500s",
+              "startTime": "283.100s",
+              "word": "sell"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "284.100s",
+              "startTime": "283.500s",
+              "word": "this"
+            },
+            {
+              "confidence": 0.54470724,
+              "endTime": "285s",
+              "startTime": "284.200s",
+              "word": "nft"
+            },
+            {
+              "confidence": 0.77251369,
+              "endTime": "286.100s",
+              "startTime": "285.900s",
+              "word": "the"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "286.400s",
+              "startTime": "286.100s",
+              "word": "owner"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "286.700s",
+              "startTime": "286.400s",
+              "word": "will"
+            },
+            {
+              "confidence": 0.71952641,
+              "endTime": "287s",
+              "startTime": "286.700s",
+              "word": "be"
+            },
+            {
+              "confidence": 0.72559893,
+              "endTime": "287.400s",
+              "startTime": "287s",
+              "word": "able"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "287.600s",
+              "startTime": "287.400s",
+              "word": "to"
+            },
+            {
+              "confidence": 0.65619212,
+              "endTime": "288.400s",
+              "startTime": "287.600s",
+              "word": "deploy"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "288.700s",
+              "startTime": "288.500s",
+              "word": "an"
+            },
+            {
+              "confidence": 0.71109194,
+              "endTime": "289.500s",
+              "startTime": "288.700s",
+              "word": "NXT"
+            },
+            {
+              "confidence": 0.8718136,
+              "endTime": "290.500s",
+              "startTime": "289.600s",
+              "word": "marketplace"
+            },
+            {
+              "confidence": 0.87838304,
+              "endTime": "290.900s",
+              "startTime": "290.600s",
+              "word": "with"
+            },
+            {
+              "confidence": 0.72736931,
+              "endTime": "291.500s",
+              "startTime": "290.900s",
+              "word": "that"
+            },
+            {
+              "confidence": 0.76538044,
+              "endTime": "292.300s",
+              "startTime": "291.500s",
+              "word": "features"
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "292.710s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.71673638,
+          "transcript": " I have another nft Marketplace I have created before but this is only a decks aggregator this is only a swab you can see here that here is another nft generated with a I and I change the description to make it more suitable",
+          "words": [
+            {
+              "confidence": 0.91283858,
+              "endTime": "294.800s",
+              "startTime": "294.600s",
+              "word": "I"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "295.200s",
+              "startTime": "294.800s",
+              "word": "have"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "295.800s",
+              "startTime": "295.200s",
+              "word": "another"
+            },
+            {
+              "confidence": 0.6049577,
+              "endTime": "296.500s",
+              "startTime": "295.800s",
+              "word": "nft"
+            },
+            {
+              "confidence": 0.88292909,
+              "endTime": "297.400s",
+              "startTime": "296.500s",
+              "word": "Marketplace"
+            },
+            {
+              "confidence": 0.71457535,
+              "endTime": "297.400s",
+              "startTime": "297.400s",
+              "word": "I"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "297.700s",
+              "startTime": "297.400s",
+              "word": "have"
+            },
+            {
+              "confidence": 0.69959259,
+              "endTime": "298.300s",
+              "startTime": "297.700s",
+              "word": "created"
+            },
+            {
+              "confidence": 0.647407,
+              "endTime": "298.900s",
+              "startTime": "298.300s",
+              "word": "before"
+            },
+            {
+              "confidence": 0.88865817,
+              "endTime": "300s",
+              "startTime": "299.700s",
+              "word": "but"
+            },
+            {
+              "confidence": 0.70300359,
+              "endTime": "300.400s",
+              "startTime": "300s",
+              "word": "this"
+            },
+            {
+              "confidence": 0.63592905,
+              "endTime": "300.900s",
+              "startTime": "300.500s",
+              "word": "is"
+            },
+            {
+              "confidence": 0.6899038,
+              "endTime": "301.300s",
+              "startTime": "300.900s",
+              "word": "only"
+            },
+            {
+              "confidence": 0.75025922,
+              "endTime": "301.400s",
+              "startTime": "301.300s",
+              "word": "a"
+            },
+            {
+              "confidence": 0.90511245,
+              "endTime": "301.900s",
+              "startTime": "301.400s",
+              "word": "decks"
+            },
+            {
+              "confidence": 0.82539415,
+              "endTime": "302.700s",
+              "startTime": "301.900s",
+              "word": "aggregator"
+            },
+            {
+              "confidence": 0.86901128,
+              "endTime": "303s",
+              "startTime": "302.700s",
+              "word": "this"
+            },
+            {
+              "confidence": 0.72703487,
+              "endTime": "303.300s",
+              "startTime": "303s",
+              "word": "is"
+            },
+            {
+              "confidence": 0.6927042,
+              "endTime": "303.700s",
+              "startTime": "303.300s",
+              "word": "only"
+            },
+            {
+              "confidence": 0.6927042,
+              "endTime": "303.900s",
+              "startTime": "303.700s",
+              "word": "a"
+            },
+            {
+              "confidence": 0.75841099,
+              "endTime": "304.500s",
+              "startTime": "303.900s",
+              "word": "swab"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "305.500s",
+              "startTime": "305.300s",
+              "word": "you"
+            },
+            {
+              "confidence": 0.86901128,
+              "endTime": "305.800s",
+              "startTime": "305.500s",
+              "word": "can"
+            },
+            {
+              "confidence": 0.85385382,
+              "endTime": "306s",
+              "startTime": "305.800s",
+              "word": "see"
+            },
+            {
+              "confidence": 0.7601977,
+              "endTime": "306.600s",
+              "startTime": "306s",
+              "word": "here"
+            },
+            {
+              "confidence": 0.66569644,
+              "endTime": "307.800s",
+              "startTime": "307.500s",
+              "word": "that"
+            },
+            {
+              "confidence": 0.79961234,
+              "endTime": "308.200s",
+              "startTime": "307.800s",
+              "word": "here"
+            },
+            {
+              "confidence": 0.72442484,
+              "endTime": "308.500s",
+              "startTime": "308.200s",
+              "word": "is"
+            },
+            {
+              "confidence": 0.71708173,
+              "endTime": "309.400s",
+              "startTime": "308.600s",
+              "word": "another"
+            },
+            {
+              "confidence": 0.57678086,
+              "endTime": "310.400s",
+              "startTime": "309.500s",
+              "word": "nft"
+            },
+            {
+              "confidence": 0.75522149,
+              "endTime": "312.500s",
+              "startTime": "311.400s",
+              "word": "generated"
+            },
+            {
+              "confidence": 0.70499992,
+              "endTime": "312.900s",
+              "startTime": "312.500s",
+              "word": "with"
+            },
+            {
+              "confidence": 0.375,
+              "endTime": "313.200s",
+              "startTime": "312.900s",
+              "word": "a"
+            },
+            {
+              "confidence": 0.375,
+              "endTime": "313.500s",
+              "startTime": "313.200s",
+              "word": "I"
+            },
+            {
+              "confidence": 0.68742049,
+              "endTime": "314.500s",
+              "startTime": "314s",
+              "word": "and"
+            },
+            {
+              "confidence": 0.5296796,
+              "endTime": "315.500s",
+              "startTime": "315.300s",
+              "word": "I"
+            },
+            {
+              "confidence": 0.55208415,
+              "endTime": "316.400s",
+              "startTime": "315.500s",
+              "word": "change"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "316.500s",
+              "startTime": "316.400s",
+              "word": "the"
+            },
+            {
+              "confidence": 0.42349878,
+              "endTime": "317.400s",
+              "startTime": "316.500s",
+              "word": "description"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "318.100s",
+              "startTime": "317.900s",
+              "word": "to"
+            },
+            {
+              "confidence": 0.52967948,
+              "endTime": "318.400s",
+              "startTime": "318.100s",
+              "word": "make"
+            },
+            {
+              "confidence": 0.58527094,
+              "endTime": "318.800s",
+              "startTime": "318.400s",
+              "word": "it"
+            },
+            {
+              "confidence": 0.52967948,
+              "endTime": "319.200s",
+              "startTime": "318.800s",
+              "word": "more"
+            },
+            {
+              "confidence": 0.44475123,
+              "endTime": "320.100s",
+              "startTime": "319.300s",
+              "word": "suitable"
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "320.590s"
+    },
+    {
+      "alternatives": [{}],
+      "languageCode": "en-us",
+      "resultEndTime": "321.670s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.77904922,
+          "transcript": "let's give it a look to this nft Marketplace or decks aggregator in this case and you can see it's what I have expected it's a single trading widget with the powerful API from the Xscape",
+          "words": [
+            {
+              "confidence": 0.91283858,
+              "endTime": "323.700s",
+              "startTime": "323.400s",
+              "word": "let's"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "323.900s",
+              "startTime": "323.700s",
+              "word": "give"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "324.100s",
+              "startTime": "323.900s",
+              "word": "it"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "324.100s",
+              "startTime": "324.100s",
+              "word": "a"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "324.600s",
+              "startTime": "324.100s",
+              "word": "look"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "325.100s",
+              "startTime": "324.900s",
+              "word": "to"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "325.600s",
+              "startTime": "325.100s",
+              "word": "this"
+            },
+            {
+              "confidence": 0.56468463,
+              "endTime": "326.500s",
+              "startTime": "326s",
+              "word": "nft"
+            },
+            {
+              "confidence": 0.83521485,
+              "endTime": "327.500s",
+              "startTime": "326.500s",
+              "word": "Marketplace"
+            },
+            {
+              "confidence": 0.72893387,
+              "endTime": "327.900s",
+              "startTime": "327.500s",
+              "word": "or"
+            },
+            {
+              "confidence": 0.86300313,
+              "endTime": "328.300s",
+              "startTime": "327.900s",
+              "word": "decks"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "329s",
+              "startTime": "328.300s",
+              "word": "aggregator"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "329.100s",
+              "startTime": "329s",
+              "word": "in"
+            },
+            {
+              "confidence": 0.8153671,
+              "endTime": "329.300s",
+              "startTime": "329.100s",
+              "word": "this"
+            },
+            {
+              "confidence": 0.7562387,
+              "endTime": "329.700s",
+              "startTime": "329.300s",
+              "word": "case"
+            },
+            {
+              "confidence": 0.72053999,
+              "endTime": "330.700s",
+              "startTime": "330.200s",
+              "word": "and"
+            },
+            {
+              "confidence": 0.74209303,
+              "endTime": "331.100s",
+              "startTime": "330.900s",
+              "word": "you"
+            },
+            {
+              "confidence": 0.67130464,
+              "endTime": "331.300s",
+              "startTime": "331.100s",
+              "word": "can"
+            },
+            {
+              "confidence": 0.69568241,
+              "endTime": "331.800s",
+              "startTime": "331.300s",
+              "word": "see"
+            },
+            {
+              "confidence": 0.7769503,
+              "endTime": "333.200s",
+              "startTime": "332.600s",
+              "word": "it's"
+            },
+            {
+              "confidence": 0.77695006,
+              "endTime": "334s",
+              "startTime": "333.700s",
+              "word": "what"
+            },
+            {
+              "confidence": 0.61456609,
+              "endTime": "334.500s",
+              "startTime": "334.100s",
+              "word": "I"
+            },
+            {
+              "confidence": 0.73281723,
+              "endTime": "334.900s",
+              "startTime": "334.500s",
+              "word": "have"
+            },
+            {
+              "confidence": 0.67361611,
+              "endTime": "335.900s",
+              "startTime": "334.900s",
+              "word": "expected"
+            },
+            {
+              "confidence": 0.81536674,
+              "endTime": "336.600s",
+              "startTime": "336.200s",
+              "word": "it's"
+            },
+            {
+              "confidence": 0.71772927,
+              "endTime": "337.100s",
+              "startTime": "336.900s",
+              "word": "a"
+            },
+            {
+              "confidence": 0.72893387,
+              "endTime": "337.700s",
+              "startTime": "337.100s",
+              "word": "single"
+            },
+            {
+              "confidence": 0.85834968,
+              "endTime": "338.200s",
+              "startTime": "337.700s",
+              "word": "trading"
+            },
+            {
+              "confidence": 0.77158445,
+              "endTime": "338.900s",
+              "startTime": "338.200s",
+              "word": "widget"
+            },
+            {
+              "confidence": 0.73531139,
+              "endTime": "339.400s",
+              "startTime": "339s",
+              "word": "with"
+            },
+            {
+              "confidence": 0.77695006,
+              "endTime": "340.500s",
+              "startTime": "340.300s",
+              "word": "the"
+            },
+            {
+              "confidence": 0.712309,
+              "endTime": "341.400s",
+              "startTime": "340.500s",
+              "word": "powerful"
+            },
+            {
+              "confidence": 0.84723294,
+              "endTime": "342.200s",
+              "startTime": "341.400s",
+              "word": "API"
+            },
+            {
+              "confidence": 0.7617476,
+              "endTime": "342.500s",
+              "startTime": "342.200s",
+              "word": "from"
+            },
+            {
+              "confidence": 0.76174748,
+              "endTime": "342.600s",
+              "startTime": "342.500s",
+              "word": "the"
+            },
+            {
+              "confidence": 0.375,
+              "endTime": "343.200s",
+              "startTime": "342.600s",
+              "word": "Xscape"
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "343.650s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.82512778,
+          "transcript": " you can have yours or you can create any nft Marketplace and minted to be the owner",
+          "words": [
+            {
+              "confidence": 0.91283858,
+              "endTime": "345.200s",
+              "startTime": "345s",
+              "word": "you"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "345.400s",
+              "startTime": "345.200s",
+              "word": "can"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "345.700s",
+              "startTime": "345.400s",
+              "word": "have"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "346.300s",
+              "startTime": "345.700s",
+              "word": "yours"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "346.700s",
+              "startTime": "346.300s",
+              "word": "or"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "347.300s",
+              "startTime": "347.100s",
+              "word": "you"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "347.500s",
+              "startTime": "347.300s",
+              "word": "can"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "348.300s",
+              "startTime": "347.500s",
+              "word": "create"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "349.300s",
+              "startTime": "348.700s",
+              "word": "any"
+            },
+            {
+              "confidence": 0.52963239,
+              "endTime": "350.200s",
+              "startTime": "349.300s",
+              "word": "nft"
+            },
+            {
+              "confidence": 0.79100728,
+              "endTime": "351.300s",
+              "startTime": "350.300s",
+              "word": "Marketplace"
+            },
+            {
+              "confidence": 0.712744,
+              "endTime": "352.700s",
+              "startTime": "352.200s",
+              "word": "and"
+            },
+            {
+              "confidence": 0.73016191,
+              "endTime": "353.500s",
+              "startTime": "352.700s",
+              "word": "minted"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "353.700s",
+              "startTime": "353.500s",
+              "word": "to"
+            },
+            {
+              "confidence": 0.67737472,
+              "endTime": "354.100s",
+              "startTime": "353.700s",
+              "word": "be"
+            },
+            {
+              "confidence": 0.71712172,
+              "endTime": "354.600s",
+              "startTime": "354.400s",
+              "word": "the"
+            },
+            {
+              "confidence": 0.74074459,
+              "endTime": "355.100s",
+              "startTime": "354.600s",
+              "word": "owner"
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "355.620s"
+    },
+    {
+      "alternatives": [
+        {
+          "confidence": 0.91283852,
+          "transcript": " this is all thank you for watching",
+          "words": [
+            {
+              "confidence": 0.91283858,
+              "endTime": "356.600s",
+              "startTime": "356.400s",
+              "word": "this"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "356.900s",
+              "startTime": "356.600s",
+              "word": "is"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "357.400s",
+              "startTime": "356.900s",
+              "word": "all"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "358.300s",
+              "startTime": "357.900s",
+              "word": "thank"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "358.500s",
+              "startTime": "358.300s",
+              "word": "you"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "358.700s",
+              "startTime": "358.500s",
+              "word": "for"
+            },
+            {
+              "confidence": 0.91283858,
+              "endTime": "359.400s",
+              "startTime": "358.700s",
+              "word": "watching"
+            }
+          ]
+        }
+      ],
+      "languageCode": "en-us",
+      "resultEndTime": "359.790s"
+    }
+  ]
+}

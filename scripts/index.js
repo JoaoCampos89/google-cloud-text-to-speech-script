@@ -8,9 +8,9 @@ const util = require("util");
 const client = new textToSpeech.TextToSpeechClient();
 async function quickStart() {
   // The text to synthesize
-  fs.readdir("./texts/DexKitExplainer2", (err, files) => {
+  fs.readdir("./texts/DexKitShowcase", (err, files) => {
     files.forEach(async (file) => {
-      const text = fs.readFileSync(`./texts/DexKitExplainer2/${file}`);
+      const text = fs.readFileSync(`./texts/DexKitShowcase/${file}`);
       const request = {
         input: {
           text: text,
@@ -30,7 +30,7 @@ async function quickStart() {
       // Write the binary audio content to a local file
       const writeFile = util.promisify(fs.writeFile);
       await writeFile(
-        `./audios/DexKitExplainer2/${file.split(".")[0]}.mp3`,
+        `./audios/DexKitShowcase/${file.split(".")[0]}.mp3`,
         response.audioContent,
         "binary"
       );

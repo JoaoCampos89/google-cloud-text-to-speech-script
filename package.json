@@ -11,7 +11,8 @@
     "convert-transcriptions-to-audio": "node scripts/convertTranscriptionsToSpeech.js",
     "convert-single-transcription-to-audio": "node scripts/convertTranscriptionToSpeech.js",
     "parse-transcripted-files": "node scripts/parseTranscriptions.js",
-    "convert-transcripted-files-to-ssml": "node scripts/convertTranscriptionsSSML.js"
+    "convert-transcripted-files-to-ssml": "node scripts/convertTranscriptionsSSML.js",
+    "convert-transcripted-file-to-ssml-in-parts": "node scripts/convertTranscriptionSSMLSplit.js"
   },
   "dependencies": {
     "@google-cloud/speech": "^5.1.0",

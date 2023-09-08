@@ -1,0 +1,356 @@
+[
+  {
+    "transcript": "the only fans for crypto has arrived. Yes, my friends, this is a new functionality of DexKit crypto apps that allows creators, designers, developers and everyone to gate their premium content for their audiences",
+    "confidence": 0.9128384,
+    "startTime": "1.900s",
+    "endTime": "25.200s"
+  },
+  {
+    "transcript": " users will be able to hide content and use it as premium for their loyal audiences",
+    "confidence": 0.6497504,
+    "startTime": "26.200s",
+    "endTime": "36.200s"
+  },
+  {
+    "transcript": " Possibilities are endless for the Creator's because it will be able to use this functionality using any kind of token. Let's dive in into this new functionality. Yf you didn't created any crypto app before",
+    "confidence": 0.8135452,
+    "startTime": "37.600s",
+    "endTime": "60.700s"
+  },
+  {
+    "transcript": " please check out the links in the description and learn how to create any cryptoapp with DexAppBuilder, from nft marketplaces to DEX aggregators and also monetized blogs.",
+    "confidence": 0.804668,
+    "startTime": "62s",
+    "endTime": "79.200s"
+  },
+  {
+    "transcript": " Let's go to the explanation of this feature",
+    "confidence": 0.9128385,
+    "startTime": "81.100s",
+    "endTime": "85.600s"
+  },
+  {
+    "transcript": " let's assume that you have created your crpto app with the tool. Ythis is the dashboard of your crypto app. Here you will find the name of your product.",
+    "confidence": 0.91275424,
+    "startTime": "86.900s",
+    "endTime": "106.500s"
+  },
+  {
+    "transcript": "I want to show premium content to some of my audience",
+    "confidence": 0.91283864,
+    "startTime": "108.500s",
+    "endTime": "117.100s"
+  },
+  {
+    "transcript": " that audience are my token holders and all those that bought my nfts",
+    "confidence": 0.8829047,
+    "startTime": "118.900s",
+    "endTime": "127.200s"
+  },
+  {
+    "transcript": " so if this is the case you need first to import all the data of your NFTs and your tokens in data",
+    "confidence": 0.9114912,
+    "startTime": "128.900s",
+    "endTime": "142.300s"
+  },
+  {
+    "transcript": " you can choose between Collections and tokens",
+    "confidence": 0.88665134,
+    "startTime": "143.600s",
+    "endTime": "147.300s"
+  },
+  {
+    "transcript": " if you choose a collection",
+    "confidence": 0.9128386,
+    "startTime": "149.500s",
+    "endTime": "151.900s"
+  },
+  {
+    "transcript": " you need to go to the bottom, click on ADD collection and input all the data for the collection. when you finish you should click on save and you will see your new collection here. The one that we're about to use",
+    "confidence": 0.91283834,
+    "startTime": "153.400s",
+    "endTime": "176.200s"
+  },
+  {
+    "transcript": " please remember always to click on Save because this will assure that your content will be properly saved and you won't lose your progress",
+    "confidence": 0.9128385,
+    "startTime": "177.800s",
+    "endTime": "191.900s"
+  },
+  {
+    "transcript": " if you're willing to host your gated content with token requirements go to token section",
+    "confidence": 0.9128387,
+    "startTime": "193.300s",
+    "endTime": "201.700s"
+  },
+  {
+    "transcript": " click on the import button and input all the token details",
+    "confidence": 0.91283864,
+    "startTime": "202.800s",
+    "endTime": "211.200s"
+  },
+  {
+    "transcript": ", click on import",
+    "confidence": 0.9128386,
+    "startTime": "212.800s",
+    "endTime": "216.100s"
+  },
+  {
+    "transcript": " but before doing this please check in the list below if any of those default tokens are the ones that you're looking for this system is also compatible with any custom token created on the supported networks",
+    "confidence": 0.9128384,
+    "startTime": "217.500s",
+    "endTime": "237s"
+  },
+  {
+    "transcript": " as you can see here we are using an imported token",
+    "confidence": 0.7912192,
+    "startTime": "240s",
+    "endTime": "245.300s"
+  },
+  {
+    "transcript": " entry for my gated content let's go now to the Gated content section to show you how this works after you finish here please click again on save button confirm that your product is correctly saved and let's dive in into pages",
+    "confidence": 0.8480082,
+    "startTime": "246.500s",
+    "endTime": "278.200s"
+  },
+  {
+    "transcript": " Here lays my home page some sections plenty of sections that are part of my nft Marketplace. it looks like this. is the home or the main page, the one you're looking right now",
+    "confidence": 0.80652446,
+    "startTime": "280s",
+    "endTime": "302s"
+  },
+  {
+    "transcript": " those are some of the collections",
+    "confidence": 0.9128385,
+    "startTime": "303.300s",
+    "endTime": "306.300s"
+  },
+  {
+    "transcript": " what do I have to do if I need to create a new page that will host the Gated content?",
+    "confidence": 0.8167584,
+    "startTime": "309.200s",
+    "endTime": "318.200s"
+  },
+  {
+    "transcript": " we need to go to create new page button here",
+    "confidence": 0.9128386,
+    "startTime": "319.600s",
+    "endTime": "325.700s"
+  },
+  {
+    "transcript": " create a title for the page that can be anything you choose",
+    "confidence": 0.879649,
+    "startTime": "328.700s",
+    "endTime": "332.700s"
+  },
+  {
+    "transcript": " and clicking on save this will create our new page",
+    "confidence": 0.9128386,
+    "startTime": "334.500s",
+    "endTime": "339.100s"
+  },
+  {
+    "transcript": " we will see here the Gated conditions button. we need to click on there and set our conditions. as the owner of this private web page enter the specific conditions that user must meet to access. Users must fulfill these conditions that will ensure that only eligible users have granted access",
+    "confidence": 0.86280215,
+    "startTime": "340.600s",
+    "endTime": "370.200s"
+  },
+  {
+    "transcript": " the first condition will be a coin or an NFT collection. let's use a coin or a token",
+    "confidence": 0.874227,
+    "startTime": "370.400s",
+    "endTime": "376.700s"
+  },
+  {
+    "transcript": " which token are we selecting here? we can chooose here",
+    "confidence": 0.8022211,
+    "startTime": "377.900s",
+    "endTime": "383.900s"
+  },
+  {
+    "transcript": " MATIC tokens for holders",
+    "confidence": 0.801575,
+    "startTime": "385.400s",
+    "endTime": "387.900s"
+  },
+  {
+    "transcript": " Lets add the amount to unlock",
+    "confidence": 0.49311757,
+    "startTime": "390.400s",
+    "endTime": "391.600s"
+  },
+  {
+    "transcript": " now let's add another condition",
+    "confidence": 0.75531864,
+    "startTime": "393.300s",
+    "endTime": "398.700s"
+  },
+  {
+    "transcript": " if your visitor clicks on the private content page",
+    "confidence": 0.81883764,
+    "startTime": "400.300s",
+    "endTime": "410.100"
+  },
+  {
+    "transcript": " and have at least one of those",
+    "confidence": 0.9128385,
+    "startTime": "411.400s",
+    "endTime": "414s"
+  },
+  {
+    "transcript": " it will be able to see the page as well",
+    "confidence": 0.89027226,
+    "startTime": "415.800s",
+    "endTime": "418.100s"
+  },
+  {
+    "transcript": " this is an OR condition",
+    "confidence": 0.7785042,
+    "startTime": "419.200s",
+    "endTime": "422.300s"
+  },
+  {
+    "transcript": " can be an AND condition as well",
+    "confidence": 0.9128385,
+    "startTime": "423.800s",
+    "endTime": "427.100s"
+  },
+  {
+    "transcript": " the OR condition is satisfied when usrs meets the criteria for the requested token or if meets the criteria for NFT holding. If its positive it will see the content as well",
+    "confidence": 0.87171,
+    "startTime": "428.500s",
+    "endTime": "443.600s"
+  },
+  {
+    "transcript": " AND",
+    "confidence": 0.89885575,
+    "startTime": "445s",
+    "endTime": "445.700s"
+  },
+  {
+    "transcript": "works in both ways",
+    "confidence": 0.9128386,
+    "startTime": "447s",
+    "endTime": "449.200s"
+  },
+  {
+    "transcript": " if any of those both conditions are fulfilled the user will be able to see the content. let's add the and condition and click on Save",
+    "confidence": 0.6720672,
+    "startTime": "450s",
+    "endTime": "464s"
+  },
+  {
+    "transcript": "Here you will able to add",
+    "confidence": 0.7741694,
+    "startTime": "465.600s",
+    "endTime": "468.400s"
+  },
+  {
+    "transcript": " sections that were created by default to help you save time. You will be able also to add your custom section with all the content you are willing to show",
+    "confidence": 0.91022354,
+    "startTime": "469.900s",
+    "endTime": "482.600s"
+  },
+  {
+    "transcript": " with endless possibilities",
+    "confidence": 0.91283864,
+    "startTime": "483.700s",
+    "endTime": "486.300s"
+  },
+  {
+    "transcript": " we have another videos in the description about how to use this feature. we will leave also the link for the documentation for all those who prefers read instead watching videos",
+    "confidence": 0.91283846,
+    "startTime": "487.700s",
+    "endTime": "502.100s"
+  },
+  {
+    "transcript": " so you will use our content editor in the most efficient way and create delightful private pages for your fans",
+    "confidence": 0.91283864,
+    "startTime": "503.700s",
+    "endTime": "515.900s"
+  },
+  {
+    "transcript": " do not forget to click on Save everytime that you do changes in your page in that case you will assure that you contend won't be lost",
+    "confidence": 0.866477,
+    "startTime": "517.800s",
+    "endTime": "532.600s"
+  },
+  {
+    "transcript": " now it's time to add our page link to our top menu",
+    "confidence": 0.8898754,
+    "startTime": "534.100s",
+    "endTime": "541.900s"
+  },
+  {
+    "transcript": " so in this case we will assure that our visitors will be able to enter on this gated content section and watch the content if they have their Holdings that you have before requested",
+    "confidence": 0.9128384,
+    "startTime": "543.200s",
+    "endTime": "563.500s"
+  },
+  {
+    "transcript": " so now let's click on menu click on the add menu button",
+    "confidence": 0.90750813,
+    "startTime": "564.600s",
+    "endTime": "570.600s"
+  },
+  {
+    "transcript": " the type will be a page and the name will be the one you choose. Hit on save and click in the arrows for positioning.",
+    "confidence": 0.83019215,
+    "startTime": "572s",
+    "endTime": "583.500s"
+  },
+  {
+    "transcript": " click on Save when finished to confirm again. If your wallet ask for digital signature, sign it and go forward",
+    "confidence": 0.78291357,
+    "startTime": "585.200s",
+    "endTime": "597.100s"
+  },
+  {
+    "transcript": " now we added our private page to our NFT Marketplace or crypto app",
+    "confidence": 0.91283864,
+    "startTime": "598.400s",
+    "endTime": "609.900s"
+  },
+  {
+    "transcript": " let's wait until deployment is successful in order to see the changes in our product",
+    "confidence": 0.76039374,
+    "startTime": "611s",
+    "endTime": "623s"
+  },
+  {
+    "transcript": " page is already in the top menu let's click on there",
+    "confidence": 0.8578346,
+    "startTime": "624.200s",
+    "endTime": "628.800s"
+  },
+  {
+    "transcript": " and",
+    "confidence": 0.90941447,
+    "startTime": "630.100s",
+    "endTime": "630.700s"
+  },
+  {
+    "transcript": " here we will showing our content all the content that we are preparing to gate to our customers to our client and here are or the requirements that must be fulfilled to satisfy all your customers and visitors giving them",
+    "confidence": 0.8323115,
+    "startTime": "632s",
+    "endTime": "657.400s"
+  },
+  {
+    "transcript": " custom content and tailored content for their needs you will be able to control the subscriptions of your people and also change the requirements every time so if you want to change an mft collection for another one as the Gated content you will be able to do so",
+    "confidence": 0.82814705,
+    "startTime": "658.500s",
+    "endTime": "686.200s"
+  },
+  {
+    "transcript": " you will find in the description of this video all the links related to this crypto app: how to deploy yours, how to create all the custom content inside your crypto app, how to set your fees and even more",
+    "confidence": 0.88209426,
+    "startTime": "687.900s",
+    "endTime": "710.700s"
+  },
+  {
+    "transcript": " thank you for watching this video and do not forget to like and subscribe",
+    "confidence": 0.9128385,
+    "startTime": "711.800s",
+    "endTime": "715.800s"
+  }
+]
